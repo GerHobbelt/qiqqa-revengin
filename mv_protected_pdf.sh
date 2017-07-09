@@ -5,11 +5,17 @@
 # https://stackoverflow.com/questions/35594240/how-to-check-if-pdf-is-password-protected-using-static-tools#
 #
 
-pushd .
-if [ -d "$1" ] ; then
-	cd $1
+
+if ! test -f $QPDFDIR/qpdf.exe ; then
+	echo "### ERROR: QPDFDIR not set correctly or QPDF binary not installed in the expected spot. Aborting."
+	exit 1
 fi
-echo 'Working directory: ' $( pwd )
+
+
+pushd .               																	2> /dev/null  > /dev/null 
+
+
+
 
 shopt -s globstar
 
@@ -24,17 +30,17 @@ if test -d __prot ; then
 	for f in *.pdf ; do
 		if test -f "$f" && ! test -f "__decrypted/$f" ; then
 			echo "Decrypting $f..."
-		  qpdf --decrypt  "$f" "__decrypted/$f"
+		  echo qpdf --decrypt  "$f" "__decrypted/$f"
 		fi
 	done
 
 	cd ..
 	# remove directories when they're empty, i.e. when there weren't any crypted PDFs to treat:
-  rmdir __prot/__decrypted               																		2> /dev/null  > /dev/null 
-  rmdir __prot                          																		2> /dev/null  > /dev/null 
 
+	rmdir __prot/__decrypted               																		2> /dev/null  > /dev/null 
+	rmdir __prot                          																		2> /dev/null  > /dev/null 
 fi
 
 
-popd
+popd               																	2> /dev/null  > /dev/null 
 
