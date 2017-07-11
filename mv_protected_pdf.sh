@@ -11,21 +11,27 @@ if ! test -f $QPDFDIR/qpdf.exe ; then
     exit 1
 fi
 
+if ! test -d "$QIQQA_BUFFER_DIR" ; then
+    echo "### ERROR: The path to the MONITOR BUFFER directory tree which is used to dump and prep PDFs before sending them to the monitor directory is ill configured. Correct the script. Aborting."
+    exit 1
+fi
 
-pushd .                                                                                                         2> /dev/null  > /dev/null
+
+
+pushd .                                                                                                     2> /dev/null  > /dev/null
 
 
 
 
 shopt -s globstar
 
-mkdir -p __prot/__decrypted                                                                                     2> /dev/null  > /dev/null
-grep -e '\/Encrypt' -l -- **/*.pdf | grep -v -e '__prot/' | xargs --replace=XXX  cp -n -- XXX __prot/
-rmdir __prot                                                                                                    2> /dev/null  > /dev/null
+mkdir -p "$QIQQA_BUFFER_DIR/__prot/__decrypted"                                                             2> /dev/null  > /dev/null
+grep -e '\/Encrypt' -l -- **/*.pdf | xargs --replace=XXX  cp -n -- XXX "$QIQQA_BUFFER_DIR/__prot/"
+rmdir "$QIQQA_BUFFER_DIR/__prot"                                                                            2> /dev/null  > /dev/null
 
 # now go and decrypt those PDF files which have not been decrypted yet:
-if test -d __prot ; then
-    cd __prot
+if test -d "$QIQQA_BUFFER_DIR/__prot" ; then
+    cd "$QIQQA_BUFFER_DIR/__prot"
     echo "Going to decrypt all not-yet-decrypted files..."
     for f in *.pdf ; do
         if test -f "$f" && ! test -f "__decrypted/$f" ; then
@@ -37,10 +43,10 @@ if test -d __prot ; then
     cd ..
     # remove directories when they're empty, i.e. when there weren't any crypted PDFs to treat:
 
-    rmdir __prot/__decrypted                                                                                    2> /dev/null  > /dev/null
-    rmdir __prot                                                                                                2> /dev/null  > /dev/null
+    rmdir __prot/__decrypted                                                                                2> /dev/null  > /dev/null
+    rmdir __prot                                                                                            2> /dev/null  > /dev/null
 fi
 
 
-popd                                                                                                            2> /dev/null  > /dev/null
+popd                                                                                                        2> /dev/null  > /dev/null
 

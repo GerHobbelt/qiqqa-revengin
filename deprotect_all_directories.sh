@@ -25,15 +25,31 @@ if ! test -f $QPDFDIR/qpdf.exe ; then
     exit 1
 fi
 
-QIQQA_MONITOR_DIR="$( realpath $TOOLDIR/../Sopkonijn/\!QIQQA-pdf-watch-dir )"
-QIQQA_DOCUMENTS_DIR="$( realpath $TOOLDIR/base/Guest/documents )"
+QIQQA_MONITOR_DIR=/w/Sopkonijn/\!QIQQA-pdf-watch-dir
+QIQQA_BUFFER_DIR=/w/Sopkonijn/\!QIQQA-pdf-buffer-dir
+QIQQA_DB_BASE_DIR="$( realpath $TOOLDIR/base/Guest )"
+QIQQA_DOCUMENTS_DIR="$( realpath $QIQQA_DB_BASE_DIR/documents )"
 
 if ! test -d "$QIQQA_DOCUMENTS_DIR" ; then
-    echo "### ERROR: we're not pointing at the documents store of QIQQA itself. Correct the script. Aborting."
-    exit 1
+    if ! test -d "$QIQQA_DB_BASE_DIR" ; then
+        echo "### ERROR: we're not pointing at the documents store of QIQQA itself. Correct the script. Aborting."
+        exit 1
+    else
+        mkdir -p "$QIQQA_DOCUMENTS_DIR"
+        if ! test -d "$QIQQA_DOCUMENTS_DIR" ; then
+            echo "### ERROR: we're not able to create the documents store of QIQQA itself. Correct the script. Aborting."
+            exit 1
+        fi
+    fi
 fi
+
 if ! test -d "$QIQQA_MONITOR_DIR" ; then
     echo "### ERROR: The path to the directory tree which is monitored by QIQQA for new PDFs is ill configured. Correct the script. Aborting."
+    exit 1
+fi
+
+if ! test -d "$QIQQA_BUFFER_DIR" ; then
+    echo "### ERROR: The path to the MONITOR BUFFER directory tree which is used to dump and prep PDFs before sending them to the monitor directory is ill configured. Correct the script. Aborting."
     exit 1
 fi
 
