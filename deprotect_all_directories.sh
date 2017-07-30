@@ -76,5 +76,8 @@ cd $QIQQA_DOCUMENTS_DIR
 echo "Processing QIQQA Store itself: $(pwd)"
 $TOOLDIR/mv_protected_pdf.sh
 
+cd $QIQQA_DOCUMENTS_DIR
+$TOOLDIR/cp_all_pdf_from_qiqqa_store.sh
+
 
 
