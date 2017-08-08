@@ -11,6 +11,10 @@ if ! test -f $QPDFDIR/qpdf.exe ; then
     exit 1
 fi
 
+if test -n "$1" && test -d "$1" ; then
+    QIQQA_BUFFER_DIR="$( realpath $1 )"
+fi
+
 if ! test -d "$QIQQA_BUFFER_DIR" ; then
     echo "### ERROR: The path to the MONITOR BUFFER directory tree which is used to dump and prep PDFs before sending them to the monitor directory is ill configured. Correct the script. Aborting."
     exit 1

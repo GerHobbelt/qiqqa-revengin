@@ -29,6 +29,8 @@ QIQQA_MONITOR_DIR=/w/Sopkonijn/\!QIQQA-pdf-watch-dir
 QIQQA_BUFFER_DIR=/w/Sopkonijn/\!QIQQA-pdf-buffer-dir
 QIQQA_DB_BASE_DIR="$( realpath $TOOLDIR/base/Guest )"
 QIQQA_DOCUMENTS_DIR="$( realpath $QIQQA_DB_BASE_DIR/documents )"
+OMNIPAGE_INPUT_DIR=/w/Sopkonijn/\!OmniPage-input-dir
+
 
 if ! test -d "$QIQQA_DOCUMENTS_DIR" ; then
     if ! test -d "$QIQQA_DB_BASE_DIR" ; then
@@ -69,14 +71,18 @@ set +a
 # done
 
 
+if test -d "$OMNIPAGE_INPUT_DIR" ; then
+    cd $OMNIPAGE_INPUT_DIR
+    echo "Processing OmniPage input dirrectory: $(pwd)"
+    $TOOLDIR/mv_protected_pdf.sh            "$OMNIPAGE_INPUT_DIR"
+    $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh "$OMNIPAGE_INPUT_DIR"
+fi
+
 # also check the Qiqqa store itself!
 #cd ~/AppData/Local/Quantisle/Qiqqa/Guest/documents
 cd $QIQQA_DOCUMENTS_DIR
-
 echo "Processing QIQQA Store itself: $(pwd)"
 $TOOLDIR/mv_protected_pdf.sh
-
-cd $QIQQA_DOCUMENTS_DIR
 $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh
 
 
