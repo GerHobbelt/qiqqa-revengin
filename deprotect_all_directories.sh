@@ -71,12 +71,12 @@ set +a
 # done
 
 
-if test -d "$OMNIPAGE_INPUT_DIR" ; then
-    cd $OMNIPAGE_INPUT_DIR
-    echo "Processing OmniPage input dirrectory: $(pwd)"
-    $TOOLDIR/mv_protected_pdf.sh            "$OMNIPAGE_INPUT_DIR"
-    $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh "$OMNIPAGE_INPUT_DIR"
-fi
+# if test -d "$OMNIPAGE_INPUT_DIR" ; then
+#     cd $OMNIPAGE_INPUT_DIR
+#     echo "Processing OmniPage input dirrectory: $(pwd)"
+#     $TOOLDIR/mv_protected_pdf.sh            "$OMNIPAGE_INPUT_DIR"
+#     $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh "$OMNIPAGE_INPUT_DIR"
+# fi
 
 # also check the Qiqqa store itself!
 #cd ~/AppData/Local/Quantisle/Qiqqa/Guest/documents
