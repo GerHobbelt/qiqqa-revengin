@@ -19,17 +19,25 @@ TOOLDIR=/d/Qiqqa
 echo "Tools directory: $TOOLDIR"
 
 # qpdf binaries are located in this directory:
-QPDFDIR=$TOOLDIR/qpdf-6.0.0/bin
+QPDFDIR=$TOOLDIR/qpdf-8.0.2/bin
 if ! test -f $QPDFDIR/qpdf.exe ; then
     echo "### ERROR: TOOLDIR or QPDFDIR not set correctly or QPDF binary not installed in the expected spot. Aborting."
     exit 1
 fi
 
+XPDFDIR=$TOOLDIR/xpdf-tools-win-4.00/bin64
+if ! test -f $XPDFDIR/pdftotext.exe ; then
+    echo "### ERROR: TOOLDIR or XPDFDIR not set correctly or PDFTOTEXT binary not installed in the expected spot. Aborting."
+    exit 1
+fi
+
 QIQQA_MONITOR_DIR=/w/Sopkonijn/\!QIQQA-pdf-watch-dir
 QIQQA_BUFFER_DIR=/w/Sopkonijn/\!QIQQA-pdf-buffer-dir
-QIQQA_DB_BASE_DIR="$( realpath $TOOLDIR/base/Guest )"
+QIQQA_TOP_BASE_DIR="$( realpath $TOOLDIR/base )"
+QIQQA_DB_BASE_DIR="$( realpath $QIQQA_TOP_BASE_DIR/Guest )"
 QIQQA_DOCUMENTS_DIR="$( realpath $QIQQA_DB_BASE_DIR/documents )"
 OMNIPAGE_INPUT_DIR=/w/Sopkonijn/\!OmniPage-input-dir
+READIRIS_WATCH_DIR=/w/Sopkonijn/ReadIRIS-watched-dir
 
 
 if ! test -d "$QIQQA_DOCUMENTS_DIR" ; then
@@ -80,10 +88,19 @@ set +a
 
 # also check the Qiqqa store itself!
 #cd ~/AppData/Local/Quantisle/Qiqqa/Guest/documents
-cd $QIQQA_DOCUMENTS_DIR
+cd "$QIQQA_DOCUMENTS_DIR"
 echo "Processing QIQQA Store itself: $(pwd)"
 $TOOLDIR/mv_protected_pdf.sh
 $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh
 
+cd "$QIQQA_TOP_BASE_DIR"
+echo "Processing **all** QIQQA Stores now: $(pwd)"
+for f in $( find "$QIQQA_TOP_BASE_DIR" -mindepth 1 -maxdepth 1 -type d ! -name __prot ) ; do
+    echo "Processing directory: $f"
+    cd "$f"
+    $TOOLDIR/mv_protected_pdf.sh
+    $TOOLDIR/cp_all_pdf_from_qiqqa_store.sh
+done
 
+$TOOLDIR/cp_nontext_pdf_from_store_to_ocr_watch_dir.sh
 

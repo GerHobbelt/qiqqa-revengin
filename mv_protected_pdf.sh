@@ -29,6 +29,7 @@ pushd .                                                                         
 
 shopt -s globstar
 
+mkdir -p "$QIQQA_BUFFER_DIR/__possibly_erroneous"                                                           2> /dev/null  > /dev/null
 mkdir -p "$QIQQA_BUFFER_DIR/__prot/__decrypted"                                                             2> /dev/null  > /dev/null
 grep -e '\/Encrypt' -l -- **/*.pdf | xargs --replace=XXX  cp -n -- XXX "$QIQQA_BUFFER_DIR/__prot/"
 rmdir "$QIQQA_BUFFER_DIR/__prot"                                                                            2> /dev/null  > /dev/null
@@ -40,7 +41,13 @@ if test -d "$QIQQA_BUFFER_DIR/__prot" ; then
     for f in *.pdf ; do
         if test -f "$f" && ! test -f "__decrypted/$f" ; then
             echo "Decrypting $f..."
-            $QPDFDIR/qpdf --decrypt "$f" "__decrypted/$f"
+            if ( "$QPDFDIR/qpdf" --decrypt "$f" "__decrypted/$f" ) ; then
+                # all ok
+                echo "."
+            else
+                echo "Probably erroneous PDF detected: $f. Copying to error directory for manual inspection."
+                cp -n -- "$f" "$QIQQA_BUFFER_DIR/__possibly_erroneous/"                                     2> /dev/null  > /dev/null
+            fi
         fi
     done
 

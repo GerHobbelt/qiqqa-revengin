@@ -4,7 +4,7 @@
 #
 
 
-if ! test -f $QPDFDIR/qpdf.exe ; then
+if ! test -f "$QPDFDIR/qpdf.exe" ; then
     echo "### ERROR: QPDFDIR not set correctly or QPDF binary not installed in the expected spot. Aborting."
     exit 1
 fi
@@ -30,6 +30,7 @@ pushd .                                                                         
 shopt -s globstar
 
 # copy all processed PDFs to target directory to become one big collective:
+mkdir -p "$QIQQA_BUFFER_DIR/__possibly_erroneous"                                                           2> /dev/null  > /dev/null
 mkdir -p "$QIQQA_BUFFER_DIR/__store/__decrypted"                                                            2> /dev/null  > /dev/null
 for f in $( find . -type d ) ; do
     pushd .                                                                                                 2> /dev/null  > /dev/null
@@ -47,7 +48,13 @@ if test -d "$QIQQA_BUFFER_DIR/__store" ; then
     for f in *.pdf ; do
         if test -f "$f" && ! test -f "__decrypted/$f" ; then
             echo "Decrypting $f..."
-            $QPDFDIR/qpdf --decrypt "$f" "__decrypted/$f"
+            if ( "$QPDFDIR/qpdf" --decrypt "$f" "__decrypted/$f" ) ; then
+                # all ok
+                echo "."
+            else
+                echo "Probably erroneous PDF detected: $f. Copying to error directory for manual inspection."
+                cp -n -- "$f" "$QIQQA_BUFFER_DIR/__possibly_erroneous/"                                     2> /dev/null  > /dev/null
+            fi
         fi
     done
 
