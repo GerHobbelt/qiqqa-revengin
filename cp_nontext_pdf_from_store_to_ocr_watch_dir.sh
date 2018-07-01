@@ -34,14 +34,21 @@ shopt -s globstar
 
 # copy all processed PDFs to target directory to become one big collective:
 mkdir -p "$QIQQA_BUFFER_DIR/__nontext"                                                                      2> /dev/null  > /dev/null
-mkdir -p "$QIQQA_BUFFER_DIR/__store"                                                                        2> /dev/null  > /dev/null
-cd "$QIQQA_BUFFER_DIR/__store"
+mkdir -p "$QIQQA_BUFFER_DIR/__store/__decrypted"                                                            2> /dev/null  > /dev/null
+# all PDFs are also in the __decrypted directory, unless they are faulty.
+# Hence we obtain our list from the decrypted directory so as not to feed
+# illegal/corrupted PDFs to the OCR application:
+cd "$QIQQA_BUFFER_DIR/__store/__decrypted"
+if ! test -f "$QIQQA_BUFFER_DIR/__nontext_detected_list.txt" ; then
+    echo "-------------------------------------------------------" > "$QIQQA_BUFFER_DIR/__nontext_detected_list.txt"
+fi
 for f in $( find . -type f -name '*.pdf' ) ; do
     # turn path into a unique filename so we can process both protected and unprotected PDFs, etc.:
     set g=$( echo $f | sed -e 's/[.]\\\//_/g' )
-    echo "Copying PDF file $f to ./__nontext/$g..."
+
     if grep "$f" "$QIQQA_BUFFER_DIR/__nontext_detected_list.txt" ; then
         # skip this one, we've already processed it!
+        echo "."
     else
         # check if the PDF produces sufficient readable text:
         if test $( "$XPDFDIR/pdftotext.exe" -nodiag -simple "$f" - | \
@@ -59,6 +66,7 @@ for f in $( find . -type f -name '*.pdf' ) ; do
             if $( echo "$f" | grep "__nontext" ) ; then
                 echo "TOO-LITTLE-CONTENT: $f" >> "$QIQQA_BUFFER_DIR/__nontext_detected_list.txt"
             else
+                echo "Copying PDF file $f to ./__nontext/$g..."
                 cp -n -- "$f" "$QIQQA_BUFFER_DIR/__nontext/$g"
                 if test -f "$QIQQA_BUFFER_DIR/__nontext/$g" ; then
                     echo "OCR: $f" >> "$QIQQA_BUFFER_DIR/__nontext_detected_list.txt"
