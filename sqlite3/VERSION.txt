@@ -1,0 +1,2 @@
+sqlite-tools-win32-x86-3240000
+sqlite-dll-win32-x86-3240000

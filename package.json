@@ -1,0 +1,14 @@
+{
+  "name": "qiqqa_tooling_up",
+  "version": "1.0.0",
+  "description": "shell scripts and other tools to work with / process QIQQA databases/repositories",
+  "main": "dump_qiqqa_sqlite_database.parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "zotero-bibtex-parse": "0.0.13"
+  }
+}

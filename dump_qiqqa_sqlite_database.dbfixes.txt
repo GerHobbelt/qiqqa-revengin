@@ -1,0 +1,288 @@
+BIBTEX PARSE ERROR:
+@book{semiconductor2012igbt,
+  title={HBD871/D: IGBT Applications (Handbook)},
+  author={Semiconductor, ON},publisher={ON Semiconductor}
+  year={2014}
+}
+bibtexParse error:  Token mismatch, expected "}" at index 139, found "year={2014}\n}"
+--------------------------------------------------
+@book{semiconductor2012igbt,
+  title={HBD871/D: IGBT Applications (Handbook)},
+  author={Semiconductor, ON},publisher={ON Semiconductor},
+  year={2014}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@book{semiconductor2014power,
+  title={HBD853/D: Power Factor Correction (PFC) Handbook-Choosing the Right Power Factor Controller Solution (5th edition)},
+  author={Semiconductor, ON},
+  publisher={ON Semiconductor},revision={5}
+  year={2014}
+}
+bibtexParse error:  Token mismatch, expected "}" at index 232, found "year={2014}\n}"
+--------------------------------------------------
+@book{semiconductor2014power,
+  title={HBD853/D: Power Factor Correction (PFC) Handbook-Choosing the Right Power Factor Controller Solution (5th edition)},
+  author={Semiconductor, ON},
+  publisher={ON Semiconductor},revision={5},
+  year={2014}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@article{handout2007introduction,
+  title={CS143: Handout 13: July 8, 2005: Introduction to yacc and bison},
+  year={2005}
+,author={Johnson, Maggie and Zelenski, Julie}
+bibtexParse error:  Token mismatch, expected "}" at index 168, found ""
+--------------------------------------------------
+@article{handout2007introduction,
+  title={CS143: Handout 13: July 8, 2005: Introduction to yacc and bison},
+  year={2005},
+  author={Johnson, Maggie and Zelenski, Julie}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@delete { delete }
+bibtexParse error:  Token mismatch, expected "," at index 17, found "}"
+--------------------------------------------------
+@delete{delete,
+  title={delete},author={delete},year={delete}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@article{cokol2007many,
+  title={How many scientific papers should be retracted?},
+  author={Cokol, Murat and Iossifov, Ivan and Rodriguez-Esteban, Raul and Rzhetsky, Andrey},
+  journal={EMBO reports},
+  volume={8},
+  number={5},
+  pages={422--423},
+  year={2007},
+  publisher={EMBO Press}
+also_contains={@article{garvalov2007mobility,
+  title={Mobility is not the only way forward},
+  author={Garvalov, Boyan K},
+  journal={EMBO reports},
+  volume={8},
+  number={5},
+  pages={422},
+  year={2007},
+  publisher={European Molecular Biology Organization}
+}}
+
+}
+bibtexParse error:  Token mismatch, expected "}" at index 291, found "also_contains"
+--------------------------------------------------
+@article{cokol2007many,
+  title={How many scientific papers should be retracted?},
+  author={Cokol, Murat and Iossifov, Ivan and Rodriguez-Esteban, Raul and Rzhetsky, Andrey},
+  journal={EMBO reports},
+  volume={8},
+  number={5},
+  pages={422--423},
+  year={2007},
+  publisher={EMBO Press}
+}
+--------------------------------------------------
+@article{garvalov2007mobility,
+  title={Mobility is not the only way forward},
+  author={Garvalov, Boyan K},
+  journal={EMBO reports},
+  volume={8},
+  number={5},
+  pages={422},
+  year={2007},
+  publisher={European Molecular Biology Organization}
+}
+===================================================
+BIBTEX PARSE ERROR:
+@phdthesis{王国辉2014开关电源中铝电解电容,
+  title={开关电源中铝电解电容 ESR 实时估测 (Aluminum electrolytic capacitor ESR real-time estimation for switching power supply)},
+  author={王国辉 and 关永 and 郑学艳 and 吴立锋 and 潘巍},
+  year={2014}
+}
+bibtexParse error:  Token mismatch, expected "," at index 11, found "王国辉2014开关电源中铝"
+---------------------------------------------------
+@phdthesis{alu01,
+  title={开关电源中铝电解电容 ESR 实时估测 (Aluminum electrolytic capacitor ESR real-time estimation for switching power supply)},
+  author={王国辉 and 关永 and 郑学艳 and 吴立锋 and 潘巍},
+  year={2014}
+}
+===================================================
+BIBTEX PARSE ERROR:
+@delete { delete }
+bibtexParse error:  Token mismatch, expected "," at index 17, found "}"
+--------------------------------------------------
+@delete{delete,
+  title={delete},author={delete},year={delete}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@appnote{???,
+title={Relays and switches: Contact Arc Phenomenon},
+publisher=Tyco Electronics},
+year={???},author={???}}
+bibtexParse error:  Value expected:Tyco Electronics},year={???},author={???}}
+--------------------------------------------------
+@appnote{???,
+  title={Relays and switches: Contact Arc Phenomenon},
+  publisher={Tyco Electronics},
+  year={???},
+  author={???}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@delete{}
+bibtexParse error:  Token mismatch, expected "," at index 8, found "}"
+--------------------------------------------------
+@delete{delete,
+  title={delete},author={delete},year={delete}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@empty{}
+bibtexParse error:  Token mismatch, expected "," at index 7, found "}"
+--------------------------------------------------
+@empty{empty,
+  nontitle={empty},nonauthor={empty}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@collection{isiamov1,
+title={Invited papers and accepted abstracts presented at the International Symposium on Innovations and Advancements in the Monitoring of Oxygenation and Ventilation (1SIAMOV 2007) convened at Duke University on March 15- 17, 2007},
+note={These papers and abstracts were published in December, 2007 as a supplement issue of the journal Anesthesia & Analgesia 105 (6S_Suppl)},
+editor={Philip E. Bickler, MD, PhD: Professor in Residence, University of California at San Francisco Medical Center}
+year={2007}}
+bibtexParse error:  Token mismatch, expected "}" at index 521, found "year={2007}}"
+---------------------------------------------------
+@collection{isiamov1,
+  title={Invited papers and accepted abstracts presented at the International Symposium on Innovations and Advancements in the Monitoring of Oxygenation and Ventilation (1SIAMOV 2007) convened at Duke University on March 15- 17, 2007},
+  note={These papers and abstracts were published in December, 2007 as a supplement issue of the journal Anesthesia & Analgesia 105 (6S_Suppl)},
+  editor={Philip E. Bickler, MD, PhD: Professor in Residence, University of California at San Francisco Medical Center},
+  year={2007}
+}
+===================================================
+BIBTEX PARSE ERROR:
+@delete{呂錦山2009台灣地區國際商港永續經營與發展之研究,
+  title={台灣地區國際商港永續經營與發展之研究},
+  author={呂錦山 and 桑國忠},
+  year={2009}
+}
+bibtexParse error:  Token mismatch, expected "," at index 8, found "呂錦山2009台灣地區國際"
+--------------------------------------------------
+@delete{delete,
+  title={delete},author={delete},year={delete}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@book{mitrinović1996handbook
+,       title   = {Handbook of number theory}
+,       author  = {Mitrinovi\\'c, D.S. and S\'andor, J. and Crstici, B.}
+,       volume  = {1}
+,       year    = {1996}
+,       publisher       = {Kluwer Academic Pub}
+}
+bibtexParse error:  Token mismatch, expected "," at index 15, found "ć1996handbook"
+--------------------------------------------------
+@book{mitrinovic1996handbook
+,       title   = {Handbook of number theory}
+,       author  = {Mitrinovi\'c, D.S. and S\'andor, J. and Crstici, B.}
+,       volume  = {1}
+,       year    = {1996}
+,       publisher       = {Kluwer Academic Pub}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@article{whelan 2010 effective czas reakcji latency rt
+,       author  = {Whelan, Robert}
+,       title   = {Effective analysis of reaction time data}
+,       journal = {The Psychological Record}
+,       year    = {2010}
+,       volume  = {58}
+,       number  = {3}
+,       pages   = {9}
+}
+bibtexParse error:  Token mismatch, expected "," at index 16, found "2010 effectiv"
+--------------------------------------------------
+@article{whelan2010
+,       author  = {Whelan, Robert}
+,       title   = {Effective analysis of reaction time data}
+,       journal = {The Psychological Record}
+,       year    = {2010}
+,       volume  = {58}
+,       number  = {3}
+,       pages   = {9}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@comment { BIBTEX_AUTO - GS }
+@article{hermans2012exact,
+  title={Exact and near-miss clone detection in spreadsheets},
+  author={Hermans, Felienne},
+  journal={TinyToCS$\}$},
+  volume={1},
+  year={2012}
+}
+bibtexParse error:  Token mismatch, expected "}" at index 173, found "$},\n  volume="
+--------------------------------------------------
+@comment { BIBTEX_AUTO - GS }
+@article{hermans2012exact,
+  title={Exact and near-miss clone detection in spreadsheets},
+  author={Hermans, Felienne},
+  journal={TinyToCS},
+  volume={1},
+  year={2012}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@book{hopcroft2001automata,
+  title={Introduction to automata theory, languages, and computation},
+  author={Hopcroft, John E and Motwani, Rajeev and Ullman, Jeffrey D},
+  year={2001},
+  publisher=Addison-Wesley}
+}
+bibtexParse error:  Value expected:Addison-Wesley}
+--------------------------------------------------
+@book{hopcroft2001automata,
+  title={Introduction to automata theory, languages, and computation},
+  author={Hopcroft, John E and Motwani, Rajeev and Ullman, Jeffrey D},
+  year={2001},
+  publisher={Addison-Wesley}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@specsheet{
+title={DHM3UM80: High Voltage Fast Recovery Diode},
+manufacturer={Hitachi}
+}
+bibtexParse error:  Token mismatch, expected "," at index 18, found "={DHM3UM80: H"
+--------------------------------------------------
+@specsheet{DHM3UM80,
+  title={DHM3UM80: High Voltage Fast Recovery Diode},
+  manufacturer={Hitachi}
+}
+==================================================
+BIBTEX PARSE ERROR:
+@comment { BIBTEX_AUTO - GS }
+@article{abraham2014fully,
+  title={Fully Dynamic All-Pairs Shortest Paths: Breaking the O (n) Barrier$\}$$\}$},
+  author={Abraham, Ittai and Chechik, Shiri and Talwar, Kunal},
+  journal={Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2014)$\}$},
+  volume={28},
+  pages={1--16},
+  year={2014},
+  publisher={Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik$\}$}
+}
+bibtexParse error:  Token mismatch, expected "}" at index 136, found "$$\\}$},\n  aut"
+--------------------------------------------------
+@comment { BIBTEX_AUTO - GS }
+@article{abraham2014fully,
+  title={Fully Dynamic All-Pairs Shortest Paths: Breaking the O(n) Barrier},
+  author={Abraham, Ittai and Chechik, Shiri and Talwar, Kunal},
+  journal={Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques (APPROX/RANDOM 2014)},
+  volume={28},
+  pages={1--16},
+  year={2014},
+  publisher={Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik}
+}
+==================================================
