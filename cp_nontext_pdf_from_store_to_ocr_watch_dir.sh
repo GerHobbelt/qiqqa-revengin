@@ -21,6 +21,21 @@ if ! test -d "$QIQQA_BUFFER_DIR" ; then
     exit 1
 fi
 
+if ! test -d "$QIQQA_MONITOR_DIR" ; then
+    echo "### ERROR: The path to the directory tree which is monitored by QIQQA for new PDFs is ill configured. Correct the script. Aborting."
+    exit 1
+fi
+
+if ! test -d "$READIRIS_WATCH_DIR" ; then
+    echo "### ERROR: The path to the READIRIS WATCH directory which is used to dump PDFs for ReadIRIS to process is ill configured. Correct the script. Aborting."
+    exit 1
+fi
+
+if ! test -d "$READIRIS_OUTPUT_DIR" ; then
+    echo "### ERROR: The path to the READIRIS OUTPUT directory which is used by ReadIRIS to dump the OCR'ed PDFs is ill configured. Correct the script. Aborting."
+    exit 1
+fi
+
 
 
 
@@ -79,21 +94,61 @@ done
 rmdir "$QIQQA_BUFFER_DIR/__store"                                                                           2> /dev/null  > /dev/null
 rmdir "$QIQQA_BUFFER_DIR/__nontext"                                                                         2> /dev/null  > /dev/null
 
+
 # now go and OCR those PDF files which have not been OCRed yet:
 if test -d "$QIQQA_BUFFER_DIR/__nontext" ; then
     cd "$QIQQA_BUFFER_DIR/__nontext"
     echo "Going to OCR all not-yet-decrypted files..."
     for f in *.pdf ; do
-        if test -f "$f" && ! test -f "__decrypted/$f" ; then
-            echo "Decrypting $f..."
+        bn=$(basename -s .pdf $f);
+        # skip this one when we already know ReadIRIS will crash processing this one:
+        if test -d "../__ReadIRIS_crashes_on_these" ; then
+            # see also: https://stackoverflow.com/questions/3294072/bash-get-last-dirname-filename-in-a-file-path-argument
+            # and:      http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_02.html
+            # and:      https://unix.stackexchange.com/questions/203043/count-files-in-directory-with-specific-string-on-name
+            cache_files=(../__ReadIRIS_crashes_on_these/$bn*.pdf)
+            if test -f "${cache_files[0]}" ; then
+                # skip this one, we've already processed it!
+                echo ".CRASH"
+                continue
+            fi
+        fi
+        # skip this one when we already know ReadIRIS will produce a (near-)empty PDF for this one:
+        if test -d "../__ReadIRIS_produces_empty_file" ; then
+            cache_files=(../__ReadIRIS_produces_empty_file/$bn*.pdf)
+            if test -f "${cache_files[0]}" ; then
+                # skip this one, we've already processed it!
+                echo ".EMPTY"
+                continue
+            fi
+        fi
+        # skip this one when the OCR'ed result is already available in the Qiqqa watch directory:
+        if test -d "$QIQQA_MONITOR_DIR/__OCR_done__" ; then
+            cache_files=($QIQQA_MONITOR_DIR/__OCR_done__/$bn*.pdf)
+            if test -f "${cache_files[0]}" ; then
+                # skip this one, we've already processed it!
+                # echo ".DONE"
+                continue
+            fi
+        fi
+        # skip this one when the OCR'ed result is already available in the ReadIRIS output directory:
+        if test -d "$READIRIS_OUTPUT_DIR" ; then
+            # see also: https://stackoverflow.com/questions/3294072/bash-get-last-dirname-filename-in-a-file-path-argument
+            cache_files=($READIRIS_OUTPUT_DIR/$bn*.pdf)
+            if test -f "${cache_files[0]}" ; then
+                # skip this one, we've already processed it!
+                echo ".READIRIS_DONE"
+                continue
+            fi
+        fi
+        # no need to check destination: we don't overwrite with `cp -n`,
+        # yet still we check so as not to yak about every file that's already 
+        # waiting in there anyway.
+        if ! test -f "$READIRIS_WATCH_DIR/$f" ; then
+            cp -n -- "$f" "$READIRIS_WATCH_DIR/$f"
+            echo ".ADDED: $f"
         fi
     done
-
-    cd ..
-    # remove directories when they're empty, i.e. when there weren't any crypted PDFs to treat:
-
-    rmdir __store/__decrypted                                                                               2> /dev/null  > /dev/null
-    rmdir __store                                                                                           2> /dev/null  > /dev/null
 fi
 
 

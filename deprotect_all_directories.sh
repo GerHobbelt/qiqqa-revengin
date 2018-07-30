@@ -38,6 +38,8 @@ QIQQA_DB_BASE_DIR="$( realpath $QIQQA_TOP_BASE_DIR/Guest )"
 QIQQA_DOCUMENTS_DIR="$( realpath $QIQQA_DB_BASE_DIR/documents )"
 OMNIPAGE_INPUT_DIR=/w/Sopkonijn/\!OmniPage-input-dir
 READIRIS_WATCH_DIR=/w/Sopkonijn/ReadIRIS-watched-dir
+READIRIS_OUTPUT_DIR=/w/Sopkonijn/ReadIRIS-output-dir
+
 
 
 if ! test -d "$QIQQA_DOCUMENTS_DIR" ; then
