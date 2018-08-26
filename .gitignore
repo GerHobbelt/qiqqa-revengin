@@ -1,2 +1,3 @@
 base
-/bibtex-robust-decoder
+lib/
+node_modules/
