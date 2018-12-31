@@ -31,3 +31,4 @@
 *.psd			binary
 *.pptx			binary
 *.xlsx			binary
+*.library		binary
