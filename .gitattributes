@@ -32,3 +32,7 @@
 *.pptx			binary
 *.xlsx			binary
 *.library		binary
+*.dll			binary
+*.exe			binary
+*.lib   		binary
+
