@@ -1,0 +1,2860 @@
+E830659FFF842CC4CBDB42E8791DBA170557419|metadata|C553294FDCC2AD33DA47EAEBB8646D2C|{
+  "FileType": "pdf",
+  "Fingerprint": "E830659FFF842CC4CBDB42E8791DBA170557419",
+  "DateAddedToDatabase": "20180429122616657",
+  "DateLastModified": "20180429122616657",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Understanding Calculus - H. Bear (Wiley_IEEE, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": "20180511215847736",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "UNDERSTANDING CALCULUS Second Edition",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E830659FFF842CC4CBDB42E8791DBA170557419|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+40B7ABB40B6392AC55DBB5FE7419D5C1305450|metadata|D2A09AE90286C058D5CD06D88EEC38B2|{
+  "FileType": "pdf",
+  "Fingerprint": "40B7ABB40B6392AC55DBB5FE7419D5C1305450",
+  "DateAddedToDatabase": "20180429122616455",
+  "DateLastModified": "20180429122616455",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Theory and Problems of Differential and Integral Calculus 3rd ed [Schaum's Outlines] - F. Ayres, E. Mendelson (1990) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "CALCULUS Third Edition 0",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+40B7ABB40B6392AC55DBB5FE7419D5C1305450|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+59C75C7437B34B20A693939F8D6148738320E3|metadata|8CB34F39C24D0658F95E322F1C60CAF9|{
+  "FileType": "pdf",
+  "Fingerprint": "59C75C7437B34B20A693939F8D6148738320E3",
+  "DateAddedToDatabase": "20180429122616196",
+  "DateLastModified": "20180429122616196",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Universal History of Numbers - From Prehist. to the Invention of the Computer - G. Ifrah, et. al., (Wiley, 2000) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+59C75C7437B34B20A693939F8D6148738320E3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+47FB3CCC1069128C898E5113649449C3E61F71|metadata|62FF9D112AB1F31D294B5E24550628EE|{
+  "FileType": "pdf",
+  "Fingerprint": "47FB3CCC1069128C898E5113649449C3E61F71",
+  "DateAddedToDatabase": "20180429122615536",
+  "DateLastModified": "20180429122615536",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Tiger That Isn't - Seeing Through a World of Numbers - M. Blastland, A. Dilnot (Profile, 2008) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Tiger That Isn't",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+47FB3CCC1069128C898E5113649449C3E61F71|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1C181BE1E9382F27010CA358F17F383726B64EE|metadata|359A031DFF9B5256D7F4375C557C2440|{
+  "FileType": "pdf",
+  "Fingerprint": "1C181BE1E9382F27010CA358F17F383726B64EE",
+  "DateAddedToDatabase": "20180429122615490",
+  "DateLastModified": "20180429122615490",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Tiger That Isn't - Seeing Through a World of Numbers (statistics) - M. Blastland, A. Dilnot (Profile, 2008) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": "20180429160101996",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Tiger That Isn't",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1C181BE1E9382F27010CA358F17F383726B64EE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+801B521684A5EE3DE5C52B5E7A71107C927F1F0|metadata|1B40763EC10629BE8ED2484CD3C9CE59|{
+  "FileType": "pdf",
+  "Fingerprint": "801B521684A5EE3DE5C52B5E7A71107C927F1F0",
+  "DateAddedToDatabase": "20180429122615423",
+  "DateLastModified": "20180429122615423",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Secret Life of Numbers - 50 Easy Pieces on How Mathematicians Work, Think - G. Szpiro (Joseph Henry, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+801B521684A5EE3DE5C52B5E7A71107C927F1F0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C6A78F2C7A54B38BC6187F12E8F4BBE830619AF0|metadata|C1A9B24EF03E0AFEDC11A4D4E99CB1A0|{
+  "FileType": "pdf",
+  "Fingerprint": "C6A78F2C7A54B38BC6187F12E8F4BBE830619AF0",
+  "DateAddedToDatabase": "20180429122615277",
+  "DateLastModified": "20180429122615277",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Real Numbers and Real Analysis - E. Bloch (Springer, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Real Numbers and Real Analysis",
+  "AuthorsSuggested": "Ethan D. Bloch",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C6A78F2C7A54B38BC6187F12E8F4BBE830619AF0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CD715E8DBB5ECBDD35D358CF2CBE8CEC403432|metadata|D8BFC6767E55312CDD2D368D695D853B|{
+  "FileType": "pdf",
+  "Fingerprint": "CD715E8DBB5ECBDD35D358CF2CBE8CEC403432",
+  "DateAddedToDatabase": "20180429122615083",
+  "DateLastModified": "20180429122615083",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Pleasures of Pi, e and Other Interesting Numbers - Y. Adrian (World, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": "20180429154136301",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "tires",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CD715E8DBB5ECBDD35D358CF2CBE8CEC403432|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+83B9CFE3C2D6EBA8B9C3C33FBA5DA718D1DEB4|metadata|832CC8F58E9157EC922915557E35DC40|{
+  "FileType": "pdf",
+  "Fingerprint": "83B9CFE3C2D6EBA8B9C3C33FBA5DA718D1DEB4",
+  "DateAddedToDatabase": "20180429122614331",
+  "DateLastModified": "20180429122614331",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Number Sense - How the Mind Creates Mathematics - S. Dehaene (Oxford, 1997) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+83B9CFE3C2D6EBA8B9C3C33FBA5DA718D1DEB4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E628451836570EAB2A329D77A899B665DF89DE9|metadata|FDDB50762CE2FED21F90F0EA113753E1|{
+  "FileType": "pdf",
+  "Fingerprint": "E628451836570EAB2A329D77A899B665DF89DE9",
+  "DateAddedToDatabase": "20180429122614003",
+  "DateLastModified": "20180429122614003",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Nine Numbers of the Cosmos - M. Rowan-Robinson (Oxford, 1999) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "DjVu Document",
+  "AuthorsSuggested": "Admin",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E628451836570EAB2A329D77A899B665DF89DE9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+757B85779521BDCDA7543BC6C4A603F6A35C77|metadata|7A32AA43C8458163FAAC60F8EE27BE4E|{
+  "FileType": "pdf",
+  "Fingerprint": "757B85779521BDCDA7543BC6C4A603F6A35C77",
+  "DateAddedToDatabase": "20180429122613772",
+  "DateLastModified": "20180429122613772",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\NAVAL.Introduction.to.Statistics.Number.Systems.and.Boolean.Algebra.NAVEDTRA.14142 .584.247.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "    Mathematics, Introduction  to Statistics, Number  Systems and Boolean",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+757B85779521BDCDA7543BC6C4A603F6A35C77|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1E3864C04ADD8E7ECAB3EEF0A99827C88B2D9668|metadata|C5D525BEDB8146520603D4317FBF8E6F|{
+  "FileType": "pdf",
+  "Fingerprint": "1E3864C04ADD8E7ECAB3EEF0A99827C88B2D9668",
+  "DateAddedToDatabase": "20180429122613255",
+  "DateLastModified": "20180429122613255",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Math Gene - How Mathematical Thinking Evolved, Why Numbers Are Like Gossip - K. Devlin (Basic, 2000) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1E3864C04ADD8E7ECAB3EEF0A99827C88B2D9668|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9B73542977824883C59DB0F54F144323F8A3895B|metadata|2B584E1BF42F96B7CF86ACE1016F2630|{
+  "FileType": "pdf",
+  "Fingerprint": "9B73542977824883C59DB0F54F144323F8A3895B",
+  "DateAddedToDatabase": "20180429122612948",
+  "DateLastModified": "20180429122612948",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\My Numbers, My Friends - Popular Lectures on Number Theory (2000) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "My Numbers, My Friends",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9B73542977824883C59DB0F54F144323F8A3895B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+ADE65614B69EB6D5573152FD8E6CFCF70FB9672|metadata|A1B5CC67282A3DB4B57F7381A4616D25|{
+  "FileType": "pdf",
+  "Fingerprint": "ADE65614B69EB6D5573152FD8E6CFCF70FB9672",
+  "DateAddedToDatabase": "20180429122612590",
+  "DateLastModified": "20180429122612590",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Man Who Loved Only Numbers - The Story of Paul Erdos and the Search for Mathematical Truth - P. Hoffman (Fourth Estate, 1998 ) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Man Who Loved Only Numbers - The Story of Paul Erdos and the Search for Mathematical Truth - P. Hoffman (Fourth Estate, 199",
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+ADE65614B69EB6D5573152FD8E6CFCF70FB9672|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F794DEBEDE07634C6B2D7B9A2FDCB59B36434E|metadata|683816CE9541E7D667010A318436D9C8|{
+  "FileType": "pdf",
+  "Fingerprint": "F794DEBEDE07634C6B2D7B9A2FDCB59B36434E",
+  "DateAddedToDatabase": "20180429122611754",
+  "DateLastModified": "20180429122611754",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Multivariate Calculus - M. Adler (2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2002",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "2C2 Multivariate Calculus",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F794DEBEDE07634C6B2D7B9A2FDCB59B36434E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D1D75FF866C1C20CAEB20CD92E0D1939DA9E712|metadata|9ECCF90D2F72B8A705F9F28F77CBA171|{
+  "FileType": "pdf",
+  "Fingerprint": "D1D75FF866C1C20CAEB20CD92E0D1939DA9E712",
+  "DateAddedToDatabase": "20180429122611658",
+  "DateLastModified": "20180429122611658",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Man of Numbers - Fibonacci's Arithmetic Revolution - K. Devlin (Walker, 2011) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Cover",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D1D75FF866C1C20CAEB20CD92E0D1939DA9E712|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C570F81D158FC71AA916BB4DE64CA45DBF81E239|metadata|6EA34C30012BBC2B03FF7691B7AC8719|{
+  "FileType": "pdf",
+  "Fingerprint": "C570F81D158FC71AA916BB4DE64CA45DBF81E239",
+  "DateAddedToDatabase": "20180429122611556",
+  "DateLastModified": "20180429122611556",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Multivariable Calculus 5th ed. - William G. McCallum, et al., (Wiley, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "~ MUL TIVARIABLE CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C570F81D158FC71AA916BB4DE64CA45DBF81E239|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+31ED1D49CFA97EA596D5E149E134F3EDFED4C|metadata|554111D3A6077986E09EDC2FC343EC88|{
+  "FileType": "pdf",
+  "Fingerprint": "31ED1D49CFA97EA596D5E149E134F3EDFED4C",
+  "DateAddedToDatabase": "20180429122611226",
+  "DateLastModified": "20180429122611226",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Magic Numbers of Dr Matrix - M. Gardner (Promethius, 1985) WW.pdf",
+  "BibTex": "@book{gardner1985magic\n,\ttitle\t= {The magic numbers of Dr. Matrix}\n,\tauthor\t= {Gardner, M. and Gardner, M. and Gardner, M.}\n,\tyear\t= {1985}\n,\tpublisher\t= {Prometheus Books Buffalo, NY}\n}",
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Magical Numbers of Dr. Matrix",
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+31ED1D49CFA97EA596D5E149E134F3EDFED4C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D5BEE85A1685ED3196E927D6C576B3F7166FA0C3|metadata|CB9BEBA8166EDA019EDD1A9BB08A1425|{
+  "FileType": "pdf",
+  "Fingerprint": "D5BEE85A1685ED3196E927D6C576B3F7166FA0C3",
+  "DateAddedToDatabase": "20180429122610870",
+  "DateLastModified": "20180429122610870",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Methods of Mathematics Applied to Calculus, Probability, and Statistics - R. Hamming (Dover, 2004) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Methods of Mathematics Applied to Calculus, Probability, and Statistics",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D5BEE85A1685ED3196E927D6C576B3F7166FA0C3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+AB6ABF1D13B6B0CC41609DD6EFC9F827A96A3F|metadata|EBAB69A367DECBF774CA88FAF1E62BB7|{
+  "FileType": "pdf",
+  "Fingerprint": "AB6ABF1D13B6B0CC41609DD6EFC9F827A96A3F",
+  "DateAddedToDatabase": "20180429122610294",
+  "DateLastModified": "20180429122610294",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Higher Arithmetic - An Intro to the Theory of Numbers  8th ed - H. Davenport (Cambridge, 2008.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "THE HIGHER ARITHMETIC: AN INTRODUCTION TO THE THEORY OF NUMBERS, Eighth edition",
+  "AuthorsSuggested": "H. Davenport",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+AB6ABF1D13B6B0CC41609DD6EFC9F827A96A3F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+66392A5BD1BF1421A7A4A727CCDA619CC6EB8D87|metadata|2A5DE45B76F2CE073FADBE4EB7726A4C|{
+  "FileType": "pdf",
+  "Fingerprint": "66392A5BD1BF1421A7A4A727CCDA619CC6EB8D87",
+  "DateAddedToDatabase": "20180429122610201",
+  "DateLastModified": "20180429122610201",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Mathematical Logic with Special Reference to the Natural Numbers - S. Steen (Cambridge, 1972) [2-pg scan] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+66392A5BD1BF1421A7A4A727CCDA619CC6EB8D87|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D6861AA68ADFC861FAFA2A90C51771D6E7FCE6F7|metadata|A23BB1988C24D840A65B99A87A27AC39|{
+  "FileType": "pdf",
+  "Fingerprint": "D6861AA68ADFC861FAFA2A90C51771D6E7FCE6F7",
+  "DateAddedToDatabase": "20180429122609951",
+  "DateLastModified": "20180429122609951",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Financial Numbers Game - Detecting Creative Accounting Practices - C. Mulford, E. Comiskey (Wiley, 2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1999",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "TEAMFLY",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D6861AA68ADFC861FAFA2A90C51771D6E7FCE6F7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F5F86A559370767F7089CF6317E65255EAC1C99A|metadata|CB6C8F6448506EEAAFEFDEDC54F7AADB|{
+  "FileType": "pdf",
+  "Fingerprint": "F5F86A559370767F7089CF6317E65255EAC1C99A",
+  "DateAddedToDatabase": "20180429122609858",
+  "DateLastModified": "20180429122609858",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Math. Problems and Proofs - Combinatorics, Number Theory and Geometry - B. Kisacanin (Kluwer, 2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "DjVu Document",
+  "AuthorsSuggested": "Administrator",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F5F86A559370767F7089CF6317E65255EAC1C99A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+17E7DBE27675CD7CA69218B07320E0FBF7F5F354|metadata|AC68780EF2C2A64E708A6FF1951914CE|{
+  "FileType": "pdf",
+  "Fingerprint": "17E7DBE27675CD7CA69218B07320E0FBF7F5F354",
+  "DateAddedToDatabase": "20180429122609709",
+  "DateLastModified": "20180429122609709",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Complete Idiot's Guide to Calculus 2nd ed - W. Kelley (Alpha, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Calculus Second Edition",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+17E7DBE27675CD7CA69218B07320E0FBF7F5F354|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+97D5B5DEFD83F48EA51AFCB1F678EA2E2058E6F4|metadata|EDF3EF13A4DEF7B48526A4DA83891E38|{
+  "FileType": "pdf",
+  "Fingerprint": "97D5B5DEFD83F48EA51AFCB1F678EA2E2058E6F4",
+  "DateAddedToDatabase": "20180429122609631",
+  "DateLastModified": "20180429122609631",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Mainly Natural Numbers - Studies on Sequences - H. Ibstedt (2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "smarand",
+  "YearSuggested": "2003",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Mainly Natural Numbers",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+97D5B5DEFD83F48EA51AFCB1F678EA2E2058E6F4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E32875491A1B94E0827FBB9B3552729E14BD|metadata|18EBAB529AA3F2AE9957C08D6542567C|{
+  "FileType": "pdf",
+  "Fingerprint": "E32875491A1B94E0827FBB9B3552729E14BD",
+  "DateAddedToDatabase": "20180429122609520",
+  "DateLastModified": "20180429122609520",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Calculus of Variations and Functional Analysis - L. Lebedev, M. Cloud (World, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "The Calculus of Variations  and Functional Analysis",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E32875491A1B94E0827FBB9B3552729E14BD|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FEBC2D9A95889BA2AFEE8381259DA1EF3B3CF0BB|metadata|A918F8BE0F67FFFD0561306B9B4E5F72|{
+  "FileType": "pdf",
+  "Fingerprint": "FEBC2D9A95889BA2AFEE8381259DA1EF3B3CF0BB",
+  "DateAddedToDatabase": "20180429122608383",
+  "DateLastModified": "20180429122608383",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Laws of Small Numbers - Extremes and Rare Events 3rd ed. (rev.) - M. Falk, et. al., (Birkhauser, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Laws of Small Numbers: Extremes and Rare Events (Third, revised and extended edition)",
+  "AuthorsSuggested": "Michael Falk, Jürg Hüsler, Rolf-Dieter Reiss",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FEBC2D9A95889BA2AFEE8381259DA1EF3B3CF0BB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9C16425AB45635ED7084D07934C24F5F9E320|metadata|904997AD25F756EF32028C971524FCC4|{
+  "FileType": "pdf",
+  "Fingerprint": "9C16425AB45635ED7084D07934C24F5F9E320",
+  "DateAddedToDatabase": "20180429122608273",
+  "DateLastModified": "20180429122608273",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Calculus Bible - Gill WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1998",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Contents 1 Functions 2",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9C16425AB45635ED7084D07934C24F5F9E320|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9E1D4A045D8B04F51622BA1AB4A4CDCC7CFD6AC|metadata|902DF723294955452A9793EA06DBD7F1|{
+  "FileType": "pdf",
+  "Fingerprint": "9E1D4A045D8B04F51622BA1AB4A4CDCC7CFD6AC",
+  "DateAddedToDatabase": "20180429122608195",
+  "DateLastModified": "20180429122608195",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Just Six Numbers - M. Rees (Basic, 2000) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "DjVu Document",
+  "AuthorsSuggested": "Admin",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9E1D4A045D8B04F51622BA1AB4A4CDCC7CFD6AC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EADA2BBC92892583BBA78FECAB643CEF9D37|metadata|790E022940F24F4CCA13C10101E43E30|{
+  "FileType": "pdf",
+  "Fingerprint": "EADA2BBC92892583BBA78FECAB643CEF9D37",
+  "DateAddedToDatabase": "20180429122607992",
+  "DateLastModified": "20180429122607992",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Britannica Guide to Analysis and Calculus - E. Gregersen (Britannica, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Britannica Guide to Analysis and Calculus: MATH EXPLAINED",
+  "AuthorsSuggested": "ERIK GREGERSEN",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EADA2BBC92892583BBA78FECAB643CEF9D37|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F171698D1E40ED85AA010A4A895C92B28C69DE|metadata|BAE9B2AD1CFB09506EA09373E055AC1E|{
+  "FileType": "pdf",
+  "Fingerprint": "F171698D1E40ED85AA010A4A895C92B28C69DE",
+  "DateAddedToDatabase": "20180429122607791",
+  "DateLastModified": "20180429122607791",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Just Six Numbers - M. Rees (Basic, 1999) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F171698D1E40ED85AA010A4A895C92B28C69DE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+991FA34C89EB03E2A8C158268419558FF8DF22|metadata|532F4225FE15F654215DA697CF0A64EC|{
+  "FileType": "pdf",
+  "Fingerprint": "991FA34C89EB03E2A8C158268419558FF8DF22",
+  "DateAddedToDatabase": "20180429122607600",
+  "DateLastModified": "20180429122607600",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Book of Numbers [an entertaining list of every number that counts] - T. Glynne-Jones (Arcturus, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Book of Numbers",
+  "AuthorsSuggested": "Tim Glynne-Jones",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+991FA34C89EB03E2A8C158268419558FF8DF22|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+739B2426BC694349AC6B529E13F944FA7C6EBAD1|metadata|FF6B50CC3C61A48E4ADC1BD13693B6C4|{
+  "FileType": "pdf",
+  "Fingerprint": "739B2426BC694349AC6B529E13F944FA7C6EBAD1",
+  "DateAddedToDatabase": "20180429122607404",
+  "DateLastModified": "20180429122607404",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\The Anthropology of Numbers - T. Crump (Cambridge, 1990) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+739B2426BC694349AC6B529E13F944FA7C6EBAD1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+26165D8D64F5D59A451D4540F4F1484FD0586B72|metadata|A44A1C0B761A21262B7AD4534D6F8D16|{
+  "FileType": "pdf",
+  "Fingerprint": "26165D8D64F5D59A451D4540F4F1484FD0586B72",
+  "DateAddedToDatabase": "20180429122607039",
+  "DateLastModified": "20180429122607039",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Introduction to the Theory of Numbers  4th ed. - G. Hardy, E. Wright (1968) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Introduction to the Theory of Numbers",
+  "AuthorsSuggested": "Hardy Wright - Simon Plouffe",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+26165D8D64F5D59A451D4540F4F1484FD0586B72|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B0E79F3F49407429FD6C793279A08C8C4A347FB3|metadata|F3FA1854D41AD9D1CD9786092F76169A|{
+  "FileType": "pdf",
+  "Fingerprint": "B0E79F3F49407429FD6C793279A08C8C4A347FB3",
+  "DateAddedToDatabase": "20180429122606760",
+  "DateLastModified": "20180429122606760",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Textbook of Differential Calculus 2nd ed - A. Akhtar, S. Ahsan (PHI, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Hydrostatics",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B0E79F3F49407429FD6C793279A08C8C4A347FB3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5CB94741EEDB6A02FD77292F3FEE0D31B487E30|metadata|F5C6E81911FEF42FB1EED21D12116B9F|{
+  "FileType": "pdf",
+  "Fingerprint": "5CB94741EEDB6A02FD77292F3FEE0D31B487E30",
+  "DateAddedToDatabase": "20180429122606523",
+  "DateLastModified": "20180429122606523",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Introduction to Modern Number Theory 2nd ed - Y. Manin, A. Panchishkin (Springer, 2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5CB94741EEDB6A02FD77292F3FEE0D31B487E30|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F3964A9F88F14E8956DC191BDF97A624BD7B551|metadata|4427A8C3A88241F07511FD061A14FD6C|{
+  "FileType": "pdf",
+  "Fingerprint": "F3964A9F88F14E8956DC191BDF97A624BD7B551",
+  "DateAddedToDatabase": "20180429122606375",
+  "DateLastModified": "20180429122606375",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Text Book Of Vector Calculus -A. Sharma (DPH, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Hydrostatics",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F3964A9F88F14E8956DC191BDF97A624BD7B551|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B96585765CD34F81841B2BE716DB0B2B4F64FEE|metadata|43DE6648991E5E02FE1920C65F1AE9D9|{
+  "FileType": "pdf",
+  "Fingerprint": "B96585765CD34F81841B2BE716DB0B2B4F64FEE",
+  "DateAddedToDatabase": "20180429122605865",
+  "DateLastModified": "20180429122605865",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Precalculus - Mathematics for Calculus 6th ed. - J. Stewart, et. al., (Cengage, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Precalculus: Mathematics for Calculus, 6th ed.",
+  "AuthorsSuggested": "James Stewart",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B96585765CD34F81841B2BE716DB0B2B4F64FEE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+509497E88264C455ECD31DB9791E5CFFAE5CE64|metadata|139A0B37225F87E80D43AB5584FAFE09|{
+  "FileType": "pdf",
+  "Fingerprint": "509497E88264C455ECD31DB9791E5CFFAE5CE64",
+  "DateAddedToDatabase": "20180429122605081",
+  "DateLastModified": "20180429122605081",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Intro to Statistics, Number Systems and Boolean Algebra - NAVEDTRA 14142 (1986) WW .pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "    Mathematics, Introduction  to Statistics, Number  Systems and Boolean",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+509497E88264C455ECD31DB9791E5CFFAE5CE64|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1ADAEF69DEB6A5A545A92F92672EC931CE8A8222|metadata|208912CFF9F1C618A0CD273AECE80819|{
+  "FileType": "pdf",
+  "Fingerprint": "1ADAEF69DEB6A5A545A92F92672EC931CE8A8222",
+  "DateAddedToDatabase": "20180429122604931",
+  "DateLastModified": "20180429122604931",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Developing Thinking in Statistics - A. Graham (The Open University, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "StatisticsDEVELOPING THINKING IN",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1ADAEF69DEB6A5A545A92F92672EC931CE8A8222|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CCCB69EAB5ABF2622C24FEA5F493392AAD7F8F7|metadata|1DA9B6E80889CD3F292BF59A25EADDF5|{
+  "FileType": "pdf",
+  "Fingerprint": "CCCB69EAB5ABF2622C24FEA5F493392AAD7F8F7",
+  "DateAddedToDatabase": "20180429122604843",
+  "DateLastModified": "20180429122604843",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Teaching and Learning Early Number 2nd ed. - I. Thompson (Open Univ. Press, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Teaching and learning early number, Second edition",
+  "AuthorsSuggested": "Ian Thompson",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CCCB69EAB5ABF2622C24FEA5F493392AAD7F8F7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+985959712CE6B0847E345BC274FDDC7331E31|metadata|EA7D23C5642C044253EC4FA69F21C6FE|{
+  "FileType": "pdf",
+  "Fingerprint": "985959712CE6B0847E345BC274FDDC7331E31",
+  "DateAddedToDatabase": "20180429122604754",
+  "DateLastModified": "20180429122604754",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Polynomials - An Algorithmic Approach - M. Mignotte, et al., (Springer, 1999) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "SpnngcrSmgaporeBerlrhHeidelbergNew York",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+985959712CE6B0847E345BC274FDDC7331E31|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3031E2FD33EC5C31454DACED7A792FC04CDAF62E|metadata|5DF8A738856A23501E900E81172084CC|{
+  "FileType": "pdf",
+  "Fingerprint": "3031E2FD33EC5C31454DACED7A792FC04CDAF62E",
+  "DateAddedToDatabase": "20180429122604647",
+  "DateLastModified": "20180429122604647",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Identification Numbers and Check Digit Schemes (Classroom Resource Mtls) - J. Kirtland (MAA) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "SCHEIVIESJOSEPH KIRTLAND",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3031E2FD33EC5C31454DACED7A792FC04CDAF62E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DCEADFD3627FA218DA8BB5AFB0CF31B749EF899D|metadata|C97D33E76E077CADB899550565E59E19|{
+  "FileType": "pdf",
+  "Fingerprint": "DCEADFD3627FA218DA8BB5AFB0CF31B749EF899D",
+  "DateAddedToDatabase": "20180429122604508",
+  "DateLastModified": "20180429122604508",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Wiley The Financial Numbers Game Detecting Creative Accounting Practices.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "The Financial Numbers Game",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DCEADFD3627FA218DA8BB5AFB0CF31B749EF899D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9E8161AEEA8BC64CBE56839FF96A613C76B784D4|metadata|8EC9EF596857845165C67CE856216D01|{
+  "FileType": "pdf",
+  "Fingerprint": "9E8161AEEA8BC64CBE56839FF96A613C76B784D4",
+  "DateAddedToDatabase": "20180429122604393",
+  "DateLastModified": "20180429122604393",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Designing Data Visualizations - J. Steele, et. al., (O'Reilly, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Designing Data Visualizations",
+  "AuthorsSuggested": "Noah Iliinsky and Julie Steele",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9E8161AEEA8BC64CBE56839FF96A613C76B784D4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+87F3B7D8FF67513FBA9CDEE64D4AE75B52C287|metadata|BD5E30C1C9873451D3C2160CC5E8CC12|{
+  "FileType": "pdf",
+  "Fingerprint": "87F3B7D8FF67513FBA9CDEE64D4AE75B52C287",
+  "DateAddedToDatabase": "20180429122604123",
+  "DateLastModified": "20180429122604123",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Teach Yourself Visually Calculus - D. Johnson (Wiley, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "tklemme",
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Calculus by Dale Johnson",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+87F3B7D8FF67513FBA9CDEE64D4AE75B52C287|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5FE8D1EE1BA1E4444EA9C48B329ACCD3B165828|metadata|8E61205C653EE7CBF36107E200D564F1|{
+  "FileType": "pdf",
+  "Fingerprint": "5FE8D1EE1BA1E4444EA9C48B329ACCD3B165828",
+  "DateAddedToDatabase": "20180429122603887",
+  "DateLastModified": "20180429122603887",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Physiology by Numbers - An Encouragement to Quantitative Thinking 2ed Burton (Cambridge 2000).pdf",
+  "BibTex": "@book{burton2000physiology\n,\ttitle\t= {Physiology by numbers: An encouragement to quantitative thinking}\n,\tauthor\t= {Burton, R.F.}\n,\tyear\t= {2000}\n,\tpublisher\t= {Cambridge Univ Pr}\n}",
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Physiology by Numbers:  An Encouragement to  Quantitative Thinking,  SECOND EDITION",
+  "AutoSuggested_BibTeXSearch": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+5FE8D1EE1BA1E4444EA9C48B329ACCD3B165828|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+86881CDC8AE96ED398479BF5141BAD7EA7F6D764|metadata|39268587C4BF5F2335EDE348AE520668|{
+  "FileType": "pdf",
+  "Fingerprint": "86881CDC8AE96ED398479BF5141BAD7EA7F6D764",
+  "DateAddedToDatabase": "20180429122603778",
+  "DateLastModified": "20180429122603778",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\History of the Theory of Numbers [Vol. 1 - Divisibility and Primality] - L. Dickson (Chelsea, 1952) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "MATHEWXEELSP ?i?P%.!EATIHN UBYARY",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+86881CDC8AE96ED398479BF5141BAD7EA7F6D764|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+48956588C192917216D7906F2A849F0E4D4D014|metadata|9D1345D6803DF9774D256CB6F576E979|{
+  "FileType": "pdf",
+  "Fingerprint": "48956588C192917216D7906F2A849F0E4D4D014",
+  "DateAddedToDatabase": "20180429122603586",
+  "DateLastModified": "20180429122603586",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Vector Calculus [small handout] - J. Dougherty (1998) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1999",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Copyright  1999 University of Cambridge. Not to be quoted or reproduced without permission.",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+48956588C192917216D7906F2A849F0E4D4D014|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+49B72DC81F1668CD12BCA963D2465B1CCFFBF6|metadata|9F52CC967ED236EAA928DD96DC2F455B|{
+  "FileType": "pdf",
+  "Fingerprint": "49B72DC81F1668CD12BCA963D2465B1CCFFBF6",
+  "DateAddedToDatabase": "20180429122601765",
+  "DateLastModified": "20180429122601765",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Design and Analysis of Approximation Algorithms - D. Du, et. al., (Springer, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Design and Analysis of Approximation Algorithms (Springer Optimization and Its Applications, 62)",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+49B72DC81F1668CD12BCA963D2465B1CCFFBF6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FA73E6D45C23F1D8EB02360FCBE60ED312A636B|metadata|458CEF0A65EA78626B07FE05EA1E9C3B|{
+  "FileType": "pdf",
+  "Fingerprint": "FA73E6D45C23F1D8EB02360FCBE60ED312A636B",
+  "DateAddedToDatabase": "20180429122601707",
+  "DateLastModified": "20180429122601707",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Surfing on the Ocean of Numbers - H. Ibstedt (1997) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FA73E6D45C23F1D8EB02360FCBE60ED312A636B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+21CBAEE1C13DF7329F7572405C5ECA25EE9A73F1|metadata|B2690CC79225114051458FC5E6A44392|{
+  "FileType": "pdf",
+  "Fingerprint": "21CBAEE1C13DF7329F7572405C5ECA25EE9A73F1",
+  "DateAddedToDatabase": "20180429122601608",
+  "DateLastModified": "20180429122601608",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Perfect Figures - The Lore of Numbers and How We Learned to Count - B. Crumpacker (Thomas Dunne, 2007) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Perfect Figures",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+21CBAEE1C13DF7329F7572405C5ECA25EE9A73F1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+70D4F455D4705E13B8DDE93462663BB44C57A|metadata|86DECBED07AA8893A72CC7091B887F82|{
+  "FileType": "pdf",
+  "Fingerprint": "70D4F455D4705E13B8DDE93462663BB44C57A",
+  "DateAddedToDatabase": "20180429122601465",
+  "DateLastModified": "20180429122601465",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Handbook Of Number Theory II - J. Sandor, B. Crstici (Kluwer, 2004) WW.pdf",
+  "BibTex": "@book{mitrinović1996handbook\n,\ttitle\t= {Handbook of number theory}\n,\tauthor\t= {Mitrinovi\\\\'c, D.S. and S\\'andor, J. and Crstici, B.}\n,\tvolume\t= {1}\n,\tyear\t= {1996}\n,\tpublisher\t= {Kluwer Academic Pub}\n}",
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "HANDBOOK  OF NUMBER THEORY II",
+  "AutoSuggested_BibTeXSearch": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+70D4F455D4705E13B8DDE93462663BB44C57A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EB4FB97E643F38969D239996148D65C4EB771FD9|metadata|8ADBD1254177FC5C0B985FE9CFADA840|{
+  "FileType": "pdf",
+  "Fingerprint": "EB4FB97E643F38969D239996148D65C4EB771FD9",
+  "DateAddedToDatabase": "20180429122601289",
+  "DateLastModified": "20180429122601289",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Vector Calculus 4th ed. - S. Colley (Pearson, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Vector Calculus",
+  "AuthorsSuggested": "Susan J. Colley",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EB4FB97E643F38969D239996148D65C4EB771FD9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9555426AF7B71A6168F1E0F3FAD8B8F3E7DED|metadata|E490FCF1D90B21A1DDD69512803E218A|{
+  "FileType": "pdf",
+  "Fingerprint": "9555426AF7B71A6168F1E0F3FAD8B8F3E7DED",
+  "DateAddedToDatabase": "20180429122600686",
+  "DateLastModified": "20180429122600686",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Dependence in Probability and Statistics - P. Bertail, et al., (Springer, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Lecture Notes in Statistics 187",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9555426AF7B71A6168F1E0F3FAD8B8F3E7DED|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8736386F2249739DAFBB7957F3F438E6A0A24A62|metadata|CB8BD921C5E00F5B4E2BECAC870A901B|{
+  "FileType": "pdf",
+  "Fingerprint": "8736386F2249739DAFBB7957F3F438E6A0A24A62",
+  "DateAddedToDatabase": "20180429122557724",
+  "DateLastModified": "20180429122557724",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Stoichiometry and Materials Science - When Numbers Matter - A. Innocenti (Intech, 2012) WW-(0001).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Stoichiometry and Materials Science \u0085 When Numbers Matter",
+  "AuthorsSuggested": "Edited by Alessio Innocenti and Norlida Kamarulzaman",
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8736386F2249739DAFBB7957F3F438E6A0A24A62|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+94213A5AEACC650A016FDAFFE5F5EC2229AFFD6|metadata|4274FB7FD35830D62380E63B406974E5|{
+  "FileType": "pdf",
+  "Fingerprint": "94213A5AEACC650A016FDAFFE5F5EC2229AFFD6",
+  "DateAddedToDatabase": "20180429122556595",
+  "DateLastModified": "20180429122556595",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Numbers Rule - The Vexing Mathematics of Democracy, From Plato to the Present - G. Szpiro (Princeton, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numbers Rule",
+  "AuthorsSuggested": "Szpiro, George.",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+94213A5AEACC650A016FDAFFE5F5EC2229AFFD6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2EA51713A0927E42839D36C42864B4F9425DB|metadata|DD24025A4AC961C9576E65B890FE12EC|{
+  "FileType": "pdf",
+  "Fingerprint": "2EA51713A0927E42839D36C42864B4F9425DB",
+  "DateAddedToDatabase": "20180429122556068",
+  "DateLastModified": "20180429122556068",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Handbook Of Number Theory I - J. Sandor, D. Mitrinovic, B. Crstici (Springer, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Theory I",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2EA51713A0927E42839D36C42864B4F9425DB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CEEFEA6E38D505895993A6D18BAA2A2F48F9E|metadata|42B786A5702F6B648FEDDD99113BA561|{
+  "FileType": "pdf",
+  "Fingerprint": "CEEFEA6E38D505895993A6D18BAA2A2F48F9E",
+  "DateAddedToDatabase": "20180429122555483",
+  "DateLastModified": "20180429122555483",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Dealing with Uncertainties- A Guide to Error Analysis - M. Drosg (Springer, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "@Springcr",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CEEFEA6E38D505895993A6D18BAA2A2F48F9E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+62DED16C1140CF3B4B119ED3CF7C2DDA5A1EE|metadata|5EBEC54761E92D63FEB3EB3765969306|{
+  "FileType": "pdf",
+  "Fingerprint": "62DED16C1140CF3B4B119ED3CF7C2DDA5A1EE",
+  "DateAddedToDatabase": "20180429122555095",
+  "DateLastModified": "20180429122555095",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Stochastic Calculus - A Practical Introduction - R. Durrett (CRC, 1996) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+62DED16C1140CF3B4B119ED3CF7C2DDA5A1EE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+48466FD5C4EB80DA19D6385AC5E1815797FCB3CC|metadata|F9992054FFD633945D4A4D2302D39A5C|{
+  "FileType": "pdf",
+  "Fingerprint": "48466FD5C4EB80DA19D6385AC5E1815797FCB3CC",
+  "DateAddedToDatabase": "20180429122553832",
+  "DateLastModified": "20180429122553832",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Numbers at Work - A Cultural Perspective - R. Taschner (A K Peters, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numbers at Work: A Cultural Perspective",
+  "AuthorsSuggested": "Rudolf Taschner",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+48466FD5C4EB80DA19D6385AC5E1815797FCB3CC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E4CB6EBCB64DA1555F42F4EFDA1F7B2150655D8E|metadata|16457CCF25D20A17A496F3CA8DB467A5|{
+  "FileType": "pdf",
+  "Fingerprint": "E4CB6EBCB64DA1555F42F4EFDA1F7B2150655D8E",
+  "DateAddedToDatabase": "20180429122552772",
+  "DateLastModified": "20180429122552772",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Fundamental Number Theory With Applications 2nd ed - R. Mollin (Chapman and Hall, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Fundamental Number Theory with Applications, Second Edition",
+  "AuthorsSuggested": "Richard A. Mollin",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E4CB6EBCB64DA1555F42F4EFDA1F7B2150655D8E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8CA6B413C0ABABDC3A5E48A36E6BEF954BD57F32|metadata|698F1FDA2FC14AD998ADE66CC126BBF0|{
+  "FileType": "pdf",
+  "Fingerprint": "8CA6B413C0ABABDC3A5E48A36E6BEF954BD57F32",
+  "DateAddedToDatabase": "20180429122552365",
+  "DateLastModified": "20180429122552365",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Data Visualization - a successful design process - A. Kirk (Packt, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Data Vlsuallzatlon:I",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8CA6B413C0ABABDC3A5E48A36E6BEF954BD57F32|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+625D48E62062183F35EF7CF56B044F0C1CEE43C|metadata|6EC22CF6632E2B8D26F164A2D1CC82F6|{
+  "FileType": "pdf",
+  "Fingerprint": "625D48E62062183F35EF7CF56B044F0C1CEE43C",
+  "DateAddedToDatabase": "20180429122552260",
+  "DateLastModified": "20180429122552260",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Statistical Independence in Probability, Analysis and Number Theory - M. Kac (MAA_Wiley, 1959) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "STATISTICAL INDEPENDENCE  IN PROBABILITY,  ANALYSIS AND NUMBER",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+625D48E62062183F35EF7CF56B044F0C1CEE43C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1A97428031D61390DC8ACF386A28EDD3224DD869|metadata|B07669BB6A52C1682928338342F0EDFC|{
+  "FileType": "pdf",
+  "Fingerprint": "1A97428031D61390DC8ACF386A28EDD3224DD869",
+  "DateAddedToDatabase": "20180429122552185",
+  "DateLastModified": "20180429122552185",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Numbers and Other Math Ideas Come Alive - T. Pappas (Wide World Publ., 2012) [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "numbers and other math ideas come alive",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1A97428031D61390DC8ACF386A28EDD3224DD869|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FFB6169F71D58CDFA26399CF41AA7FB071F8BA|metadata|595CCB7B9CBD44E19F0966182A238DA4|{
+  "FileType": "pdf",
+  "Fingerprint": "FFB6169F71D58CDFA26399CF41AA7FB071F8BA",
+  "DateAddedToDatabase": "20180429122551828",
+  "DateLastModified": "20180429122551828",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\From Stochastic Calculus to Mathematical Finance - Y. Kabanov, et al., (Springer, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "From Stochastic  Calculus to",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FFB6169F71D58CDFA26399CF41AA7FB071F8BA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E8B3B2FC51BCB2227FCE7BF3DCCBE10E7614B86|metadata|1FC24E0CEB19002FEFCD965052165791|{
+  "FileType": "pdf",
+  "Fingerprint": "E8B3B2FC51BCB2227FCE7BF3DCCBE10E7614B86",
+  "DateAddedToDatabase": "20180429122551558",
+  "DateLastModified": "20180429122551558",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Data Analysis - What Can Be Learned From the Past 50 Years - P. Huber (Wiley, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Data Analysis",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E8B3B2FC51BCB2227FCE7BF3DCCBE10E7614B86|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7EAEFDE3981DDC2475495AF87AD53549365CD1A8|metadata|F98CB68E3A68ADC33F1DBD74170796E8|{
+  "FileType": "pdf",
+  "Fingerprint": "7EAEFDE3981DDC2475495AF87AD53549365CD1A8",
+  "DateAddedToDatabase": "20180429122551343",
+  "DateLastModified": "20180429122551343",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Space, Time and Number in the Brain - Searching For Foundns. of Mathem. Thought - S. Dehaene, et. al., (AP, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "SPACE. TIME AND  NUMBER IN THE BRAIN",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7EAEFDE3981DDC2475495AF87AD53549365CD1A8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5FDEE58CEEBAADA3B323FD6E6F95EB3CBD956DA0|metadata|16733B3B9BFE9FA6AD6539A8D5BA89E4|{
+  "FileType": "pdf",
+  "Fingerprint": "5FDEE58CEEBAADA3B323FD6E6F95EB3CBD956DA0",
+  "DateAddedToDatabase": "20180429122551192",
+  "DateLastModified": "20180429122551192",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Numbers And Infinity - A Historical Account of Mathematical Concepts - E. Sondheimer, A. Rogerson (Cambridge, 1981) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numbers And Infinity - A Historical Account of Mathematical Concepts - E. Sondheimer, A. Rogerson (Cambridge, 1981) WW.djvu",
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5FDEE58CEEBAADA3B323FD6E6F95EB3CBD956DA0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+935FFF55966EE345451FD653C60D6F550827ED|metadata|49A6FE7F2878149E5C4DEBC6F640FE7E|{
+  "FileType": "pdf",
+  "Fingerprint": "935FFF55966EE345451FD653C60D6F550827ED",
+  "DateAddedToDatabase": "20180429122550905",
+  "DateLastModified": "20180429122550905",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Free Calculus - A Liberation from Concepts and Proofs - Q. Lin (World, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Free Calculus A Liberation from Concepts and Proofs (108 pages)",
+  "AuthorsSuggested": "Qun Lin",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+935FFF55966EE345451FD653C60D6F550827ED|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F0E49180A667FEA9DE7E2AF834BC48554E72|metadata|1EF3979A6A6CFB56AD486E31AB4F311E|{
+  "FileType": "pdf",
+  "Fingerprint": "F0E49180A667FEA9DE7E2AF834BC48554E72",
+  "DateAddedToDatabase": "20180429122550563",
+  "DateLastModified": "20180429122550563",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Common Errors in Statistics [and how to avoid them] 2nd ed. - P. Good, J. Hardin (Wiley, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Frontmatter",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F0E49180A667FEA9DE7E2AF834BC48554E72|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4BCCD88848F5B333C26E324694DE5BD42CAC72BC|metadata|C2A7F78CB5F93202FECFC91C80F40ABF|{
+  "FileType": "pdf",
+  "Fingerprint": "4BCCD88848F5B333C26E324694DE5BD42CAC72BC",
+  "DateAddedToDatabase": "20180429122550401",
+  "DateLastModified": "20180429122550401",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Random Number Generation and Monte Carlo Methods 2nd ed - J. Gentle (Springer, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4BCCD88848F5B333C26E324694DE5BD42CAC72BC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+75F65CBBDF50EE83F847248D5C13FFC5B5AA9F79|metadata|3E8E2E60AAAFB86F38AD2693A3A63E0C|{
+  "FileType": "pdf",
+  "Fingerprint": "75F65CBBDF50EE83F847248D5C13FFC5B5AA9F79",
+  "DateAddedToDatabase": "20180429122550217",
+  "DateLastModified": "20180429122550217",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Numbers - Computers, Philosophers and the Search for Meaning [History of Math] - J. Tabak (Facts on File, 2004) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Scan-Mac",
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+75F65CBBDF50EE83F847248D5C13FFC5B5AA9F79|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7D59EE1E87FB2574618A597D479C6D5E28436|metadata|61C698A488402743CD01C38B84C4303D|{
+  "FileType": "pdf",
+  "Fingerprint": "7D59EE1E87FB2574618A597D479C6D5E28436",
+  "DateAddedToDatabase": "20180429122550152",
+  "DateLastModified": "20180429122550152",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Fearless Symmetry - Exposing the Hidden Patterns of Numbers - A. Ash, R. Gross (Princeton, 2006) .pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Fea:r]zssSymm¢:Iry",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7D59EE1E87FB2574618A597D479C6D5E28436|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CB99EF5E9680B33670E9B4E1E78CE3428D6793E|metadata|888A9EF8967CBA2E74455087BDBB1326|{
+  "FileType": "pdf",
+  "Fingerprint": "CB99EF5E9680B33670E9B4E1E78CE3428D6793E",
+  "DateAddedToDatabase": "20180429122550088",
+  "DateLastModified": "20180429122550088",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Combinatorial Number Theory [Procs., Integers Conf. 2007] - B. Landman, et al., (de Gruyter, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Combinatorial Number  Theory: Proceedings of the  'Integers Conference 2007'",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CB99EF5E9680B33670E9B4E1E78CE3428D6793E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5460FE82F38E83BE9E2DCCA97318D721ECD4C8|metadata|29AD998D05E9E2D3CCF42037F4E634D9|{
+  "FileType": "pdf",
+  "Fingerprint": "5460FE82F38E83BE9E2DCCA97318D721ECD4C8",
+  "DateAddedToDatabase": "20180429122549998",
+  "DateLastModified": "20180429122549998",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\q-Fractional Calculus and Equations - M. Annaby, Z. Mansour (Springer, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Mostafa",
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "q—Fracti0na|Calculus a nd",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5460FE82F38E83BE9E2DCCA97318D721ECD4C8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4882BF5F5C883E582B48857842F75C8F9285E8|metadata|04065295E0DB988CD3848B2EC7B94B20|{
+  "FileType": "pdf",
+  "Fingerprint": "4882BF5F5C883E582B48857842F75C8F9285E8",
+  "DateAddedToDatabase": "20180429122549273",
+  "DateLastModified": "20180429122549273",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory, Analysis and Geometry - In Memory of Serge Lang - D. Goldfeld, et al., (Springer, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "I NumberTheory,",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4882BF5F5C883E582B48857842F75C8F9285E8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+948A383777565AB79D6BCDBFCD2CA6A134A286A3|metadata|D26F0F97D45337F363DCCC59207AA1FF|{
+  "FileType": "pdf",
+  "Fingerprint": "948A383777565AB79D6BCDBFCD2CA6A134A286A3",
+  "DateAddedToDatabase": "20180429122549056",
+  "DateLastModified": "20180429122549056",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Exploring the Number Jungle - A Journey into Diophantine Analysis (corr.) - E. Burger (AMS, 2001) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+948A383777565AB79D6BCDBFCD2CA6A134A286A3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CAC02913055F4C845EB57F34EF880ED51447FBB|metadata|2E5BE28011DF29CEFFB49C0F00C9E54E|{
+  "FileType": "pdf",
+  "Fingerprint": "CAC02913055F4C845EB57F34EF880ED51447FBB",
+  "DateAddedToDatabase": "20180429122548883",
+  "DateLastModified": "20180429122548883",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Without Limits (almost) - J. Sparks (2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "  Calculus Without Limits—Almost",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CAC02913055F4C845EB57F34EF880ED51447FBB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D285C180165748C1F5A75389B4D1922F7D82C9|metadata|AC538C097D182FC770CD1004EC7952BC|{
+  "FileType": "pdf",
+  "Fingerprint": "D285C180165748C1F5A75389B4D1922F7D82C9",
+  "DateAddedToDatabase": "20180429122548786",
+  "DateLastModified": "20180429122548786",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Problems in Real Analysis - Advanced Calculus on the Real Axis - T. Radulescu, et al., (Springer, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D285C180165748C1F5A75389B4D1922F7D82C9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7E187F6ABF6CA0483BCE69A4D774D23D5FF2139C|metadata|FDF8B0391281A62CBD03928283F9FD43|{
+  "FileType": "pdf",
+  "Fingerprint": "7E187F6ABF6CA0483BCE69A4D774D23D5FF2139C",
+  "DateAddedToDatabase": "20180429122548608",
+  "DateLastModified": "20180429122548608",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory [Vol II - Analytic and Modern Tools] - H. Cohen (Springer, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Full page fax print",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7E187F6ABF6CA0483BCE69A4D774D23D5FF2139C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4BF04DDF8D9DDC01DD27D719274FD8E7760FF30|metadata|382C4A9FAD1D64E4BE8C191B0DFACAE2|{
+  "FileType": "pdf",
+  "Fingerprint": "4BF04DDF8D9DDC01DD27D719274FD8E7760FF30",
+  "DateAddedToDatabase": "20180429122548493",
+  "DateLastModified": "20180429122548493",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Experimental Number Theory - F. Villegas (Oxford, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Villegns",
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4BF04DDF8D9DDC01DD27D719274FD8E7760FF30|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+16568483517080AD2E1EAB5DE0A9AEDD72B0F3AA|metadata|FAD155959BD563CC21A2880F3ABE1772|{
+  "FileType": "pdf",
+  "Fingerprint": "16568483517080AD2E1EAB5DE0A9AEDD72B0F3AA",
+  "DateAddedToDatabase": "20180429122548414",
+  "DateLastModified": "20180429122548414",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus with Complex Numbers - J. Reade (2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "ACDSeeImprimer",
+  "AuthorsSuggested": "jjh",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+16568483517080AD2E1EAB5DE0A9AEDD72B0F3AA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CFAEB9EAEACB18E1984AB31DCFCE84403B39|metadata|F3AA1894174919758188551B0B969FDF|{
+  "FileType": "pdf",
+  "Fingerprint": "CFAEB9EAEACB18E1984AB31DCFCE84403B39",
+  "DateAddedToDatabase": "20180429122548318",
+  "DateLastModified": "20180429122548318",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Problems in Mathematical Analysis I - Real Numbers, Sequences and Series - W. Kaczor, M. Nowak (AMS, 2000) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Analysis I",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CFAEB9EAEACB18E1984AB31DCFCE84403B39|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A5E34FEB5CF2357B67915F1E97FF3915083EAE9|metadata|4D2948C5858624A11AEA18A1927076C0|{
+  "FileType": "pdf",
+  "Fingerprint": "A5E34FEB5CF2357B67915F1E97FF3915083EAE9",
+  "DateAddedToDatabase": "20180429122548013",
+  "DateLastModified": "20180429122548013",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory IV - Transcendental Numbers - A. Parshin, I. Shafarevich (Springer, 1997) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Number Theory IV",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A5E34FEB5CF2357B67915F1E97FF3915083EAE9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2FEF37873AE694BCDB8DABA73569F4AA62F2BF|metadata|41F584C4FEB4297843F4F6B621CD8424|{
+  "FileType": "pdf",
+  "Fingerprint": "2FEF37873AE694BCDB8DABA73569F4AA62F2BF",
+  "DateAddedToDatabase": "20180429122547406",
+  "DateLastModified": "20180429122547406",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Theory of Numbers 2nd ed - W. Sierpinski (North Holland, 1988) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2FEF37873AE694BCDB8DABA73569F4AA62F2BF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D8C43175B24BD04EFC5468E8676D4FB257B33D9C|metadata|9B407109B84602B4CA06CAB0CEAFC54F|{
+  "FileType": "pdf",
+  "Fingerprint": "D8C43175B24BD04EFC5468E8676D4FB257B33D9C",
+  "DateAddedToDatabase": "20180429122547204",
+  "DateLastModified": "20180429122547204",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Made Easy - S. Thompson, M. Gardner (St Martin's Press, 1998) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D8C43175B24BD04EFC5468E8676D4FB257B33D9C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A75717D466A0E88C9F6FBD461EF2AC95E14612FF|metadata|7A72562CCE4FF528D246F8F3CF4A0010|{
+  "FileType": "pdf",
+  "Fingerprint": "A75717D466A0E88C9F6FBD461EF2AC95E14612FF",
+  "DateAddedToDatabase": "20180429122547083",
+  "DateLastModified": "20180429122547083",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Problem-Solving and Selected Topics in Number Theory - M. Th. Rassias (Springer, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Problem-Solving and Selected Topics in Number Theory: In the Spirit of the Mathematical Olympiads",
+  "AuthorsSuggested": "Michael Th. Rassias",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A75717D466A0E88C9F6FBD461EF2AC95E14612FF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9A45FB8F37EA66A4A47A79D117633A9BCAF8875|metadata|A433A1A5EB0B95164004F076BA75CF50|{
+  "FileType": "pdf",
+  "Fingerprint": "9A45FB8F37EA66A4A47A79D117633A9BCAF8875",
+  "DateAddedToDatabase": "20180429122546901",
+  "DateLastModified": "20180429122546901",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory in Science and Communication 5th ed. - M. Schroeder (Springer, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "COMMUNICATIONWITH APPLICATIONS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9A45FB8F37EA66A4A47A79D117633A9BCAF8875|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E36A9079E01F86C9ADD4B17FE02D77999FC9AF11|metadata|C687F62FBF890DEEDDE563C6640DD9BD|{
+  "FileType": "pdf",
+  "Fingerprint": "E36A9079E01F86C9ADD4B17FE02D77999FC9AF11",
+  "DateAddedToDatabase": "20180429122546691",
+  "DateLastModified": "20180429122546691",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Textbook On The Calculus - V. Snyder, et. al., (American Book Co., 1912) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E36A9079E01F86C9ADD4B17FE02D77999FC9AF11|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5DB120F8CB9CDEB32B9CE9DF17BA84C2E99122AB|metadata|41DDA16F67F20036F27A98B6B2FCB810|{
+  "FileType": "pdf",
+  "Fingerprint": "5DB120F8CB9CDEB32B9CE9DF17BA84C2E99122AB",
+  "DateAddedToDatabase": "20180429122546512",
+  "DateLastModified": "20180429122546512",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Know-It-All - S. Gibilisco (McGraw-Hill, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5DB120F8CB9CDEB32B9CE9DF17BA84C2E99122AB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DDACA7654833B11B8384FAC4EA6DE7112CED7CE|metadata|3AFC7A4E00DDF69CDB34E706007D77ED|{
+  "FileType": "pdf",
+  "Fingerprint": "DDACA7654833B11B8384FAC4EA6DE7112CED7CE",
+  "DateAddedToDatabase": "20180429122546142",
+  "DateLastModified": "20180429122546142",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory in Mathematics Education - Perspectives and Prospects - R. Zazkis, S. Campbell (LEA, 2006) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "NUMBER THEORY  in MATHEMATICS EDUCATION",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DDACA7654833B11B8384FAC4EA6DE7112CED7CE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B21E998B7347953C29BB4F22FCE208A4DE76CC9|metadata|BE7CCAEC6D64B431B7F5692E04ACA88D|{
+  "FileType": "pdf",
+  "Fingerprint": "B21E998B7347953C29BB4F22FCE208A4DE76CC9",
+  "DateAddedToDatabase": "20180429122543379",
+  "DateLastModified": "20180429122543379",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Numerical Analysis - An Algorithmic Approach 3rd ed - S. Conte, C. deBoor (McGraw-Hill, 1980) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "An Algorithmic Approach",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B21E998B7347953C29BB4F22FCE208A4DE76CC9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+85C544E8064421EA194C329CA69B643A1E75224|metadata|35B920A289E8AA43BE7CAF1FFF5C9FE6|{
+  "FileType": "pdf",
+  "Fingerprint": "85C544E8064421EA194C329CA69B643A1E75224",
+  "DateAddedToDatabase": "20180429122543266",
+  "DateLastModified": "20180429122543266",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus II For Dummies - M. Zegarelli (Wiley, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus II for Dummies",
+  "AuthorsSuggested": "Zegarelli, Mark.",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+85C544E8064421EA194C329CA69B643A1E75224|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2C97B08C64BCF5F976DF4C257161C5D6D788473|metadata|12CCE235A110D79595AF7AD60E7918D3|{
+  "FileType": "pdf",
+  "Fingerprint": "2C97B08C64BCF5F976DF4C257161C5D6D788473",
+  "DateAddedToDatabase": "20180429122543152",
+  "DateLastModified": "20180429122543152",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Prime Numbers - The Most Mysterious Figures in Math.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2C97B08C64BCF5F976DF4C257161C5D6D788473|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D4B02D2D238AE71BBF5DD4331CC8120FBE939E|metadata|31880AF89B34792892F427067BDF0685|{
+  "FileType": "pdf",
+  "Fingerprint": "D4B02D2D238AE71BBF5DD4331CC8120FBE939E",
+  "DateAddedToDatabase": "20180429122543086",
+  "DateLastModified": "20180429122543086",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory - Tradition and Modernization - W. Zhang, Y. Tanigawa (Springer, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "~ NUMBER THEORY",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D4B02D2D238AE71BBF5DD4331CC8120FBE939E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+75423566C9872E6AC7958753EF48D75D57BFE|metadata|A1B36F4F795F162BE4E25BB6B5903C11|{
+  "FileType": "pdf",
+  "Fingerprint": "75423566C9872E6AC7958753EF48D75D57BFE",
+  "DateAddedToDatabase": "20180429122542921",
+  "DateLastModified": "20180429122542921",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory And Primality Tests [unkn] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Chapter 1  The Fundamental Theorem of",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+75423566C9872E6AC7958753EF48D75D57BFE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3D40E5C4BB3F2764B86E4AFF3F2DAEED220B6|metadata|36D86289FAD32FC5CAA06D2494975E29|{
+  "FileType": "pdf",
+  "Fingerprint": "3D40E5C4BB3F2764B86E4AFF3F2DAEED220B6",
+  "DateAddedToDatabase": "20180429122542823",
+  "DateLastModified": "20180429122542823",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus I 2nd ed - J. Marsden, A. Weinstein [STUDENT'S GUIDE] (Springer, 1985) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "CLS",
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3D40E5C4BB3F2764B86E4AFF3F2DAEED220B6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F38245C0EC95D157C7E306DCD341344B5799FC3|metadata|6A324944124BB226B31D1F89D3379D5C|{
+  "FileType": "pdf",
+  "Fingerprint": "F38245C0EC95D157C7E306DCD341344B5799FC3",
+  "DateAddedToDatabase": "20180429122541986",
+  "DateLastModified": "20180429122541986",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Pre-Calculus Know-It-All - S. Gibilisco (McGraw-Hill, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Pre-Calculus Know-It-ALL",
+  "AuthorsSuggested": "Stan Gibilisco",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F38245C0EC95D157C7E306DCD341344B5799FC3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B5EF5460F12AFB7B5F77099E3B5C883017E21C|metadata|40AE956556E0CD1224C8994E72CEE859|{
+  "FileType": "pdf",
+  "Fingerprint": "B5EF5460F12AFB7B5F77099E3B5C883017E21C",
+  "DateAddedToDatabase": "20180429122541571",
+  "DateLastModified": "20180429122541571",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory - An Introduction via the Distribution of Primes - B. Fine, G. Rosenberger (Birkhauser, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B5EF5460F12AFB7B5F77099E3B5C883017E21C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2B87FD88F6535C627EE1C18393C8715755B2BB8|metadata|D59FCE29FDEF4423F7446DEE1BE826B1|{
+  "FileType": "pdf",
+  "Fingerprint": "2B87FD88F6535C627EE1C18393C8715755B2BB8",
+  "DateAddedToDatabase": "20180429122540657",
+  "DateLastModified": "20180429122540657",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory and its Applns 5th ed - K. Rosen (Pearson, 2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Its Applications",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2B87FD88F6535C627EE1C18393C8715755B2BB8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+997239D03AAF6FF3AC718F319BA435E8519F072|metadata|37A531C6F4B7CBF78661079E89B2E99C|{
+  "FileType": "pdf",
+  "Fingerprint": "997239D03AAF6FF3AC718F319BA435E8519F072",
+  "DateAddedToDatabase": "20180429122540180",
+  "DateLastModified": "20180429122540180",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory - An Introduction to Mathematics [Part B] - W. Coppel (Springer, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+997239D03AAF6FF3AC718F319BA435E8519F072|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+82C92D730D939D755CA3BC55CBBB9D734D3AE|metadata|978795CAD168993328218BB440FDC174|{
+  "FileType": "pdf",
+  "Fingerprint": "82C92D730D939D755CA3BC55CBBB9D734D3AE",
+  "DateAddedToDatabase": "20180429122539968",
+  "DateLastModified": "20180429122539968",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory 2nd ed. - U. Dudley (W. H. Freeman, 1978) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Underwood Dudley",
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+82C92D730D939D755CA3BC55CBBB9D734D3AE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DCDA5B7E1E62F563AEFB4B36DC8752CF805FBB2C|metadata|9C4A5F1BC626264DABAD165C42F30DB7|{
+  "FileType": "pdf",
+  "Fingerprint": "DCDA5B7E1E62F563AEFB4B36DC8752CF805FBB2C",
+  "DateAddedToDatabase": "20180429122539832",
+  "DateLastModified": "20180429122539832",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus For The Utterly Confused - R. Oman, D. Oman (McGraw-Hill, 1999) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "CALCULUS FOR THE UTTERLY CONFUSED",
+  "AuthorsSuggested": "Robert M. Oman and Daniel M. Oman",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DCDA5B7E1E62F563AEFB4B36DC8752CF805FBB2C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4A452A94E793CCCB17D62E1C74B1C7A4B3A2ABE|metadata|407350DD6C5C4F53784451A384E217C9|{
+  "FileType": "pdf",
+  "Fingerprint": "4A452A94E793CCCB17D62E1C74B1C7A4B3A2ABE",
+  "DateAddedToDatabase": "20180429122539310",
+  "DateLastModified": "20180429122539310",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory - An Introduction to Mathematics [Part A] - W. Coppel (Springer, 2006) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Springer",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4A452A94E793CCCB17D62E1C74B1C7A4B3A2ABE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9BE865794F654FF993953FBBE9D21724B4D513F|metadata|FFE44E2706FC329329CD17E9265321E3|{
+  "FileType": "pdf",
+  "Fingerprint": "9BE865794F654FF993953FBBE9D21724B4D513F",
+  "DateAddedToDatabase": "20180429122539081",
+  "DateLastModified": "20180429122539081",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory 2nd ed. - U. Dudley (Dover, 2008) [orig 1978] [eCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Number Theory",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9BE865794F654FF993953FBBE9D21724B4D513F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+808CA451AE74835B9BA0DA1DCA9DB4C2A057|metadata|189291E0A3AFD677B11662222EEEA1EA|{
+  "FileType": "pdf",
+  "Fingerprint": "808CA451AE74835B9BA0DA1DCA9DB4C2A057",
+  "DateAddedToDatabase": "20180429122538953",
+  "DateLastModified": "20180429122538953",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus for the Practical Man 2nd ed. - J. Thompson (Van Nostrand, 1946) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+808CA451AE74835B9BA0DA1DCA9DB4C2A057|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CA4CF8E01940EFBA59F3293B0486FB6D4C363EB|metadata|7A9C13B9C9BD5A2DC204B6B2258436F5|{
+  "FileType": "pdf",
+  "Fingerprint": "CA4CF8E01940EFBA59F3293B0486FB6D4C363EB",
+  "DateAddedToDatabase": "20180429122538806",
+  "DateLastModified": "20180429122538806",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Theory - An Approach Through Hist. From Hammurapi to Legendre - A. Weil [reprint of 1984 ed.](Birkhauser, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CA4CF8E01940EFBA59F3293B0486FB6D4C363EB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CCD9D2FC63849D144A3F38AAEB534B4AF9F59787|metadata|F58460EC98338B462E3D8E378B9B6677|{
+  "FileType": "pdf",
+  "Fingerprint": "CCD9D2FC63849D144A3F38AAEB534B4AF9F59787",
+  "DateAddedToDatabase": "20180429122538522",
+  "DateLastModified": "20180429122538522",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory - W. Clark (2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Elementary Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+CCD9D2FC63849D144A3F38AAEB534B4AF9F59787|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+629AE879B22EB94836D1BB88593411CFFFE1650|metadata|9569C54386F91127818891935E96C43E|{
+  "FileType": "pdf",
+  "Fingerprint": "629AE879B22EB94836D1BB88593411CFFFE1650",
+  "DateAddedToDatabase": "20180429122538447",
+  "DateLastModified": "20180429122538447",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus for the Clueless - Calc II - B. Miller WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+629AE879B22EB94836D1BB88593411CFFFE1650|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7731C58FAFE4D87344DE3E40B8F1D3CE8F8971A5|metadata|004E070D52D84F300D060088E9FF4CE5|{
+  "FileType": "pdf",
+  "Fingerprint": "7731C58FAFE4D87344DE3E40B8F1D3CE8F8971A5",
+  "DateAddedToDatabase": "20180429122537959",
+  "DateLastModified": "20180429122537959",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number Story - From Counting to Cryptography - P. Higgins (Copernicus, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7731C58FAFE4D87344DE3E40B8F1D3CE8F8971A5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3E347D1BDA3418FEAC5E9639CFDE3D493AB797D|metadata|540F5B049C367697DE553699277E9051|{
+  "FileType": "pdf",
+  "Fingerprint": "3E347D1BDA3418FEAC5E9639CFDE3D493AB797D",
+  "DateAddedToDatabase": "20180429122537888",
+  "DateLastModified": "20180429122537888",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory - Primes, Congruences and Secrets, A Computational Approach - W. Stein (Springer, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Chan",
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3E347D1BDA3418FEAC5E9639CFDE3D493AB797D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DCBCC565B1A3B9CE8895C6A81C72CFF91CF49DA1|metadata|8D2C5719311E781B7B49ADDDF25C9388|{
+  "FileType": "pdf",
+  "Fingerprint": "DCBCC565B1A3B9CE8895C6A81C72CFF91CF49DA1",
+  "DateAddedToDatabase": "20180429122534780",
+  "DateLastModified": "20180429122534780",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus for the Clueless - Calc I - B. Miller WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Acknowledgments",
+  "AuthorsSuggested": "unation",
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DCBCC565B1A3B9CE8895C6A81C72CFF91CF49DA1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EBACA6A6178C22A334FD3B05460F8AF545CC953|metadata|FFB0F10B7C772C8C08F7D4026C4F4D13|{
+  "FileType": "pdf",
+  "Fingerprint": "EBACA6A6178C22A334FD3B05460F8AF545CC953",
+  "DateAddedToDatabase": "20180429122531332",
+  "DateLastModified": "20180429122531332",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number and Functions - Steps Into Analyis 2nd ed - R. Burn (Cambridge, 2000) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "NUMBERS AND FUNCTIONS  STEPS INT0 ANALYSIS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EBACA6A6178C22A334FD3B05460F8AF545CC953|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A29481AFA045E9B313C8822F66FDCFD1C941CAE|metadata|BBED358D14674BEE51516A67CF3C6FDC|{
+  "FileType": "pdf",
+  "Fingerprint": "A29481AFA045E9B313C8822F66FDCFD1C941CAE",
+  "DateAddedToDatabase": "20180429122530979",
+  "DateLastModified": "20180429122530979",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory - D. Burton (1980) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2000",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A29481AFA045E9B313C8822F66FDCFD1C941CAE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+27E196E971C7E1A4362779D33E98F4392D1DB70|metadata|9C4E6504DAAA3FFC71A08E58D79C2904|{
+  "FileType": "pdf",
+  "Fingerprint": "27E196E971C7E1A4362779D33E98F4392D1DB70",
+  "DateAddedToDatabase": "20180429122530625",
+  "DateLastModified": "20180429122530625",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Essentials For Dummies - M. Ryan (Wiley, 2010) WW.pdf",
+  "BibTex": "@book{ryan2010calculus\n,\ttitle\t= {Calculus essentials for dummies}\n,\tauthor\t= {Ryan, M.}\n,\tisbn\t= {0470618353}\n,\tyear\t= {2010}\n,\tpublisher\t= {For Dummies}\n}",
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus Essentials For Dummies",
+  "AuthorsSuggested": "Mark Ryan",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+27E196E971C7E1A4362779D33E98F4392D1DB70|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EC9462E762A51599158986D6DD8B966BAB87CA3|metadata|E21C50ABEEC491E6049746378150EBDD|{
+  "FileType": "pdf",
+  "Fingerprint": "EC9462E762A51599158986D6DD8B966BAB87CA3",
+  "DateAddedToDatabase": "20180429122530225",
+  "DateLastModified": "20180429122530225",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Number Theory (Math 780 instructors notes) (1996) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EC9462E762A51599158986D6DD8B966BAB87CA3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B7ABFDC2D3A7247E90BC5DD4F820B7F183C2DDCA|metadata|71468B732FFE4B30516BBA21F0E39382|{
+  "FileType": "pdf",
+  "Fingerprint": "B7ABFDC2D3A7247E90BC5DD4F820B7F183C2DDCA",
+  "DateAddedToDatabase": "20180429122530086",
+  "DateLastModified": "20180429122530086",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Demystified 2nd ed - S. Krantz (McGraw-Hill, 2011) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B7ABFDC2D3A7247E90BC5DD4F820B7F183C2DDCA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+25A5F64C47791735C88B292D6D9DE119946A2C|metadata|CDB2513EA96DD7EF0B94A8169731FD47|{
+  "FileType": "pdf",
+  "Fingerprint": "25A5F64C47791735C88B292D6D9DE119946A2C",
+  "DateAddedToDatabase": "20180429122529975",
+  "DateLastModified": "20180429122529975",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Working with Numbers and Statistics - A Hndbk for Journalists - C. Livingston, P. Voakes (LEA, 2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Working With Numbers and Statistics : A Handbook for Journalists",
+  "AuthorsSuggested": "Livingston, Charles.; Voakes, Paul S.",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+25A5F64C47791735C88B292D6D9DE119946A2C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+701799F917D196CF83CF3DEFD9B7C7F9D2DFF6A4|metadata|0A02515E856F50F7346BABC41D0613DD|{
+  "FileType": "pdf",
+  "Fingerprint": "701799F917D196CF83CF3DEFD9B7C7F9D2DFF6A4",
+  "DateAddedToDatabase": "20180429122529836",
+  "DateLastModified": "20180429122529836",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Number - The Language of Science 4th ed - T. Dantzig, J. Mazur (Pi, 2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+701799F917D196CF83CF3DEFD9B7C7F9D2DFF6A4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EB09B1E9437F7CE45655EA5A23B3BC92C7E2B31|metadata|81A03F332E9894A6FF477579E2490A3D|{
+  "FileType": "pdf",
+  "Fingerprint": "EB09B1E9437F7CE45655EA5A23B3BC92C7E2B31",
+  "DateAddedToDatabase": "20180429122529729",
+  "DateLastModified": "20180429122529729",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Methods in Number Theory - M. Nathanson (Springer, 2000) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Elementary Methods in  Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EB09B1E9437F7CE45655EA5A23B3BC92C7E2B31|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+86F4935E1BB7E4F191C2CAA64441D566714CB05|metadata|27EE149547EBABCAD5E86792BB8B949A|{
+  "FileType": "pdf",
+  "Fingerprint": "86F4935E1BB7E4F191C2CAA64441D566714CB05",
+  "DateAddedToDatabase": "20180429122529545",
+  "DateLastModified": "20180429122529545",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus Demystified - S. Krantz (McGraw-Hill, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+86F4935E1BB7E4F191C2CAA64441D566714CB05|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4842CF98C9EDB13FC2B3FE9D573CD608532A|metadata|579F2262FB17DEFB4136C35F9789C80C|{
+  "FileType": "pdf",
+  "Fingerprint": "4842CF98C9EDB13FC2B3FE9D573CD608532A",
+  "DateAddedToDatabase": "20180429122523782",
+  "DateLastModified": "20180429122523782",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - Concepts and Contexts 4th ed. - J. Stewart [smaller size] (Cengage, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus: Concepts and Contexts",
+  "AuthorsSuggested": "James Stewart",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4842CF98C9EDB13FC2B3FE9D573CD608532A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+59CED2ABCE973417735CB3DD19B1F4ECC6657029|metadata|B637D3AC91A56D76A4E025E314243F2A|{
+  "FileType": "pdf",
+  "Fingerprint": "59CED2ABCE973417735CB3DD19B1F4ECC6657029",
+  "DateAddedToDatabase": "20180429122522322",
+  "DateLastModified": "20180429122522322",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Elementary Calculus - An Infinitesimal Approach - H. Keisler (publ. by author, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Calculus. An Infinitesimal Approach",
+  "AuthorsSuggested": "H. Jerome Keisler",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+59CED2ABCE973417735CB3DD19B1F4ECC6657029|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+AF42E91CA13016D4FF3164F4DF8D96BB06E6976|metadata|2C6F5F61DE80BDBB0A5ADE59F59B81FF|{
+  "FileType": "pdf",
+  "Fingerprint": "AF42E91CA13016D4FF3164F4DF8D96BB06E6976",
+  "DateAddedToDatabase": "20180429122521868",
+  "DateLastModified": "20180429122521868",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus and Linear Algebra Volume 2 2nd ed. - T. Apostol (1967) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus",
+  "AuthorsSuggested": "Tom A. Apostol",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+AF42E91CA13016D4FF3164F4DF8D96BB06E6976|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D75BFAAF36CBB6555813244DF2C53DD813B97FC1|metadata|FA09F92FA1765357317C2BA44033532F|{
+  "FileType": "pdf",
+  "Fingerprint": "D75BFAAF36CBB6555813244DF2C53DD813B97FC1",
+  "DateAddedToDatabase": "20180429122521519",
+  "DateLastModified": "20180429122521519",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - An Applied Approach 8th ed. - R. Larson (Cengage, 2009) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D75BFAAF36CBB6555813244DF2C53DD813B97FC1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6CCBF7CAA4673B6FF152C351A6A0E1E1EE2C5D3|metadata|9ED073F34D90DD9C5C4FF8F38FAB4251|{
+  "FileType": "pdf",
+  "Fingerprint": "6CCBF7CAA4673B6FF152C351A6A0E1E1EE2C5D3",
+  "DateAddedToDatabase": "20180429122515777",
+  "DateLastModified": "20180429122515777",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Discrete and Combinatorial Mathematics - An Applied Introduction 3rd ed. - R. Grimaldi (Addison-Wesley, 1994) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Discrete and Combinatorial Mathematics - An Applied Introduction 3rd ed. - R. Grimaldi (Addison-Wesley, 1994) WW.djvu",
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+6CCBF7CAA4673B6FF152C351A6A0E1E1EE2C5D3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+55F665BB82DC08BC7AE39E5837142F82B9D429|metadata|5DE23EA8ED052361DDE9D6F1D3DAD628|{
+  "FileType": "pdf",
+  "Fingerprint": "55F665BB82DC08BC7AE39E5837142F82B9D429",
+  "DateAddedToDatabase": "20180429122515198",
+  "DateLastModified": "20180429122515198",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus and Linear Algebra Volume 1 2nd ed. - T. Apostol (1967) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus 1",
+  "AuthorsSuggested": "Tom A. Apostol",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+55F665BB82DC08BC7AE39E5837142F82B9D429|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C7249FE867C2461A3E61B40865BD825E0579985|metadata|9AC687859C33C13B7627A58937D7380C|{
+  "FileType": "pdf",
+  "Fingerprint": "C7249FE867C2461A3E61B40865BD825E0579985",
+  "DateAddedToDatabase": "20180429122514476",
+  "DateLastModified": "20180429122514476",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - A Complete Course 7th ed. - R. Adams, C. Essex (Pearson, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "lenovo",
+  "YearSuggested": "2011",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "mmss",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C7249FE867C2461A3E61B40865BD825E0579985|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DA414069C9A099A78DA4A9E1C0BCDA5D1B236B7|metadata|B737324E106BFFAC562B255D1792C3DF|{
+  "FileType": "pdf",
+  "Fingerprint": "DA414069C9A099A78DA4A9E1C0BCDA5D1B236B7",
+  "DateAddedToDatabase": "20180429122514255",
+  "DateLastModified": "20180429122514255",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Differential Equations - Linear, Nonlinear, Ordinary, Partial - A. King, J. Billingham, S. Otto (Cambridge, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Differential Equations",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DA414069C9A099A78DA4A9E1C0BCDA5D1B236B7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+29B7A34C761C15F546287A7403D6A299182392B|metadata|E1150D8254F386A8BBD2276E1BDD810F|{
+  "FileType": "pdf",
+  "Fingerprint": "29B7A34C761C15F546287A7403D6A299182392B",
+  "DateAddedToDatabase": "20180429122514101",
+  "DateLastModified": "20180429122514101",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus and Its Origins - D. Perkins (MAA, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus and Its Origins",
+  "AuthorsSuggested": "Perkins, David.",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+29B7A34C761C15F546287A7403D6A299182392B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EF92C03C49B9891D5EE0D844284B2E29FB35C2DA|metadata|8AA54BE2189A83CB7B360D3506156AFC|{
+  "FileType": "pdf",
+  "Fingerprint": "EF92C03C49B9891D5EE0D844284B2E29FB35C2DA",
+  "DateAddedToDatabase": "20180429122510860",
+  "DateLastModified": "20180429122510860",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Beyond Measure - A Guided Tour Through Nature, Myth and Number - J. Kappraff (World, 2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "BEYOND MEASURE",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EF92C03C49B9891D5EE0D844284B2E29FB35C2DA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DACE17EE7BAAF1E77A4A2C1C9BB54C5071CB3134|metadata|8A52B2F359FAF420BB2EC7E3C9BD6AF9|{
+  "FileType": "pdf",
+  "Fingerprint": "DACE17EE7BAAF1E77A4A2C1C9BB54C5071CB3134",
+  "DateAddedToDatabase": "20180429122510465",
+  "DateLastModified": "20180429122510465",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Differential Calculus - R. Mohanty (ANMOL, 2004) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Hydrostatics",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DACE17EE7BAAF1E77A4A2C1C9BB54C5071CB3134|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D83010D867FD6E8053A8974B59AAB8B7FC24940|metadata|A52EB3421015AAE66C4461D15D825D00|{
+  "FileType": "pdf",
+  "Fingerprint": "D83010D867FD6E8053A8974B59AAB8B7FC24940",
+  "DateAddedToDatabase": "20180429122510069",
+  "DateLastModified": "20180429122510069",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus 5th ed - Brooks, Cole WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Functions and Models",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D83010D867FD6E8053A8974B59AAB8B7FC24940|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5BB4B57C3E53727DCC5461725A6D3CBBB4CD7F6A|metadata|107AB2E802A467B2E3A6A2D55F7F6064|{
+  "FileType": "pdf",
+  "Fingerprint": "5BB4B57C3E53727DCC5461725A6D3CBBB4CD7F6A",
+  "DateAddedToDatabase": "20180429122508093",
+  "DateLastModified": "20180429122508093",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Basic Number Theory 3rd ed - A. Weil (Springer, 1974) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2000",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Basic Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5BB4B57C3E53727DCC5461725A6D3CBBB4CD7F6A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1BF719DE4BBA267B730FBDFBF2BEADD44661E|metadata|382CB4CD718258F792F6A265A601EA6C|{
+  "FileType": "pdf",
+  "Fingerprint": "1BF719DE4BBA267B730FBDFBF2BEADD44661E",
+  "DateAddedToDatabase": "20180429122507802",
+  "DateLastModified": "20180429122507802",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Differential Calculus - H. Hishan (Atlantic Pubs., 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elementary Hydrostatics",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1BF719DE4BBA267B730FBDFBF2BEADD44661E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+886B344C68672F93DB92E42DA9B3F21DD9F57|metadata|D6B520C42C677FEBE508F210FE263DD9|{
+  "FileType": "pdf",
+  "Fingerprint": "886B344C68672F93DB92E42DA9B3F21DD9F57",
+  "DateAddedToDatabase": "20180429122507338",
+  "DateLastModified": "20180429122507338",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus 4th ed. - J. Stewart (Brooks Cole, 1999 )[NO TOC, IDX] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Functions and Models",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+886B344C68672F93DB92E42DA9B3F21DD9F57|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8D35CF869D95D3803844AA4D5DADCBBD837492|metadata|5A62EBBCEC6BAF7CA7E50D27B02B9FB1|{
+  "FileType": "pdf",
+  "Fingerprint": "8D35CF869D95D3803844AA4D5DADCBBD837492",
+  "DateAddedToDatabase": "20180429122503286",
+  "DateLastModified": "20180429122503286",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Approximation by Algebraic Numbers - Y. Bugeaud (Cambridge, 2004) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Approximation By Algebraic Numbers",
+  "AuthorsSuggested": "YANN BUGEAUD",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8D35CF869D95D3803844AA4D5DADCBBD837492|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+28CECE527DA34A239261953F6DC64ADDEAD48C1|metadata|64FEF5C9389444A80B93425C887473D9|{
+  "FileType": "pdf",
+  "Fingerprint": "28CECE527DA34A239261953F6DC64ADDEAD48C1",
+  "DateAddedToDatabase": "20180429122501715",
+  "DateLastModified": "20180429122501715",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus 2nd ed. - J. Rogawski - (W. H. Freeman, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Calculus",
+  "AuthorsSuggested": "Jon Rogawski",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+28CECE527DA34A239261953F6DC64ADDEAD48C1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2FD7DAEC418A54A8157222C413EC1C6E8030D714|metadata|20581D754FCB12741FA57FF614443440|{
+  "FileType": "pdf",
+  "Fingerprint": "2FD7DAEC418A54A8157222C413EC1C6E8030D714",
+  "DateAddedToDatabase": "20180429122501081",
+  "DateLastModified": "20180429122501081",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Analytic Number Theory - D. Newman (Springer, 1998) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Analytic Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2FD7DAEC418A54A8157222C413EC1C6E8030D714|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3AF7129A68DE7C9141E369CEF24D5BD4DD29|metadata|5DBA0CF5BB211264123BCD85971416B3|{
+  "FileType": "pdf",
+  "Fingerprint": "3AF7129A68DE7C9141E369CEF24D5BD4DD29",
+  "DateAddedToDatabase": "20180429122500816",
+  "DateLastModified": "20180429122500816",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - Single and Multivariable 6th ed. - D. Hughes-Hallett, et al., (Wiley, 2013) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3AF7129A68DE7C9141E369CEF24D5BD4DD29|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9A10DBC712226850EACE5428D0A7AE60CED31DEA|metadata|B1BE9D7BA987A14A70B46977991AAE34|{
+  "FileType": "pdf",
+  "Fingerprint": "9A10DBC712226850EACE5428D0A7AE60CED31DEA",
+  "DateAddedToDatabase": "20180429122500124",
+  "DateLastModified": "20180429122500124",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Analytic Number Theory - A Tribute to Gauss and Dirichlet - W. Duke, Y. Tschinke (AMS, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Analytic Number Theory A Tribute to Gauss and Dirichlet",
+  "AuthorsSuggested": "pxs",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9A10DBC712226850EACE5428D0A7AE60CED31DEA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F3EAB7E3791B83781E7304275DEAA56E0B16BD4|metadata|1ABFBF5C644876B6BABDD8D70691E5B5|{
+  "FileType": "pdf",
+  "Fingerprint": "F3EAB7E3791B83781E7304275DEAA56E0B16BD4",
+  "DateAddedToDatabase": "20180429122459634",
+  "DateLastModified": "20180429122459634",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - G. Strang [textbook] (1991) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F3EAB7E3791B83781E7304275DEAA56E0B16BD4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+57EE49488635CE4B7FCD6EF1CDF77BE7BD1AB7|metadata|A6AAA32FA7FF984C3F2B630E6457D441|{
+  "FileType": "pdf",
+  "Fingerprint": "57EE49488635CE4B7FCD6EF1CDF77BE7BD1AB7",
+  "DateAddedToDatabase": "20180429122452908",
+  "DateLastModified": "20180429122452908",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Analysis by Its History [calculus in order of discovery] - E. Hairer, G. Wanner (Springer, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Analysis by its History",
+  "AuthorsSuggested": "Ernst Hairer; Gerhard Wanner",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+57EE49488635CE4B7FCD6EF1CDF77BE7BD1AB7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A03069D13F0F3BFD98CBFECA27799E7933F9E5|metadata|85E5615F71B70CACD0F2B7632B24B063|{
+  "FileType": "pdf",
+  "Fingerprint": "A03069D13F0F3BFD98CBFECA27799E7933F9E5",
+  "DateAddedToDatabase": "20180429122452581",
+  "DateLastModified": "20180429122452581",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - G. Strang [study guide] (1991) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "STUDY GUIDE TO CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A03069D13F0F3BFD98CBFECA27799E7933F9E5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+31166B8CC7185D259BB8D983B82285E9BBC7B48|metadata|11A2659506B3BCA3DF22CA71F581B98E|{
+  "FileType": "pdf",
+  "Fingerprint": "31166B8CC7185D259BB8D983B82285E9BBC7B48",
+  "DateAddedToDatabase": "20180429122452351",
+  "DateLastModified": "20180429122452351",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\An Introduction to Number Theory - G. Everest, T. Ward (Springer, 2005) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Graduate Texts in Mathematics 232",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+31166B8CC7185D259BB8D983B82285E9BBC7B48|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B337A2A6E098D0791F278EA67C72862C576216FB|metadata|5B096B06B44E772F395C66458A1927EF|{
+  "FileType": "pdf",
+  "Fingerprint": "B337A2A6E098D0791F278EA67C72862C576216FB",
+  "DateAddedToDatabase": "20180429122452206",
+  "DateLastModified": "20180429122452206",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Calculus - G. Strang [instructors manual] (1991) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B337A2A6E098D0791F278EA67C72862C576216FB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6163669CC5F77B7AEECF1FFFD176EDD4F5EB79|metadata|0A557774535F0186E3B8486FEB8FAFAE|{
+  "FileType": "pdf",
+  "Fingerprint": "6163669CC5F77B7AEECF1FFFD176EDD4F5EB79",
+  "DateAddedToDatabase": "20180429122450895",
+  "DateLastModified": "20180429122450895",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\An Explicit Approach To Elementary Number Theory - W. Stein (2001) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2002",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Ari Explicit Approach tc Elcmcntary Number Thccry",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+6163669CC5F77B7AEECF1FFFD176EDD4F5EB79|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+378448D4DBF2B804FA14D38223CE955A1E12259|metadata|F22397528DA79E1745067C594CFCC2FD|{
+  "FileType": "pdf",
+  "Fingerprint": "378448D4DBF2B804FA14D38223CE955A1E12259",
+  "DateAddedToDatabase": "20180429122450164",
+  "DateLastModified": "20180429122450164",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Number Theory - H. Cohn (1962) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced NUMBERTHEORY",
+  "AuthorsSuggested": "Harvey Cohn",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+378448D4DBF2B804FA14D38223CE955A1E12259|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DA2A30D7A2DD5AC26E196DE63AD4D7B2FFFB461|metadata|98C0908EC1F4F349B7A3B3A7D9D3DBE6|{
+  "FileType": "pdf",
+  "Fingerprint": "DA2A30D7A2DD5AC26E196DE63AD4D7B2FFFB461",
+  "DateAddedToDatabase": "20180429122449917",
+  "DateLastModified": "20180429122449917",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus With Applications In Statistics 2nd ed - A. Khuri (Wiley, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced Calculus with Applications in Statistics",
+  "AuthorsSuggested": "Andre l. Khuri",
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DA2A30D7A2DD5AC26E196DE63AD4D7B2FFFB461|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+24E328DFF42624CFAEAE89668F45BA32275F24|metadata|67B042E80385710A21DFF39C833841F7|{
+  "FileType": "pdf",
+  "Fingerprint": "24E328DFF42624CFAEAE89668F45BA32275F24",
+  "DateAddedToDatabase": "20180429122449766",
+  "DateLastModified": "20180429122449766",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus Demystified - D. Bachman (McGraw-Hill, 2007) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+24E328DFF42624CFAEAE89668F45BA32275F24|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A9E9CFFC1753780982B7AF0C2F40D93F3D3386|metadata|11E16150FA55028853525368F6E63F71|{
+  "FileType": "pdf",
+  "Fingerprint": "A9E9CFFC1753780982B7AF0C2F40D93F3D3386",
+  "DateAddedToDatabase": "20180429122449554",
+  "DateLastModified": "20180429122449554",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus 5th ed. - W. Kaplan (Pearson, 2003) [Chinese reprint] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced Calculus",
+  "AuthorsSuggested": "Wilfred Kaplan",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A9E9CFFC1753780982B7AF0C2F40D93F3D3386|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9A9AEF257DD241AB1C5C5CD512D7C7E7774CB27|metadata|613C7659F5B5B09111265CD2BB160B57|{
+  "FileType": "pdf",
+  "Fingerprint": "9A9AEF257DD241AB1C5C5CD512D7C7E7774CB27",
+  "DateAddedToDatabase": "20180429122447361",
+  "DateLastModified": "20180429122447361",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus 4th ed. (corr.) - W. Kaplan (Addison-Wesley, 1993) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2013",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9A9AEF257DD241AB1C5C5CD512D7C7E7774CB27|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5C562AE65E94587CB5E1A1BB40D188C359CC|metadata|4BCAD4BE14BBDB3CFFFAEB1A77122CCD|{
+  "FileType": "pdf",
+  "Fingerprint": "5C562AE65E94587CB5E1A1BB40D188C359CC",
+  "DateAddedToDatabase": "20180429122445753",
+  "DateLastModified": "20180429122445753",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus 3rd ed - R. Buck  (McGraw-Hill, 1978).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "ADVANCED CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5C562AE65E94587CB5E1A1BB40D188C359CC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+29B586706BC6707C82441A704419537D33A75287|metadata|9C4AB4139C870A9DA6FBB81BD3035A67|{
+  "FileType": "pdf",
+  "Fingerprint": "29B586706BC6707C82441A704419537D33A75287",
+  "DateAddedToDatabase": "20180429122444772",
+  "DateLastModified": "20180429122444772",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus 3rd ed - A. Taylor, W. Mann (Wiley, 1983) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "§ ADVANCED",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+29B586706BC6707C82441A704419537D33A75287|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EBA9C2BAC1E301AEFA99296E0BF43CEBDA4D175|metadata|F530433AFCF421A92EFEC1F11665356F|{
+  "FileType": "pdf",
+  "Fingerprint": "EBA9C2BAC1E301AEFA99296E0BF43CEBDA4D175",
+  "DateAddedToDatabase": "20180429122439240",
+  "DateLastModified": "20180429122439240",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus 2nd ed - L. Loomis, S. Sternberg (Jones and Bartlerr, 1990) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "ADVANCED CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+EBA9C2BAC1E301AEFA99296E0BF43CEBDA4D175|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C167B1F0B8D2955D5D436B3DCD2CD0A19D80B2|metadata|05A833CD79156E1519DB0A5BEDB7ED7B|{
+  "FileType": "pdf",
+  "Fingerprint": "C167B1F0B8D2955D5D436B3DCD2CD0A19D80B2",
+  "DateAddedToDatabase": "20180429122438892",
+  "DateLastModified": "20180429122438892",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus - J. Weinstein (1997) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1999",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "ADVANCED CALCULUS",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C167B1F0B8D2955D5D436B3DCD2CD0A19D80B2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6944B1233C956EC3989365AF42BEDFAF58CB264|metadata|6A3EDC5ADB178FF958C173B7BE034A91|{
+  "FileType": "pdf",
+  "Fingerprint": "6944B1233C956EC3989365AF42BEDFAF58CB264",
+  "DateAddedToDatabase": "20180429122434505",
+  "DateLastModified": "20180429122434505",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus - An Introduction to Linear Analysis - L. Richardson (Wiley, 2008) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced Calculus: An Introduction to Linear Analysis",
+  "AuthorsSuggested": "Leonard F. Richardson",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+6944B1233C956EC3989365AF42BEDFAF58CB264|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B1677D0FBE422B28FE831C7BF0B8463EB27FB|metadata|06A842719FE93E52CF02AFF1CCC72DB0|{
+  "FileType": "pdf",
+  "Fingerprint": "B1677D0FBE422B28FE831C7BF0B8463EB27FB",
+  "DateAddedToDatabase": "20180429122433491",
+  "DateLastModified": "20180429122433491",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus - A Transition to Analysis - J. Dence, T. Dence (AP, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced Calculus A Transition to Analysis",
+  "AuthorsSuggested": "Joseph B. Dence,Thomas P. Dence",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B1677D0FBE422B28FE831C7BF0B8463EB27FB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2DA6791FEA95A1C8A56A7253444D9D9E2523B2|metadata|AFE6948F95AC4B68958922BE6F3C4A6A|{
+  "FileType": "pdf",
+  "Fingerprint": "2DA6791FEA95A1C8A56A7253444D9D9E2523B2",
+  "DateAddedToDatabase": "20180429122433356",
+  "DateLastModified": "20180429122433356",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Advanced Calculus - A Geometric View - J. Callahan (Springer, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Advanced Calculus: A Geometric View",
+  "AuthorsSuggested": "James J. Callahan",
+  "YearSuggested": "2018",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2DA6791FEA95A1C8A56A7253444D9D9E2523B2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+786B9C3344C51636674183B02B8359937D1C18|metadata|39A8AC37740F5D7634E400A92D837497|{
+  "FileType": "pdf",
+  "Fingerprint": "786B9C3344C51636674183B02B8359937D1C18",
+  "DateAddedToDatabase": "20180429122429769",
+  "DateLastModified": "20180429122429769",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\Additive Number Theory - M. Nathanson (Springer, 1996) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Additive Number Theory: Inverse Problems and the Geometry of Sumsets",
+  "AuthorsSuggested": "Melvyn B. Nathanson",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+786B9C3344C51636674183B02B8359937D1C18|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2112DBBBDD0E0DB952A53D3D34539A5EC31382|metadata|E2F9D945839DC19A2B396AD02401D056|{
+  "FileType": "pdf",
+  "Fingerprint": "2112DBBBDD0E0DB952A53D3D34539A5EC31382",
+  "DateAddedToDatabase": "20180429122429445",
+  "DateLastModified": "20180429122429445",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Wealth of Numbers - Anthology of 500 Years of Pop. Math. Writing - B. Wardhaugh (Princeton, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A Wealth of Numbers: An Anthology of 500 Years of Popular Mathematics Writing",
+  "AuthorsSuggested": "Benjamin Wardhaugh",
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2112DBBBDD0E0DB952A53D3D34539A5EC31382|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E4B1A39F26239832FFC39C4F8E83DD1F534B1AC2|metadata|D5FAAC19AD4443BE177DDFC76B1DBE91|{
+  "FileType": "pdf",
+  "Fingerprint": "E4B1A39F26239832FFC39C4F8E83DD1F534B1AC2",
+  "DateAddedToDatabase": "20180429122429351",
+  "DateLastModified": "20180429122429351",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A View from the Top - Analysis, Combinatorics and Number Theory - A. Iosevich (AMS, 2007) [dCV] WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "John",
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E4B1A39F26239832FFC39C4F8E83DD1F534B1AC2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D710F2E3939AB34832B252E3BAFCD2C875DC509F|metadata|B42346C16064944EA6DACFB879696CAB|{
+  "FileType": "pdf",
+  "Fingerprint": "D710F2E3939AB34832B252E3BAFCD2C875DC509F",
+  "DateAddedToDatabase": "20180429122429225",
+  "DateLastModified": "20180429122429225",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Primer of Analytic Number Theory - From Pythagoras to Riemann - J. Stopple (Cambridge, 2003) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A PRIMER OF ANALYTIC NUMBER THEORY: From Pythagoras to Riemann",
+  "AuthorsSuggested": "JEFFREY STOPPLE",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D710F2E3939AB34832B252E3BAFCD2C875DC509F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2C51A08B2C4C1844E645ECC7C1C7B206CB0F3BB|metadata|C5CA2073B1B9BEB2D75942085AFB9133|{
+  "FileType": "pdf",
+  "Fingerprint": "2C51A08B2C4C1844E645ECC7C1C7B206CB0F3BB",
+  "DateAddedToDatabase": "20180429122429098",
+  "DateLastModified": "20180429122429098",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A First Course in Calculus 5th ed. - S. Lang (Springer, 1986) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Serge Lang  A First Course  in Calculus",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2C51A08B2C4C1844E645ECC7C1C7B206CB0F3BB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9594493BEEC59B05352E88B4F731125650B08C|metadata|64B3EE1EA0D8609DB8D9BBE67180EBB1|{
+  "FileType": "pdf",
+  "Fingerprint": "9594493BEEC59B05352E88B4F731125650B08C",
+  "DateAddedToDatabase": "20180429122426974",
+  "DateLastModified": "20180429122426974",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Dictionary of Real Numbers - J. Borwein, P. Borwein (Wadsworth, 1990) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9594493BEEC59B05352E88B4F731125650B08C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2D45FEABEEC75435A878F162374627E319A4A18|metadata|40F53FAAB01AA30508D14B2647F3A931|{
+  "FileType": "pdf",
+  "Fingerprint": "2D45FEABEEC75435A878F162374627E319A4A18",
+  "DateAddedToDatabase": "20180429122426806",
+  "DateLastModified": "20180429122426806",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Course in Algebraic Number Theory - R. Ash (Dover, 2010) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "wb",
+  "YearSuggested": "2002",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "AwebrancumberE0 ry",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+2D45FEABEEC75435A878F162374627E319A4A18|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8FC92FEC6A2A4C8D52360A2AEC798B9ECBEAE2|metadata|6A96298FE72034F3201BC55503CB7618|{
+  "FileType": "pdf",
+  "Fingerprint": "8FC92FEC6A2A4C8D52360A2AEC798B9ECBEAE2",
+  "DateAddedToDatabase": "20180429122426734",
+  "DateLastModified": "20180429122426734",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Comprehensive Course in Number Theory - A. Baker (Cambridge, 2012) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Number Theory BA k er A Comprehensive Course in Number Theory",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8FC92FEC6A2A4C8D52360A2AEC798B9ECBEAE2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1493EE39E881C110C9CA6A8D6BA8E72F209F4178|metadata|36208D36D8DF97621E1F38D79EA07BE5|{
+  "FileType": "pdf",
+  "Fingerprint": "1493EE39E881C110C9CA6A8D6BA8E72F209F4178",
+  "DateAddedToDatabase": "20180429122425689",
+  "DateLastModified": "20180429122425689",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\A Calculus Approach to Matrix Eigenvalue Algorithms - K. Hueper (2002) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2018",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Calculus Approach to  Matrix Eigenvalue Algorithms",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+1493EE39E881C110C9CA6A8D6BA8E72F209F4178|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3BEE2F1ED1D2915EA746A68822A8E3DC6A16122|metadata|BAF1B72E6DAE3077804DF23827219BB2|{
+  "FileType": "pdf",
+  "Fingerprint": "3BEE2F1ED1D2915EA746A68822A8E3DC6A16122",
+  "DateAddedToDatabase": "20180429122425624",
+  "DateLastModified": "20180429122425624",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2018-04-28-books\\250 Problems in Elementary Number Theory - W. Sierpinski (Elsevier, 1970) WW.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "math",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_OCRFrontPage": true,
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3BEE2F1ED1D2915EA746A68822A8E3DC6A16122|citations|D41D8CD98F00B204E9800998ECF8427E||NULL

@@ -1,0 +1,3805 @@
+5597BDBDE0CD3FF15DB5F11F92D7CFDB5860261B|metadata|0A4D91AE8C4F2BE992E6F6B7F309057B|{
+  "FileType": "pdf",
+  "Fingerprint": "5597BDBDE0CD3FF15DB5F11F92D7CFDB5860261B",
+  "DateAddedToDatabase": "20170711020438101",
+  "DateLastModified": "20170711020438101",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Numerical_Computing_with_IEEE_Floating_Point_Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134221727",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+5597BDBDE0CD3FF15DB5F11F92D7CFDB5860261B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D2A512E4E64A2925236CDF5E9042368E4CFF506|metadata|6355506C6E087BD3474FAEFD3E9CFE94|{
+  "FileType": "pdf",
+  "Fingerprint": "D2A512E4E64A2925236CDF5E9042368E4CFF506",
+  "DateAddedToDatabase": "20170711020407925",
+  "DateLastModified": "20170711020407925",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Chapter6-FloatingPoint.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134222794",
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "hwu",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating Point Considerations",
+  "PageLastRead": 1
+}|NULL
+D2A512E4E64A2925236CDF5E9042368E4CFF506|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A1B8AA6A804E4C1AB51C64DB475DE5EF144CC10|metadata|0BA2C6091E12F68949543E3B926B9B6F|{
+  "FileType": "pdf",
+  "Fingerprint": "A1B8AA6A804E4C1AB51C64DB475DE5EF144CC10",
+  "DateAddedToDatabase": "20170711020419377",
+  "DateLastModified": "20170711020419377",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\FP5830x2.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134223057",
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "elb",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating Point Arithmetic"
+}|NULL
+A1B8AA6A804E4C1AB51C64DB475DE5EF144CC10|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F97B1A799D653796B1DBF8BE70A855E4C8D42263|metadata|88D4D7AC018B588EE95CADA165EB8DD3|{
+  "FileType": "pdf",
+  "Fingerprint": "F97B1A799D653796B1DBF8BE70A855E4C8D42263",
+  "DateAddedToDatabase": "20170711020525537",
+  "DateLastModified": "20170711020525537",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\P\\Panhaleux - Contributions to oating-point arithmetic - Coding and correct rounding of algebraic functions.pdf",
+  "BibTex": "@phdthesis{panhaleux2012contributions,\n  title={Contributions to floating-point arithmetic: Coding and correct rounding of algebraic functions},\n  author={Panhaleux, Adrien},\n  year={2012},\n  school={Ecole normale sup{\\'e}rieure de lyon-ENS LYON}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134223521",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Contributions to floating-point arithmetic : Coding and  correct rounding of algebraic functions",
+  "AuthorsSuggested": "Adrien Panhaleux",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+F97B1A799D653796B1DBF8BE70A855E4C8D42263|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1285819A906FAFB32A3EFFE3587EA73BF010E65A|metadata|D1D4B65A7C71F4F009FF1045F86D12E4|{
+  "FileType": "pdf",
+  "Fingerprint": "1285819A906FAFB32A3EFFE3587EA73BF010E65A",
+  "DateAddedToDatabase": "20170711020444403",
+  "DateLastModified": "20170711020444403",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Sept20pm2_Zimmermann (1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134224672",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "trust  floating-point"
+}|NULL
+1285819A906FAFB32A3EFFE3587EA73BF010E65A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4E879F819282478A66B6334232445A5EB89F648|metadata|378FAA5E669281E9261CE85DDBFF708A|{
+  "FileType": "pdf",
+  "Fingerprint": "4E879F819282478A66B6334232445A5EB89F648",
+  "DateAddedToDatabase": "20170711020410178",
+  "DateLastModified": "20170711020410178",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\dagstuhl03.pdf",
+  "BibTex": "@incollection{putot2004static,\n  title={Static analysis-based validation of floating-point computations},\n  author={Putot, Sylvie and Goubault, Eric and Martel, Matthieu},\n  booktitle={Numerical software with result verification},\n  pages={306--313},\n  year={2004},\n  publisher={Springer}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134225281",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating-Point Computations",
+  "PageLastRead": 1,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+4E879F819282478A66B6334232445A5EB89F648|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+24D38DFD68580701D88856ACCB373886EBE359|metadata|EC8686C5F7ED7E8D87ECF67563E701BB|{
+  "FileType": "pdf",
+  "Fingerprint": "24D38DFD68580701D88856ACCB373886EBE359",
+  "DateAddedToDatabase": "20170711020757192",
+  "DateLastModified": "20170711020757192",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\REC08_Paper_Graillat.pdf",
+  "BibTex": "@article{graillat2008accurate,\n  title={Accurate Floating Point Product},\n  author={Graillat, Stef},\n  journal={Proceedings of the REC08},\n  year={2008}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134225538",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Accurate Floating Point Product",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+24D38DFD68580701D88856ACCB373886EBE359|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B51794EE6DAC691A0F9F99F7F6CAA8DC8E67C30|metadata|D9F7FE9B5FCCBEAD9C82DA7D57E800AE|{
+  "FileType": "pdf",
+  "Fingerprint": "B51794EE6DAC691A0F9F99F7F6CAA8DC8E67C30",
+  "DateAddedToDatabase": "20170711020414781",
+  "DateLastModified": "20170711020414781",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\dtoa.pdf",
+  "BibTex": "@inproceedings{burger1996printing,\n  title={Printing floating-point numbers quickly and accurately},\n  author={Burger, Robert G and Dybvig, R Kent},\n  booktitle={ACM SIGPLAN Notices},\n  volume={31},\n  number={5},\n  pages={108--116},\n  year={1996},\n  organization={ACM}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134225857",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Printing Floating-Point Numbers",
+  "PageLastRead": 1,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+B51794EE6DAC691A0F9F99F7F6CAA8DC8E67C30|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3AFAA0281C277BAA117171FBCAAE8815F2E4A7C6|metadata|54F026241F944EC3450CB317AFB65815|{
+  "FileType": "pdf",
+  "Fingerprint": "3AFAA0281C277BAA117171FBCAAE8815F2E4A7C6",
+  "DateAddedToDatabase": "20170711020419324",
+  "DateLastModified": "20170711020419324",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\fp-printing-popl16 (1).pdf",
+  "BibTex": "@article{andryscoprinting,\n  title={Printing Floating-Point Numbers},\n  author={Andrysco, Marc and Jhala, Ranjit and Lerner, Sorin}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134226165",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Printing Floating-Point Numbers",
+  "Title": null,
+  "Authors": null
+}|NULL
+3AFAA0281C277BAA117171FBCAAE8815F2E4A7C6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7B5D865FA35492B7E0E4B7B251F34774A6734F|metadata|334E752AA14EBB79DC6975AA7F316406|{
+  "FileType": "pdf",
+  "Fingerprint": "7B5D865FA35492B7E0E4B7B251F34774A6734F",
+  "DateAddedToDatabase": "20170711020426541",
+  "DateLastModified": "20170711020426541",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\iday.pdf",
+  "BibTex": "@article{harrison2007floating,\n  title={Floating-Point Verification.},\n  author={Harrison, John},\n  journal={J. UCS},\n  volume={13},\n  number={5},\n  pages={629--638},\n  year={2007}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134226496",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating-point verification",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+7B5D865FA35492B7E0E4B7B251F34774A6734F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5981343156FA86DB492EA56DEA3C5B1E646420B9|metadata|67F24FD6B0C203C85AD271DF1AAEF0BD|{
+  "FileType": "pdf",
+  "Fingerprint": "5981343156FA86DB492EA56DEA3C5B1E646420B9",
+  "DateAddedToDatabase": "20170711020421362",
+  "DateLastModified": "20170711020421362",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\handbook of floating-point arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134226749",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Handbook of Floating-Point Arithmetic",
+  "AuthorsSuggested": "Jean-Michel Muller, Nicolas Brisebarre, Florent de Dinechin, Claude-Pierre Jeannerod, Vincent Lefèvre, Guillaume Melquiond, Nathalie Revol, Damien Stehlé, Serge Torres",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+5981343156FA86DB492EA56DEA3C5B1E646420B9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B85157D03FEBF4C3984B64D17BC9EB6B662A40A3|metadata|851B215C4A43370F3A2E85FD8075214E|{
+  "FileType": "pdf",
+  "Fingerprint": "B85157D03FEBF4C3984B64D17BC9EB6B662A40A3",
+  "DateAddedToDatabase": "20170711020446264",
+  "DateLastModified": "20170711020446264",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\spost117s2-file2.pdf",
+  "BibTex": "@inproceedings{chiang2015practical,\n  title={Practical floating-point divergence detection},\n  author={Chiang, Wei-Fan and Gopalakrishnan, Ganesh and Rakamari{\\'c}, Zvonimir},\n  booktitle={International Workshop on Languages and Compilers for Parallel Computing},\n  pages={271--286},\n  year={2015},\n  organization={Springer}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134231679",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Practical Floating-point Divergence Detection",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+B85157D03FEBF4C3984B64D17BC9EB6B662A40A3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C44668B313B412D947E218D2A2C824B14413A|metadata|2DC9B88823508BB384EA9C675698EE17|{
+  "FileType": "pdf",
+  "Fingerprint": "C44668B313B412D947E218D2A2C824B14413A",
+  "DateAddedToDatabase": "20170711020442858",
+  "DateLastModified": "20170711020442858",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\robust-predicates.pdf",
+  "BibTex": "@inproceedings{shewchuk1996robust,\n  title={Robust adaptive floating-point geometric predicates},\n  author={Shewchuk, Johnathan Richard},\n  booktitle={Proceedings of the twelfth annual symposium on Computational geometry},\n  pages={141--150},\n  year={1996},\n  organization={ACM}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134231909",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Robust Adaptive Floating-Point Geometric Predicates",
+  "PageLastRead": 1,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+C44668B313B412D947E218D2A2C824B14413A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7737DD34A9B754982325506348CDD537B761B09A|metadata|8B752D81D2DFDCB8E3F82AA1581FE9E1|{
+  "FileType": "pdf",
+  "Fingerprint": "7737DD34A9B754982325506348CDD537B761B09A",
+  "DateAddedToDatabase": "20170711020434889",
+  "DateLastModified": "20170711020434889",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\MikeLam_1.pdf",
+  "BibTex": "@article{lam2013dynamic,\n  title={Dynamic floating-point cancellation detection},\n  author={Lam, Michael O and Hollingsworth, Jeffrey K and Stewart, GW},\n  journal={Parallel Computing},\n  volume={39},\n  number={3},\n  pages={146--155},\n  year={2013},\n  publisher={Elsevier}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134232210",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Dynamic Floating-Point Cancellation Detection",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+7737DD34A9B754982325506348CDD537B761B09A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EBAB74F32247E086EEE4E2509D1E379CBC2B52C|metadata|689516FE4223D4FC8FAE08A604D49D75|{
+  "FileType": "pdf",
+  "Fingerprint": "EBAB74F32247E086EEE4E2509D1E379CBC2B52C",
+  "DateAddedToDatabase": "20170711020440262",
+  "DateLastModified": "20170711020440262",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Polynomial_function_intervals_for_floating_point_software_verification.pdf",
+  "BibTex": "@article{duracz2014polynomial,\n  title={Polynomial function intervals for floating-point software verification},\n  author={Duracz, Jan and Kone{\\v{c}}n{\\`y}, Michal},\n  journal={Annals of Mathematics and Artificial Intelligence},\n  volume={70},\n  number={4},\n  pages={351--398},\n  year={2014},\n  publisher={Springer}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134232521",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Polynomial Function Intervals for Floating-Point Software",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+EBAB74F32247E086EEE4E2509D1E379CBC2B52C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+998F76A3C34F5A57C7CA74919310D5ABF90347B|metadata|E00C06BBAF4F6336B4958ED0DC3D9E79|{
+  "FileType": "pdf",
+  "Fingerprint": "998F76A3C34F5A57C7CA74919310D5ABF90347B",
+  "DateAddedToDatabase": "20170711020439811",
+  "DateLastModified": "20170711020439811",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\pldi16b.pdf",
+  "BibTex": "@article{lee2016verifying,\n  title={Verifying bit-manipulations of floating-point},\n  author={Lee, Wonyeol and Sharma, Rahul and Aiken, Alex},\n  journal={ACM SIGPLAN Notices},\n  volume={51},\n  number={6},\n  pages={70--84},\n  year={2016},\n  publisher={ACM}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134233146",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Verifying Bit-Manipulations of Floating-Point",
+  "PageLastRead": 1,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+998F76A3C34F5A57C7CA74919310D5ABF90347B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+128D441439C60AE4B1B46A14A52EEEBBB21DD|metadata|FC8BB8F8586DFBD51F6F784E1609EE17|{
+  "FileType": "pdf",
+  "Fingerprint": "128D441439C60AE4B1B46A14A52EEEBBB21DD",
+  "DateAddedToDatabase": "20170711020418975",
+  "DateLastModified": "20170711020418975",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Floating Point Demystified, Part 2_ Why Doesn't 0.1 + 0.2 == 0.3.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134233552",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating Point Demystified, Part 2:",
+  "PageLastRead": 1
+}|NULL
+128D441439C60AE4B1B46A14A52EEEBBB21DD|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9518BAEC41F79875AC135097C3A24846A3697DA|metadata|BA5215E6EAB16040B0B16273C9EA15E1|{
+  "FileType": "pdf",
+  "Fingerprint": "9518BAEC41F79875AC135097C3A24846A3697DA",
+  "DateAddedToDatabase": "20170711020418958",
+  "DateLastModified": "20170711020418958",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Floating Point Demystified, Part 1.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134233868",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating Point Demystified, Part 1",
+  "PageLastRead": 1
+}|NULL
+9518BAEC41F79875AC135097C3A24846A3697DA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1B72483FB2DCA8C30EC7843B1AA85B474BC6E|metadata|BD5D37B012CF6D25C31C096F62E4DA9E|{
+  "FileType": "pdf",
+  "Fingerprint": "1B72483FB2DCA8C30EC7843B1AA85B474BC6E",
+  "DateAddedToDatabase": "20170711020744793",
+  "DateLastModified": "20170711020744793",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Accurate_floating-point_summation_a_new.pdf",
+  "BibTex": "@article{eisinberg2007accurate,\n  title={Accurate floating-point summation: a new approach},\n  author={Eisinberg, Alfredo and Fedele, Giuseppe},\n  journal={Applied mathematics and computation},\n  volume={189},\n  number={1},\n  pages={410--424},\n  year={2007},\n  publisher={Elsevier}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134234184",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Accurate floating-point summation: a new approach",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+1B72483FB2DCA8C30EC7843B1AA85B474BC6E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7E7B1BBDA438BDBAED577DE0B88A4B6B135B8E64|metadata|391058BDB42360F3317FD5AB03FA21D7|{
+  "FileType": "pdf",
+  "Fingerprint": "7E7B1BBDA438BDBAED577DE0B88A4B6B135B8E64",
+  "DateAddedToDatabase": "20170711020441811",
+  "DateLastModified": "20170711020441811",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\puto.pdf",
+  "BibTex": "",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134234552",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Static  Analysis-based  Validation of  Floating-Point",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+7E7B1BBDA438BDBAED577DE0B88A4B6B135B8E64|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+484AC19AB1B94D59AB72FE75B864AABDCF141CBA|metadata|EB27F8EC1D3718797823913C5234D38F|{
+  "FileType": "pdf",
+  "Fingerprint": "484AC19AB1B94D59AB72FE75B864AABDCF141CBA",
+  "DateAddedToDatabase": "20170711020454434",
+  "DateLastModified": "20170711020454434",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\whist-2011-lam.pdf",
+  "BibTex": "@article{lam2013dynamic,\n  title={Dynamic floating-point cancellation detection},\n  author={Lam, Michael O and Hollingsworth, Jeffrey K and Stewart, GW},\n  journal={Parallel Computing},\n  volume={39},\n  number={3},\n  pages={146--155},\n  year={2013},\n  publisher={Elsevier}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134234940",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Dynamic Floating-Point Cancellation Detection",
+  "PageLastRead": 1,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+484AC19AB1B94D59AB72FE75B864AABDCF141CBA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E516DC5FECAA66225E86E625F2833EF242BE|metadata|B1161D878FCBC2DA03F2DCE7A96E2C10|{
+  "FileType": "pdf",
+  "Fingerprint": "E516DC5FECAA66225E86E625F2833EF242BE",
+  "DateAddedToDatabase": "20170711020446277",
+  "DateLastModified": "20170711020446277",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\spry061.pdf",
+  "BibTex": "@article{frantz2004comparing,\n  title={Comparing fixed-and floating-point DSPs},\n  author={Frantz, Gene and Simar, Ray},\n  journal={Texas Instruments, Dallas, TX, USA},\n  year={2004}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134235218",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Different numeric formats",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+E516DC5FECAA66225E86E625F2833EF242BE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D5D059D76654BE62789DDB998154080A6351664|metadata|244C80653749F2BAD57EADD064E9A6CA|{
+  "FileType": "pdf",
+  "Fingerprint": "D5D059D76654BE62789DDB998154080A6351664",
+  "DateAddedToDatabase": "20170711020419425",
+  "DateLastModified": "20170711020419425",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\fpa.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134235478",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Elements of Floating-point Arithmetic",
+  "AuthorsSuggested": "Sanzheng Qiao",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "PageLastRead": 1,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+D5D059D76654BE62789DDB998154080A6351664|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C6C255746B12A2883DBDC85ABD47D2D6A5B3848|metadata|963B8F08B4A10D50276D95BDFF249455|{
+  "FileType": "pdf",
+  "Fingerprint": "C6C255746B12A2883DBDC85ABD47D2D6A5B3848",
+  "DateAddedToDatabase": "20170711020403861",
+  "DateLastModified": "20170711020403861",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\cern.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134236769",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Computing with Floating Point  It’s not Dark Magic, it’s Science",
+  "PageLastRead": 1
+}|NULL
+C6C255746B12A2883DBDC85ABD47D2D6A5B3848|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8C125FC0AF242B64A27EA4F75B812A54A795B7|metadata|9EE76BB9F0825B73ED8122A0E21AAED8|{
+  "FileType": "pdf",
+  "Fingerprint": "8C125FC0AF242B64A27EA4F75B812A54A795B7",
+  "DateAddedToDatabase": "20170711020419016",
+  "DateLastModified": "20170711020419016",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\floating-point-article (1).pdf",
+  "BibTex": "@article{monniaux2008pitfalls,\n  title={The pitfalls of verifying floating-point computations},\n  author={Monniaux, David},\n  journal={ACM Transactions on Programming Languages and Systems (TOPLAS)},\n  volume={30},\n  number={3},\n  pages={12},\n  year={2008},\n  publisher={ACM}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134237419",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The pitfalls of verifying floating-point computations",
+  "AuthorsSuggested": "David Monniaux",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+8C125FC0AF242B64A27EA4F75B812A54A795B7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6FBC8B23DC1112ED588E33A34593394C168322|metadata|EF85B86923C38DD6629A3F925ED123D7|{
+  "FileType": "pdf",
+  "Fingerprint": "6FBC8B23DC1112ED588E33A34593394C168322",
+  "DateAddedToDatabase": "20170711020418939",
+  "DateLastModified": "20170711020418939",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\float.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134238044",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating-Point Arithmetic in Matlab"
+}|NULL
+6FBC8B23DC1112ED588E33A34593394C168322|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D8C73065C5B98CE5CBD0719C6F431389A0AB4E1|metadata|577741DD2EB8B86DE3084FB26B25D0D5|{
+  "FileType": "pdf",
+  "Fingerprint": "D8C73065C5B98CE5CBD0719C6F431389A0AB4E1",
+  "DateAddedToDatabase": "20170711020408571",
+  "DateLastModified": "20170711020408571",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\column8.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134238322",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Not a Number of Floating Point Problems"
+}|NULL
+D8C73065C5B98CE5CBD0719C6F431389A0AB4E1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5D9D4DE626C4D1CAE675540ADDAA36E523E98CC|metadata|C7F3FEEE253681D043CE1125C118FD23|{
+  "FileType": "pdf",
+  "Fingerprint": "5D9D4DE626C4D1CAE675540ADDAA36E523E98CC",
+  "DateAddedToDatabase": "20170711020441198",
+  "DateLastModified": "20170711020441198",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\prod.pdf",
+  "BibTex": "@article{graillat2009accurate,\n  title={Accurate floating-point product and exponentiation},\n  author={Graillat, Stef},\n  journal={IEEE Transactions on Computers},\n  volume={58},\n  number={7},\n  pages={994--1000},\n  year={2009},\n  publisher={IEEE}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134238608",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accurate Floating Point Product and Exponentiation",
+  "AuthorsSuggested": "Stef Graillat",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+5D9D4DE626C4D1CAE675540ADDAA36E523E98CC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E33EBB0D2596DC7E57728FDA0A03CE5B6E9E5|metadata|6FE414E97BD12D1F59305D010CED9943|{
+  "FileType": "pdf",
+  "Fingerprint": "E33EBB0D2596DC7E57728FDA0A03CE5B6E9E5",
+  "DateAddedToDatabase": "20170711020445383",
+  "DateLastModified": "20170711020445383",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\slides_MIMS.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134239010",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accurate polynomial evaluation in floating point  arithmetic",
+  "AuthorsSuggested": "Stef Graillat",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+E33EBB0D2596DC7E57728FDA0A03CE5B6E9E5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8CE02A5B59DDF51E9E8D762C7E88AB469836A42B|metadata|6B3921F35B4A1C44AA30D4F9764CAE7C|{
+  "FileType": "pdf",
+  "Fingerprint": "8CE02A5B59DDF51E9E8D762C7E88AB469836A42B",
+  "DateAddedToDatabase": "20170711020440288",
+  "DateLastModified": "20170711020440288",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\popl13.pdf",
+  "BibTex": "@inproceedings{barr2013automatic,\n  title={Automatic detection of floating-point exceptions},\n  author={Barr, Earl T and Vo, Thanh and Le, Vu and Su, Zhendong},\n  booktitle={ACM SIGPLAN Notices},\n  volume={48},\n  number={1},\n  pages={549--560},\n  year={2013},\n  organization={ACM}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134239492",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Automatic Detection of Floating-Point Exceptions",
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+8CE02A5B59DDF51E9E8D762C7E88AB469836A42B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7357E3F3B2897B6DA2FBCE27E53A7C1C62269FA|metadata|2BE58FE25CD6146CF227B3CE807EF1B5|{
+  "FileType": "pdf",
+  "Fingerprint": "7357E3F3B2897B6DA2FBCE27E53A7C1C62269FA",
+  "DateAddedToDatabase": "20170711020403458",
+  "DateLastModified": "20170711020403458",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\caduceus-floats.pdf",
+  "BibTex": "@inproceedings{boldo2007formal,\n  title={Formal verification of floating-point programs},\n  author={Boldo, Sylvie and Filli{\\^a}tre, Jean-Christophe},\n  booktitle={Computer Arithmetic, 2007. ARITH'07. 18th IEEE Symposium on},\n  pages={187--194},\n  year={2007},\n  organization={IEEE}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134239830",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Formal Verification of Floating-Point Programs",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+7357E3F3B2897B6DA2FBCE27E53A7C1C62269FA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C899278A346775D460E05234434E4EBF736154|metadata|6EEE64161F4642AEDC80753B22348F6D|{
+  "FileType": "pdf",
+  "Fingerprint": "C899278A346775D460E05234434E4EBF736154",
+  "DateAddedToDatabase": "20170711020402490",
+  "DateLastModified": "20170711020402490",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\bkw09.pdf",
+  "BibTex": "@inproceedings{brillout2009mixed,\n  title={Mixed abstractions for floating-point arithmetic},\n  author={Brillout, Angelo and Kroening, Daniel and Wahl, Thomas},\n  booktitle={Formal Methods in Computer-Aided Design, 2009. FMCAD 2009},\n  pages={69--76},\n  year={2009},\n  organization={IEEE}\n}",
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134240147",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Mixed Abstractions for Floating-Point Arithmetic",
+  "Title": null,
+  "Authors": null,
+  "Year": null
+}|NULL
+C899278A346775D460E05234434E4EBF736154|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5F3129126223E81AB99714EB846D6891548169|metadata|B6EF200743FB2323F4BC67BAA0620321|{
+  "FileType": "pdf",
+  "Fingerprint": "5F3129126223E81AB99714EB846D6891548169",
+  "DateAddedToDatabase": "20170806150439772",
+  "DateLastModified": "20170806150439772",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\MathWorks Documentation - MATLAB V7 Function References.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422133728622",
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "batserve",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "PageLastRead": 21
+}|NULL
+5F3129126223E81AB99714EB846D6891548169|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+69A46CE92C808096D132F8C47EBE6E29B773C|metadata|74CE580963A96931936FAD6F2204C789|{
+  "FileType": "pdf",
+  "Fingerprint": "69A46CE92C808096D132F8C47EBE6E29B773C",
+  "DateAddedToDatabase": "20170711031128296",
+  "DateLastModified": "20170711031128296",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2017-07-01\\unified.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Unified Closed-Loop Stability Measure for Finite-Precision  Digital Controller Realizations Implemented in Different  Representation Schemes"
+}|NULL
+69A46CE92C808096D132F8C47EBE6E29B773C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D3CB51881F2C2DB33B4DA35DD7CB063FB623E6|metadata|5E3B3020020B0508FCDBE2425FABB8D5|{
+  "FileType": "pdf",
+  "Fingerprint": "D3CB51881F2C2DB33B4DA35DD7CB063FB623E6",
+  "DateAddedToDatabase": "20170711020543829",
+  "DateLastModified": "20170711020543829",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\simulation.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Simulating Arbitrary-Precision  Fixed-Point and Floating-Point  Roundoff in Matlab"
+}|NULL
+D3CB51881F2C2DB33B4DA35DD7CB063FB623E6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+981F364C91AFAE5EA5070FA445ABB3A796885E3|metadata|7558F9073FE2FF976DC49B3ACE57EF1D|{
+  "FileType": "pdf",
+  "Fingerprint": "981F364C91AFAE5EA5070FA445ABB3A796885E3",
+  "DateAddedToDatabase": "20170711020341799",
+  "DateLastModified": "20170711020341799",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\05_fp.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Milo Martin",
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "CIS 371  Computer Organization and Design"
+}|NULL
+981F364C91AFAE5EA5070FA445ABB3A796885E3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CF7153DE38CF90257BCE5971FBDF9E24B00BC9C|metadata|379F142A5B395C8CAD10AA3725038204|{
+  "FileType": "pdf",
+  "Fingerprint": "CF7153DE38CF90257BCE5971FBDF9E24B00BC9C",
+  "DateAddedToDatabase": "20170711020439435",
+  "DateLastModified": "20170711020439435",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\perturb.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Perturbing Numerical Calculations for Statistical Analysis  of Floating-Point Program (In)Stability"
+}|NULL
+CF7153DE38CF90257BCE5971FBDF9E24B00BC9C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E7B768B5F9CDD53967BAEE696FA5B36B46F13BA|metadata|6B18866B1D81AD0C0EB768B3864BCB69|{
+  "FileType": "pdf",
+  "Fingerprint": "E7B768B5F9CDD53967BAEE696FA5B36B46F13BA",
+  "DateAddedToDatabase": "20170711020439731",
+  "DateLastModified": "20170711020439731",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\pldi14a.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Stochastic Optimization of Floating-Point  Programs with Tunable Precision"
+}|NULL
+E7B768B5F9CDD53967BAEE696FA5B36B46F13BA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2FF3D2D1C6D9303057C1DADC9C24ABD5848EA|metadata|B3766DD3DD3DECF625E490E02648246D|{
+  "FileType": "pdf",
+  "Fingerprint": "2FF3D2D1C6D9303057C1DADC9C24ABD5848EA",
+  "DateAddedToDatabase": "20170711020346845",
+  "DateLastModified": "20170711020346845",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\1202.0693.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A non-local method for robustness analysis of  floating point programs∗"
+}|NULL
+2FF3D2D1C6D9303057C1DADC9C24ABD5848EA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+93507B3A1C78454446134EFB1D79C9821E9B8|metadata|32650A2A96617313AA4A8CE8384FC705|{
+  "FileType": "pdf",
+  "Fingerprint": "93507B3A1C78454446134EFB1D79C9821E9B8",
+  "DateAddedToDatabase": "20170711020435297",
+  "DateLastModified": "20170711020435297",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Monniaux_CAV05.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Compositional analysis of floating-point linear  numerical filters"
+}|NULL
+93507B3A1C78454446134EFB1D79C9821E9B8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+81EFA3FE872798FC86287EEE84CB425A6441EBC3|metadata|E835FBD90267C33BCE8A4DE1B210BDD8|{
+  "FileType": "pdf",
+  "Fingerprint": "81EFA3FE872798FC86287EEE84CB425A6441EBC3",
+  "DateAddedToDatabase": "20170711020438434",
+  "DateLastModified": "20170711020438434",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\oopsla13.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "On-the-fly Detection of Instability Problems  in Floating-Point Program Execution"
+}|NULL
+81EFA3FE872798FC86287EEE84CB425A6441EBC3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+717DA0C33B0969F39F3AC47D3F1AC7049DE80FC|metadata|C3360696926EBDA5C4664F68D3C7282C|{
+  "FileType": "pdf",
+  "Fingerprint": "717DA0C33B0969F39F3AC47D3F1AC7049DE80FC",
+  "DateAddedToDatabase": "20170711020439232",
+  "DateLastModified": "20170711020439232",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\par_comp_iter_ref3.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Exploiting Mixed Precision Floating  Point Hardware in Scientific  Computations"
+}|NULL
+717DA0C33B0969F39F3AC47D3F1AC7049DE80FC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3BC84E196ADDD71501FC033634392ED577F182|metadata|031CED9B5DC85D1F20AC8F86554917BE|{
+  "FileType": "pdf",
+  "Fingerprint": "3BC84E196ADDD71501FC033634392ED577F182",
+  "DateAddedToDatabase": "20170711020800960",
+  "DateLastModified": "20170711020800960",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\floating-point-compcert.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Verified Compilation of Floating-Point Computations",
+  "AuthorsSuggested": "Sylvie Boldo, Jacques-Henri Jourdan, Xavier Leroy, Guillaume Melquiond",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3BC84E196ADDD71501FC033634392ED577F182|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9325E455DF7324746643CF8A826C81FF4235B87F|metadata|D16B4F90E991ED3B8E81465FA7E513E4|{
+  "FileType": "pdf",
+  "Fingerprint": "9325E455DF7324746643CF8A826C81FF4235B87F",
+  "DateAddedToDatabase": "20170711020758147",
+  "DateLastModified": "20170711020758147",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\sum-howto.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "How and How Not To sum floating point numbers",
+  "AuthorsSuggested": "N. Higham",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9325E455DF7324746643CF8A826C81FF4235B87F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E3B3CC3D67211F342FB073334A9C7BE023C4|metadata|CAC60DB2DDDE07FDAE4CBE6935A512A0|{
+  "FileType": "pdf",
+  "Fingerprint": "E3B3CC3D67211F342FB073334A9C7BE023C4",
+  "DateAddedToDatabase": "20170711020756938",
+  "DateLastModified": "20170711020756938",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\PPN362160546_0018___LOG_0023.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A Floating-Point Technique for Extending the Available Precision.",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E3B3CC3D67211F342FB073334A9C7BE023C4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2B4D9082A8F1CD56389379121658BFE319CDB|metadata|9AE501E0E586EF7CE7AA4E49A10227B5|{
+  "FileType": "pdf",
+  "Fingerprint": "2B4D9082A8F1CD56389379121658BFE319CDB",
+  "DateAddedToDatabase": "20170711020356198",
+  "DateLastModified": "20170711020356198",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\94IntComp_Popova.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Extended Interval Arithmetic  in IEEE Floating-Point Environment"
+}|NULL
+2B4D9082A8F1CD56389379121658BFE319CDB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8818033BF7579A8E8B75F215AA55755ABE50EF|metadata|59734DC2A9CE54F92EDD366F3E4FDCAA|{
+  "FileType": "pdf",
+  "Fingerprint": "8818033BF7579A8E8B75F215AA55755ABE50EF",
+  "DateAddedToDatabase": "20170711020359346",
+  "DateLastModified": "20170711020359346",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Amaricai_prop.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Sascha",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "On the Design of Floating Point Units  for I nterval Arithmetic"
+}|NULL
+8818033BF7579A8E8B75F215AA55755ABE50EF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A25C51497E1571A16F55886D1144CDD46C80CD|metadata|080E5E65A6D5D96FD3084A07A9EDE89C|{
+  "FileType": "pdf",
+  "Fingerprint": "A25C51497E1571A16F55886D1144CDD46C80CD",
+  "DateAddedToDatabase": "20170711020402185",
+  "DateLastModified": "20170711020402185",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\benz_fp.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Dynamic Program Analysis to find  Floating-Point Accuracy Problems"
+}|NULL
+A25C51497E1571A16F55886D1144CDD46C80CD|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9F87A6895483ACA3B5EE69C3341C861AD4F5A56A|metadata|09B29103B535EBF8D43A679411E601F7|{
+  "FileType": "pdf",
+  "Fingerprint": "9F87A6895483ACA3B5EE69C3341C861AD4F5A56A",
+  "DateAddedToDatabase": "20170711020758905",
+  "DateLastModified": "20170711020758905",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\What Every Computer Scientist Should Know About Floating-Point Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "What Every Computer Scientist  Should Know About Floating-Point"
+}|NULL
+9F87A6895483ACA3B5EE69C3341C861AD4F5A56A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+1C627EE05D4C4751A3A1202C2983185290B4714E|metadata|4ED27D4D81AB3F72086653E28D31D4D1|{
+  "FileType": "pdf",
+  "Fingerprint": "1C627EE05D4C4751A3A1202C2983185290B4714E",
+  "DateAddedToDatabase": "20170711020531270",
+  "DateLastModified": "20170711020531270",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\10.1.1.16.5277.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Optimal Finite-Precision Controller Realizations in  Block-Floating-Point Format"
+}|NULL
+1C627EE05D4C4751A3A1202C2983185290B4714E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6CC3F02DB978BD42B8BB418897B5434FB5D5A4D|metadata|49109A5B6B814795CD65514952747C9A|{
+  "FileType": "pdf",
+  "Fingerprint": "6CC3F02DB978BD42B8BB418897B5434FB5D5A4D",
+  "DateAddedToDatabase": "20170711020533362",
+  "DateLastModified": "20170711020533362",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\atmfloat.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Optimal Realizations of Floating-Point Implemented Digital  Controllers with Finite Word Length Considerations"
+}|NULL
+6CC3F02DB978BD42B8BB418897B5434FB5D5A4D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+767ECCD77A5F448DE7D4A286D93C4BE4BCB7|metadata|C0959413C54D3BB220C2A130D1896E54|{
+  "FileType": "pdf",
+  "Fingerprint": "767ECCD77A5F448DE7D4A286D93C4BE4BCB7",
+  "DateAddedToDatabase": "20170711020454411",
+  "DateLastModified": "20170711020454411",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\What Every Computer Scientist Should Know About Floating-Point Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "What Every Computer Scientist  Should Know About Floating-Point"
+}|NULL
+767ECCD77A5F448DE7D4A286D93C4BE4BCB7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D976288EFFACE80947D1FB5EAD4568A7FB925F3|metadata|31B6DF9AB1C4FD4C5BA721AAC5010D3A|{
+  "FileType": "pdf",
+  "Fingerprint": "D976288EFFACE80947D1FB5EAD4568A7FB925F3",
+  "DateAddedToDatabase": "20170711020750608",
+  "DateLastModified": "20170711020750608",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Floating-point arithmetic may give inaccurate results in Excel.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Floating‐point arithmetic may give inaccurate results in Excel"
+}|NULL
+D976288EFFACE80947D1FB5EAD4568A7FB925F3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2DDEED75A07130C658329935482408CE9ED22A|metadata|EFAD24159C895BA75E3C6D0C25254EAB|{
+  "FileType": "pdf",
+  "Fingerprint": "2DDEED75A07130C658329935482408CE9ED22A",
+  "DateAddedToDatabase": "20170711020751364",
+  "DateLastModified": "20170711020751364",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\IEEE754.PDF",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1997",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "IEEE Standard 754  for  Binary Floating-Point Arithmetic"
+}|NULL
+2DDEED75A07130C658329935482408CE9ED22A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F49FBC88506C8493D67E0AB13861D87933F5915|metadata|EF73A42B834DEA07B54883679552F629|{
+  "FileType": "pdf",
+  "Fingerprint": "F49FBC88506C8493D67E0AB13861D87933F5915",
+  "DateAddedToDatabase": "20170711020513592",
+  "DateLastModified": "20170711020513592",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\L\\Le grade de - N d'ordre - 369 N attribu ́e par la biblioth`eque - 06ENSL0369.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "FLIP: A FLOATING-POINT  LIBRARY FOR  INTEGER PROCESSORS"
+}|NULL
+F49FBC88506C8493D67E0AB13861D87933F5915|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+78AA7FCAC846532F5A322C16CEBBBD849C5FCEA|metadata|E7486E741FE7ACA134F4EE2A3CB83C59|{
+  "FileType": "pdf",
+  "Fingerprint": "78AA7FCAC846532F5A322C16CEBBBD849C5FCEA",
+  "DateAddedToDatabase": "20170711020442884",
+  "DateLastModified": "20170711020442884",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\robustr.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Adaptive Precision Floating-Point Arithmetic  and Fast Robust Geometric Predicates"
+}|NULL
+78AA7FCAC846532F5A322C16CEBBBD849C5FCEA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EF8DB8B68FC57E370E8662F74434FF7ADF4567E|metadata|52B2D139B8CCF329AA5C9DEF7E60A02F|{
+  "FileType": "pdf",
+  "Fingerprint": "EF8DB8B68FC57E370E8662F74434FF7ADF4567E",
+  "DateAddedToDatabase": "20170711020443472",
+  "DateLastModified": "20170711020443472",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\sas2013.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Interpolation-Based Verification of  Floating-Point Programs with Abstract CDCL?"
+}|NULL
+EF8DB8B68FC57E370E8662F74434FF7ADF4567E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4D0C02B52B87A77DCCF6836C3BB23757C84E|metadata|03E65FAB88B499787FE654C101F7A77F|{
+  "FileType": "pdf",
+  "Fingerprint": "4D0C02B52B87A77DCCF6836C3BB23757C84E",
+  "DateAddedToDatabase": "20170711020533970",
+  "DateLastModified": "20170711020533970",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\control2000(iwb)poster.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Stability Analysis of Block Floating Point  Digital Controllers"
+}|NULL
+4D0C02B52B87A77DCCF6836C3BB23757C84E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+98A2FD3F5D6C3B97D43CF2FB67FF74CE23E13CF|metadata|13139415F5157B2DCF4E591DA71E2D84|{
+  "FileType": "pdf",
+  "Fingerprint": "98A2FD3F5D6C3B97D43CF2FB67FF74CE23E13CF",
+  "DateAddedToDatabase": "20170711020544178",
+  "DateLastModified": "20170711020544178",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\TSYS114820.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Optimal controller and filter realizations using  finite-precision, floating-point arithmetic"
+}|NULL
+98A2FD3F5D6C3B97D43CF2FB67FF74CE23E13CF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5F44D336E35EAA9B41EB4EC9B33CB2921EBE466|metadata|5218C59762F0070227014219A1549BB8|{
+  "FileType": "pdf",
+  "Fingerprint": "5F44D336E35EAA9B41EB4EC9B33CB2921EBE466",
+  "DateAddedToDatabase": "20170711020646241",
+  "DateLastModified": "20170711020646241",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\13-bitn.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "quatecompilationswitchesareselected.ThisisanissueaddressedbytherecentIEEE754-2008 standard for floating-point arithmetic [12], so the situation might become"
+}|NULL
+5F44D336E35EAA9B41EB4EC9B33CB2921EBE466|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D63767B5882F7F0CCECDF3CB8CACB356DCC03C|metadata|9F5C5B116B27941D51E1AA221AD1D1FA|{
+  "FileType": "pdf",
+  "Fingerprint": "D63767B5882F7F0CCECDF3CB8CACB356DCC03C",
+  "DateAddedToDatabase": "20170711020749205",
+  "DateLastModified": "20170711020749205",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\eScholarship UC item 69q5t2mj.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Algorithms for quad-double precision floating point arithmetic",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D63767B5882F7F0CCECDF3CB8CACB356DCC03C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F27658BC92EDB7A32746069A1588C6AA8F2BD8|metadata|D6C25F6CC52E31C57FAAC04B8C5B6F39|{
+  "FileType": "pdf",
+  "Fingerprint": "F27658BC92EDB7A32746069A1588C6AA8F2BD8",
+  "DateAddedToDatabase": "20170711020419101",
+  "DateLastModified": "20170711020419101",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\floatPtPaper09.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Software Model Checking the Precision of  Floating-Point Programs"
+}|NULL
+F27658BC92EDB7A32746069A1588C6AA8F2BD8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+90326BDB2276676A9D75A076F9915B19B97F71|metadata|98BCF2D5FE8C99810C8D315EE7143656|{
+  "FileType": "pdf",
+  "Fingerprint": "90326BDB2276676A9D75A076F9915B19B97F71",
+  "DateAddedToDatabase": "20170711020419501",
+  "DateLastModified": "20170711020419501",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\fpga11_fpu.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Monte-Carlo Floating-Point Unit for Self-Validating  Arithmetic"
+}|NULL
+90326BDB2276676A9D75A076F9915B19B97F71|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+AA71CA1B948D4ADAD731D5ECA31F385225546FA3|metadata|B6490BDEBBE76E707B547661E23CCDD4|{
+  "FileType": "pdf",
+  "Fingerprint": "AA71CA1B948D4ADAD731D5ECA31F385225546FA3",
+  "DateAddedToDatabase": "20170711020419619",
+  "DateLastModified": "20170711020419619",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\fptaylor_report.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Rigorous Estimation of Floating-Point Round-off Errors  with Symbolic Taylor Expansions"
+}|NULL
+AA71CA1B948D4ADAD731D5ECA31F385225546FA3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8FF5BDA63BBB0B5A662811E46557CC3ACA114F5|metadata|91904DE897BDF8FD1D1FEAC1FCA85A57|{
+  "FileType": "pdf",
+  "Fingerprint": "8FF5BDA63BBB0B5A662811E46557CC3ACA114F5",
+  "DateAddedToDatabase": "20170711020414819",
+  "DateLastModified": "20170711020414819",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\DucasNguyen_Sampling.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Faster Gaussian Lattice Sampling  using Lazy Floating-Point Arithmetic"
+}|NULL
+8FF5BDA63BBB0B5A662811E46557CC3ACA114F5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+948F5F1FD3BE27837F7279EF6473B5A8F0AC52|metadata|D5A7F8C2CDCF47B9EA7D023E10FAFFEA|{
+  "FileType": "pdf",
+  "Fingerprint": "948F5F1FD3BE27837F7279EF6473B5A8F0AC52",
+  "DateAddedToDatabase": "20170711020418993",
+  "DateLastModified": "20170711020418993",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Floating-point Implemented digital controllers-2004.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Optimal Realizations of Floating-Point Implemented Digital  Controllers with Finite Word Length Considerations"
+}|NULL
+948F5F1FD3BE27837F7279EF6473B5A8F0AC52|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7CBC53699189F04F9801F75DA791784B0DDF8D5|metadata|3A990606E345B57ECEA78AA88AF0AB15|{
+  "FileType": "pdf",
+  "Fingerprint": "7CBC53699189F04F9801F75DA791784B0DDF8D5",
+  "DateAddedToDatabase": "20170711020419077",
+  "DateLastModified": "20170711020419077",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\floating_point_math.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "What Every Computer Scientist  Should Know About Floating-Point  Arithmetic D"
+}|NULL
+7CBC53699189F04F9801F75DA791784B0DDF8D5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+288F37D3FF5A4E29F5653F3CA9F72DDB21B8A76|metadata|24CA2C100125316664EE5BBF6C146DBB|{
+  "FileType": "pdf",
+  "Fingerprint": "288F37D3FF5A4E29F5653F3CA9F72DDB21B8A76",
+  "DateAddedToDatabase": "20170711020353041",
+  "DateLastModified": "20170711020353041",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\4EB91D5402D1BF851B7772F12703C18F9C310E2-5.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Verification methods: Rigorous results using floating-point arithmetic",
+  "AuthorsSuggested": "Siegfried M. Rump",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+288F37D3FF5A4E29F5653F3CA9F72DDB21B8A76|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+726CB1BF80ADC3FA50CECFECDC7498751045DBBB|metadata|CD8F001878ED8EB560D226574D442974|{
+  "FileType": "pdf",
+  "Fingerprint": "726CB1BF80ADC3FA50CECFECDC7498751045DBBB",
+  "DateAddedToDatabase": "20170711020343122",
+  "DateLastModified": "20170711020343122",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\1-s2.0-S1571066104804080-main (1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Properties of the subtraction valid for any floating point system",
+  "AuthorsSuggested": "Sylvie Boldo",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+726CB1BF80ADC3FA50CECFECDC7498751045DBBB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+971880BC9ED65352CE377718C84E6BBDBB401E|metadata|9704DB235AB9B1442E8CD4FFB216F17C|{
+  "FileType": "pdf",
+  "Fingerprint": "971880BC9ED65352CE377718C84E6BBDBB401E",
+  "DateAddedToDatabase": "20170711020825113",
+  "DateLastModified": "20170711020825113",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\SSA.and.AST\\goldberg.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "What every computer scientist should know about floating-point arithmeti\nc",
+  "AuthorsSuggested": "Goldberg",
+  "YearSuggested": "1997",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+971880BC9ED65352CE377718C84E6BBDBB401E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B0D07371BF399AAAE9F238A572A49F3379EF4AE|metadata|C11681F72265B46F0B51A89C2174B033|{
+  "FileType": "pdf",
+  "Fingerprint": "B0D07371BF399AAAE9F238A572A49F3379EF4AE",
+  "DateAddedToDatabase": "20170711020807449",
+  "DateLastModified": "20170711020807449",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\RR-5604.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "The Euclidean Division Implemented with a Floating-Point Division and a Floor",
+  "AuthorsSuggested": "Vincent Lefèvre",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B0D07371BF399AAAE9F238A572A49F3379EF4AE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+96F37F133BA258CE1ABF3245619E9252F5D53A7|metadata|B1656689032239135C59E6CA9370E271|{
+  "FileType": "pdf",
+  "Fingerprint": "96F37F133BA258CE1ABF3245619E9252F5D53A7",
+  "DateAddedToDatabase": "20170711020400778",
+  "DateLastModified": "20170711020400778",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\article.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Formal Verification of Programs Computing the Floating-Point Average",
+  "AuthorsSuggested": "Sylvie Boldo",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+96F37F133BA258CE1ABF3245619E9252F5D53A7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F59BC6FCEADA10DF1B87EC952A348ADC564D3562|metadata|E796E307E0BEA5227714FB524E03399C|{
+  "FileType": "pdf",
+  "Fingerprint": "F59BC6FCEADA10DF1B87EC952A348ADC564D3562",
+  "DateAddedToDatabase": "20170711020357303",
+  "DateLastModified": "20170711020357303",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\A-528.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Preservation of Lyapunov-Theoretic Proofs:From Real to Floating-Point Numbers",
+  "AuthorsSuggested": "Vivien Maisonneuve",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F59BC6FCEADA10DF1B87EC952A348ADC564D3562|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F9DD440DE77E1D81A33D8781EDEC4FE748774B|metadata|7241DE527F782833343A560BC7201CA4|{
+  "FileType": "pdf",
+  "Fingerprint": "F9DD440DE77E1D81A33D8781EDEC4FE748774B",
+  "DateAddedToDatabase": "20170711020507819",
+  "DateLastModified": "20170711020507819",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\C\\Cornea et al. - Software Implementation of the IEEE 754R Decimal Floating-Point Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Software Implementation of the IEEE 754R Decimal Floating-Point Arithmetic ",
+  "AuthorsSuggested": "cornea",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F9DD440DE77E1D81A33D8781EDEC4FE748774B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8F10DDDA4EB15492DBB3BBA58F270B3B21D4A1|metadata|FD2DA6B732920304FE5146746CC65697|{
+  "FileType": "pdf",
+  "Fingerprint": "8F10DDDA4EB15492DBB3BBA58F270B3B21D4A1",
+  "DateAddedToDatabase": "20170711020440826",
+  "DateLastModified": "20170711020440826",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\printf.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Printing Floating-Point Numbers Quickly and Accurately with Integers",
+  "AuthorsSuggested": "Florian Loitsch",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8F10DDDA4EB15492DBB3BBA58F270B3B21D4A1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+522D1DD9EA81DA569CCEF88F89BBADC7C4049A6|metadata|A350578A958FE72D06B0B038FFFC6129|{
+  "FileType": "pdf",
+  "Fingerprint": "522D1DD9EA81DA569CCEF88F89BBADC7C4049A6",
+  "DateAddedToDatabase": "20170711020438139",
+  "DateLastModified": "20170711020438139",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Numerical_reproducibility_of_high-performance_computations_using_floating-point_or_interval_arithmetic_]_Nathalie_Revol,_INRIA.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numerical reproducibility   of high-performance computations   using floating-point or interval arithmetic ",
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+522D1DD9EA81DA569CCEF88F89BBADC7C4049A6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E37A6D9B97DB3E8E8A2BD4E8A8B6C8366CF30A|metadata|F57CE6886408FDD1D7787FC1728DA309|{
+  "FileType": "pdf",
+  "Fingerprint": "E37A6D9B97DB3E8E8A2BD4E8A8B6C8366CF30A",
+  "DateAddedToDatabase": "20170711020708086",
+  "DateLastModified": "20170711020708086",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\floating-point-compcert.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Verified Compilation of Floating-Point Computations",
+  "AuthorsSuggested": "Sylvie Boldo, Jacques-Henri Jourdan, Xavier Leroy, Guillaume Melquiond",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E37A6D9B97DB3E8E8A2BD4E8A8B6C8366CF30A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+28A882E3C18EE0EFB9D7362BD2FA63AD3CC1A5|metadata|167181190E338687645248F93F99D3D5|{
+  "FileType": "pdf",
+  "Fingerprint": "28A882E3C18EE0EFB9D7362BD2FA63AD3CC1A5",
+  "DateAddedToDatabase": "20170711020543759",
+  "DateLastModified": "20170711020543759",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\RR-4532.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accelerating Floating-Point Division When the Divisor is Known in Advance",
+  "AuthorsSuggested": "Jean-Michel Muller",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+28A882E3C18EE0EFB9D7362BD2FA63AD3CC1A5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F3884BE5BB1CB904C514C1CC797713C447DE|metadata|9DD035668816C351076F266423DB9BB1|{
+  "FileType": "pdf",
+  "Fingerprint": "F3884BE5BB1CB904C514C1CC797713C447DE",
+  "DateAddedToDatabase": "20170711020507838",
+  "DateLastModified": "20170711020507838",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\C\\Cornea et al. 2007 - A Software Implementation of the IEEE 754R Decimal Floating-Point Arithmetic Using the Binary Encoding Format.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Software Implementation of the IEEE 754R Decimal Floating-Point Arithmetic ",
+  "AuthorsSuggested": "cornea",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F3884BE5BB1CB904C514C1CC797713C447DE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2483C58592A7651E8F82DB54CF19E9CE219F9F2|metadata|EED4C27AE1D1B911C1C92E69AE392C89|{
+  "FileType": "pdf",
+  "Fingerprint": "2483C58592A7651E8F82DB54CF19E9CE219F9F2",
+  "DateAddedToDatabase": "20170711020428833",
+  "DateLastModified": "20170711020428833",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\J42.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "REDUCING FLOATING POINT ERROR IN DOT PRODUCT USING  THE SUPERBLOCK FAMILY OF ALGORITHMS∗"
+}|NULL
+2483C58592A7651E8F82DB54CF19E9CE219F9F2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+83CEB86F9F74F5332C21FD3F82A6472EB87C23|metadata|9ED63B2D6FBC776D86909BE038CC01C3|{
+  "FileType": "pdf",
+  "Fingerprint": "83CEB86F9F74F5332C21FD3F82A6472EB87C23",
+  "DateAddedToDatabase": "20170711020428935",
+  "DateLastModified": "20170711020428935",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\JAM14_robust.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Robustness Analysis of Floating-Point Programs by  Self-Composition"
+}|NULL
+83CEB86F9F74F5332C21FD3F82A6472EB87C23|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DC86DCB4FEC35FC2D4B7D91A33D15EFECC338373|metadata|34384B2CACC387C8B05553C5C18BDA40|{
+  "FileType": "pdf",
+  "Fingerprint": "DC86DCB4FEC35FC2D4B7D91A33D15EFECC338373",
+  "DateAddedToDatabase": "20170711020410292",
+  "DateLastModified": "20170711020410292",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\DavidARC12.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "FPGA Paranoia: Testing numerical properties of  FPGA floating point IP-cores"
+}|NULL
+DC86DCB4FEC35FC2D4B7D91A33D15EFECC338373|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2D9C5D6A5C68469384707413DC3303342715|metadata|AD2D540D9863D2BCE1CE91A7B52E2189|{
+  "FileType": "pdf",
+  "Fingerprint": "2D9C5D6A5C68469384707413DC3303342715",
+  "DateAddedToDatabase": "20170711020426526",
+  "DateLastModified": "20170711020426526",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\icse15float.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Genetic Algorithm for Detecting Significant  Floating-Point Inaccuracies"
+}|NULL
+2D9C5D6A5C68469384707413DC3303342715|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6445F99B6C8A18682567EBBDD77124019A181|metadata|F86E1A8E90EBE07289515C9CFDD78687|{
+  "FileType": "pdf",
+  "Fingerprint": "6445F99B6C8A18682567EBBDD77124019A181",
+  "DateAddedToDatabase": "20170711020427193",
+  "DateLastModified": "20170711020427193",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\IJOC15.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Exploiting Binary Floating-Point Representations  for Constraint Propagation"
+}|NULL
+6445F99B6C8A18682567EBBDD77124019A181|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+35A020BBD7FB6E9EB5ED1B5A57961717BA2D3CA8|metadata|DFA3F9C62A0AA591C5FA9D73BF95846F|{
+  "FileType": "pdf",
+  "Fingerprint": "35A020BBD7FB6E9EB5ED1B5A57961717BA2D3CA8",
+  "DateAddedToDatabase": "20170711020427946",
+  "DateLastModified": "20170711020427946",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\interval_slopes.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Interval Slopes as a Numerical Abstract Domain  for Floating-Point Variables"
+}|NULL
+35A020BBD7FB6E9EB5ED1B5A57961717BA2D3CA8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FF299DEFD4BA42E8108A8C3A83E68C28E84A378|metadata|26DF59D44EFB156AD01266B685D4A9E9|{
+  "FileType": "pdf",
+  "Fingerprint": "FF299DEFD4BA42E8108A8C3A83E68C28E84A378",
+  "DateAddedToDatabase": "20170711020419050",
+  "DateLastModified": "20170711020419050",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\floating-point.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134750621",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "(anonymous)",
+  "AuthorsSuggested": "(anonymous)",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FF299DEFD4BA42E8108A8C3A83E68C28E84A378|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B79D1EF762AFC6C4609CF597E1B866A46197CF2|metadata|4A42F5EABDBEAD95CCFCE7921DA967D5|{
+  "FileType": "pdf",
+  "Fingerprint": "B79D1EF762AFC6C4609CF597E1B866A46197CF2",
+  "DateAddedToDatabase": "20170711020431979",
+  "DateLastModified": "20170711020431979",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\lecture08.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": "20180422134757897",
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "AMS526: Numerical Analysis I  (Numerical Linear Algebra)"
+}|NULL
+B79D1EF762AFC6C4609CF597E1B866A46197CF2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+76B81BD34CC4EE64C7FE7C4EFE622B71552C2C13|metadata|17C6ECBFF3FC93C27A90243E5BBF5E5C|{
+  "FileType": "pdf",
+  "Fingerprint": "76B81BD34CC4EE64C7FE7C4EFE622B71552C2C13",
+  "DateAddedToDatabase": "20170711020450359",
+  "DateLastModified": "20170711020450359",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\thesis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Programming with Numerical Uncertainties",
+  "AuthorsSuggested": "Darulova, Eva",
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+76B81BD34CC4EE64C7FE7C4EFE622B71552C2C13|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A377F2BEFE9575BD1622375433BF34FF7A518|metadata|FA0410F81B75BAD696CBCE8AA9934BA4|{
+  "FileType": "pdf",
+  "Fingerprint": "A377F2BEFE9575BD1622375433BF34FF7A518",
+  "DateAddedToDatabase": "20170806150440894",
+  "DateLastModified": "20170806150440894",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\MathWorks Documentation - MATLAB V7 Introductory and Programming.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Getting Started with MATLAB 7",
+  "AuthorsSuggested": "batserve",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+A377F2BEFE9575BD1622375433BF34FF7A518|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D1D6615984149D8B65D6F65B3A99266EEC2742A6|metadata|0B64890D0B9E83B707107C4672440E98|{
+  "FileType": "pdf",
+  "Fingerprint": "D1D6615984149D8B65D6F65B3A99266EEC2742A6",
+  "DateAddedToDatabase": "20170711020749235",
+  "DateLastModified": "20170711020749235",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\f11_im_arith_v2_w00.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Instructor’s Manual for  Computer Arithmetic"
+}|NULL
+D1D6615984149D8B65D6F65B3A99266EEC2742A6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FCBD3F6CCFB77077DAB2199551DF3976F69352A|metadata|7DD43FF9F1D18F6295321872767F0CE7|{
+  "FileType": "pdf",
+  "Fingerprint": "FCBD3F6CCFB77077DAB2199551DF3976F69352A",
+  "DateAddedToDatabase": "20170711020507875",
+  "DateLastModified": "20170711020507875",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\C\\Cornea-Hasegan et al. - Correctness proofs outline for Newton-Raphson based floating-point divide and square root algorithms.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1999",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Correctness Proofs Outline for Newton-Raphson Based  Floating-Point Divide and Square Root Algorithms"
+}|NULL
+FCBD3F6CCFB77077DAB2199551DF3976F69352A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FF1257B527E1607F9CCB807937F5B053B4EA8ACC|metadata|116CF6D7C4451286C635DC96B3903739|{
+  "FileType": "pdf",
+  "Fingerprint": "FF1257B527E1607F9CCB807937F5B053B4EA8ACC",
+  "DateAddedToDatabase": "20170711020507860",
+  "DateLastModified": "20170711020507860",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\C\\Cornea et al. 2007 - FF1257B527E1607F9CCB807937F5B053B4EA8ACC.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Software Implementation of the IEEE 754R Decimal Floating-Point  Arithmetic Using the Binary Encoding Format"
+}|NULL
+FF1257B527E1607F9CCB807937F5B053B4EA8ACC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D6762CFC0795D2AB994B7BBCC87C634DF1ECE4|metadata|17615EEE52630B259FDB47871546FDAB|{
+  "FileType": "pdf",
+  "Fingerprint": "D6762CFC0795D2AB994B7BBCC87C634DF1ECE4",
+  "DateAddedToDatabase": "20170711020359418",
+  "DateLastModified": "20170711020359418",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Amr-Thesis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Hierarchical Verification of the  IEEE-754 Table-Driven Floating-Point  Exponential Function using HOL"
+}|NULL
+D6762CFC0795D2AB994B7BBCC87C634DF1ECE4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EFE04CA1DA8DC54610F87EDDE995124D97177EF9|metadata|23EBC41DE9E856D21726AD6D7D1A6E4D|{
+  "FileType": "pdf",
+  "Fingerprint": "EFE04CA1DA8DC54610F87EDDE995124D97177EF9",
+  "DateAddedToDatabase": "20170711020435680",
+  "DateLastModified": "20170711020435680",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\MQ64057.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Hierarchical Verification of  the IEEE-754 Table-Driven Floating-Point  Exponential Function  using HOL"
+}|NULL
+EFE04CA1DA8DC54610F87EDDE995124D97177EF9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4C5AF62D25EB6A83F245B6344A551332E065E3|metadata|0551516ED0C03B7DC57F7D49DF5BB2AA|{
+  "FileType": "pdf",
+  "Fingerprint": "4C5AF62D25EB6A83F245B6344A551332E065E3",
+  "DateAddedToDatabase": "20170711020825009",
+  "DateLastModified": "20170711020825009",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\SSA.and.AST\\a311439.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+4C5AF62D25EB6A83F245B6344A551332E065E3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+68D97F395A32D3DE35B31E41A4B870A5222D59ED|metadata|B4DFA385B6FE3E1D7CDEB380F00B37FE|{
+  "FileType": "pdf",
+  "Fingerprint": "68D97F395A32D3DE35B31E41A4B870A5222D59ED",
+  "DateAddedToDatabase": "20170711020440804",
+  "DateLastModified": "20170711020440804",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\priest-thesis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Ou Properties of Floating Point Arithmetics:  Numerical Stability and the Cost of Accurate Computations"
+}|NULL
+68D97F395A32D3DE35B31E41A4B870A5222D59ED|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9D5D492A57E4EAEBA9DFDCEACA77F4C7CBBE92A|metadata|C4B156C6DA09B51FA2E1F45C2D7FE622|{
+  "FileType": "pdf",
+  "Fingerprint": "9D5D492A57E4EAEBA9DFDCEACA77F4C7CBBE92A",
+  "DateAddedToDatabase": "20170711020534701",
+  "DateLastModified": "20170711020534701",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\floating-point.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Chapter 12 Basics of Floating-PointQuantization"
+}|NULL
+9D5D492A57E4EAEBA9DFDCEACA77F4C7CBBE92A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EB4A34E87967CBDCDBEBF62065FB13D2BFF8080|metadata|E459F68D331520976099AE36273D1AD7|{
+  "FileType": "pdf",
+  "Fingerprint": "EB4A34E87967CBDCDBEBF62065FB13D2BFF8080",
+  "DateAddedToDatabase": "20170711020757031",
+  "DateLastModified": "20170711020757031",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\priest-thesis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Ou Properties of Floating Point Arithmetics:  Numerical Stability and the Cost of Accurate Computations"
+}|NULL
+EB4A34E87967CBDCDBEBF62065FB13D2BFF8080|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+653ECAB43B08667DC527ED1C49B28FF7A2B2BC|metadata|1822D233B898F63B40605C538416F9B9|{
+  "FileType": "pdf",
+  "Fingerprint": "653ECAB43B08667DC527ED1C49B28FF7A2B2BC",
+  "DateAddedToDatabase": "20170711020424450",
+  "DateLastModified": "20170711020424450",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\herbie.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Automatically Improving Accuracy for Floating Point Expressions",
+  "AuthorsSuggested": "Pavel Panchekha, Alex Sanchez-Stern, James R. Wilcox, and Zachary Tatlock",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+653ECAB43B08667DC527ED1C49B28FF7A2B2BC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2C9D626C7BDB76EE9A80D1994B9B3391884E44|metadata|8446DD9BFCDEB80EA9549451236AD1AF|{
+  "FileType": "pdf",
+  "Fingerprint": "2C9D626C7BDB76EE9A80D1994B9B3391884E44",
+  "DateAddedToDatabase": "20170711020403752",
+  "DateLastModified": "20170711020403752",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Caminha_Monniaux_PAAR2012.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Experiments on the feasibility of using a  floating-point simplex in an SMT solver"
+}|NULL
+2C9D626C7BDB76EE9A80D1994B9B3391884E44|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4CFBBA34CF7875AECADEABD12993CA4D1DFD2EEF|metadata|6624B2EB0716EF60456EB4883764BB65|{
+  "FileType": "pdf",
+  "Fingerprint": "4CFBBA34CF7875AECADEABD12993CA4D1DFD2EEF",
+  "DateAddedToDatabase": "20170711020419166",
+  "DateLastModified": "20170711020419166",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\fontarnau.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Static Analysis for Detecting and Avoiding  Floating-Point Run-Time Errors in Logic  Programs by"
+}|NULL
+4CFBBA34CF7875AECADEABD12993CA4D1DFD2EEF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F211F6F19499614D9F3E20F998A7053A923E60|metadata|58AA3F55EA78BD0DC2441CB097632D28|{
+  "FileType": "pdf",
+  "Fingerprint": "F211F6F19499614D9F3E20F998A7053A923E60",
+  "DateAddedToDatabase": "20170711020418864",
+  "DateLastModified": "20170711020418864",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Fixed-Point.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Microsoft Word - Fixed-Point Design",
+  "AuthorsSuggested": "MOJTABA_",
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F211F6F19499614D9F3E20F998A7053A923E60|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8E4B81539ADBCE6FFE1B4790814DE6B1AB92F|metadata|41E666D51B9E724801C33FF2856EC4CF|{
+  "FileType": "pdf",
+  "Fingerprint": "8E4B81539ADBCE6FFE1B4790814DE6B1AB92F",
+  "DateAddedToDatabase": "20170711020651230",
+  "DateLastModified": "20170711020651230",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\article.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A Formally-Verified C Compiler Supporting Floating-Point Arithmetic",
+  "AuthorsSuggested": "Sylvie Boldo, Jacques-Henri Jourdan, Xavier Leroy, Guillaume Melquiond",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8E4B81539ADBCE6FFE1B4790814DE6B1AB92F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7220070DE77467D1A5ACAE4897879B4AC2B5BF|metadata|981B930709BFDA761A87571E75A10940|{
+  "FileType": "pdf",
+  "Fingerprint": "7220070DE77467D1A5ACAE4897879B4AC2B5BF",
+  "DateAddedToDatabase": "20170711020759420",
+  "DateLastModified": "20170711020759420",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Yong-KangZhu2005b.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A New Distillation Algorithm for Floating-Point Summation",
+  "AuthorsSuggested": "Yong-Kang Zhu, Jun-Hai Yong, Guo-Qin Zheng",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7220070DE77467D1A5ACAE4897879B4AC2B5BF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FC1A29E51A5D6D7A05CBE3A78E8DFC43D6ACCB9|metadata|2EC6B91C9F7F7F5373B9BB7CEF95132A|{
+  "FileType": "pdf",
+  "Fingerprint": "FC1A29E51A5D6D7A05CBE3A78E8DFC43D6ACCB9",
+  "DateAddedToDatabase": "20170711020507598",
+  "DateLastModified": "20170711020507598",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\C\\Collavizza et al. 2014 - Generating test cases inside suspicious intervals for floating-point number programs.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Generating test cases inside suspicious intervals for floating-point number programs",
+  "AuthorsSuggested": "Hélène Collavizza, Claude Michel, Olivier Ponsini, Michel Rueher",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FC1A29E51A5D6D7A05CBE3A78E8DFC43D6ACCB9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+BB1919BBBB175575C14AB8493F5611CFDE46A5D|metadata|FBA7FFAAA488CDCB04BE729E4E3B3091|{
+  "FileType": "pdf",
+  "Fingerprint": "BB1919BBBB175575C14AB8493F5611CFDE46A5D",
+  "DateAddedToDatabase": "20170711020533037",
+  "DateLastModified": "20170711020533037",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\990.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "OPTIMAL FINITE-PRECISION CONTROLLER AND FILTER IMPLEMENTATIONS USING FLOATING-POINT ARITHMETIC",
+  "AuthorsSuggested": "James F Whidborne Da-Wei Gu",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+BB1919BBBB175575C14AB8493F5611CFDE46A5D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+41818AB24713332E475AC05815A366ECC5CC|metadata|F8748BDE79026C05C716A636DB638C51|{
+  "FileType": "pdf",
+  "Fingerprint": "41818AB24713332E475AC05815A366ECC5CC",
+  "DateAddedToDatabase": "20170711020746671",
+  "DateLastModified": "20170711020746671",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\asna13_cardiff.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accuracy and Stability of  Numerical Algorithms",
+  "AuthorsSuggested": "Nick Higham",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+41818AB24713332E475AC05815A366ECC5CC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4BE7B3715E2E85715CA6582BD454298249857228|metadata|04A0BB394D75C1DF59E11D8D10F8F251|{
+  "FileType": "pdf",
+  "Fingerprint": "4BE7B3715E2E85715CA6582BD454298249857228",
+  "DateAddedToDatabase": "20170711020434095",
+  "DateLastModified": "20170711020434095",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\MATH1070_2_Error_and_Computer_Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numerical Mathematical Analysis",
+  "AuthorsSuggested": "Catalin Trenchea",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+4BE7B3715E2E85715CA6582BD454298249857228|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+50DDFC58BF43F77BD171C2625429E13C57857EB|metadata|47D2AA83A913EC332A5A23475D2EB84E|{
+  "FileType": "pdf",
+  "Fingerprint": "50DDFC58BF43F77BD171C2625429E13C57857EB",
+  "DateAddedToDatabase": "20170711005953691",
+  "DateLastModified": "20170711005953691",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2017-05-11\\N. Higham (SIAM, 2002) WW-(0001)\\Accuracy and Stability of Numerical (2)\\Accuracy and Stability of Numer - N. Higham (SIAM, 2002) WW-(0001.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accuracy and Stability of Numerical Algorithms 2nd ed",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+50DDFC58BF43F77BD171C2625429E13C57857EB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+43EFFFADFA6C68FA42A016908838FF4E14F1BCCA|metadata|FDC35CC816D06B89CB9CDB3E6E1D6522|{
+  "FileType": "pdf",
+  "Fingerprint": "43EFFFADFA6C68FA42A016908838FF4E14F1BCCA",
+  "DateAddedToDatabase": "20170711020544023",
+  "DateLastModified": "20170711020544023",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\TCON101710.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Optimal realizations of floating-point implemented digital controllers with finite  word length considerations  JUN WUy, SHENG CHENz*, JAMES F. WHIDBORNE} and JIAN CHUy"
+}|NULL
+43EFFFADFA6C68FA42A016908838FF4E14F1BCCA|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6385E03FF5FADB1DF57D1F24B5839BFBDADCD63|metadata|8F18F6109EE2720BE34AE48B624A238D|{
+  "FileType": "pdf",
+  "Fingerprint": "6385E03FF5FADB1DF57D1F24B5839BFBDADCD63",
+  "DateAddedToDatabase": "20170711020743687",
+  "DateLastModified": "20170711020743687",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\1401.6235.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Евгений Латкин",
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "  Twofold fast arithmetic"
+}|NULL
+6385E03FF5FADB1DF57D1F24B5839BFBDADCD63|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F7B41937669CDD7DD652B38B62040FDC778D|metadata|BFCB5791C10B0E46FB03BB04A5A9A62D|{
+  "FileType": "pdf",
+  "Fingerprint": "F7B41937669CDD7DD652B38B62040FDC778D",
+  "DateAddedToDatabase": "20170711020510126",
+  "DateLastModified": "20170711020510126",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\G\\Geometry - Simply stated, floating­point arithmetic is arithmetic performed on f.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+F7B41937669CDD7DD652B38B62040FDC778D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F99EB13B556E20957A889F264CEC78B61777D5CF|metadata|77993139B91792300C6193D35D3C1ED7|{
+  "FileType": "pdf",
+  "Fingerprint": "F99EB13B556E20957A889F264CEC78B61777D5CF",
+  "DateAddedToDatabase": "20170711020513521",
+  "DateLastModified": "20170711020513521",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\L\\Langou et al. 2006 - Exploiting the Performance of 32 bit Floating Point ...  64 bit Accuracy (Revisiting Iterative Refinement for Linear Systems).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "dongarra",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Exploiting the Performance of 32 bit Floating Point Arithmetic in Obtaining  64 bit Accuracy  (Revisiting Iterative Refinement for Linear Systems)"
+}|NULL
+F99EB13B556E20957A889F264CEC78B61777D5CF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5B5F7EDE8060C97EEFFE8AA1FC0FC1EAF21C6|metadata|0599CBFFA1795CD1CDBC761C9AE16BFE|{
+  "FileType": "pdf",
+  "Fingerprint": "5B5F7EDE8060C97EEFFE8AA1FC0FC1EAF21C6",
+  "DateAddedToDatabase": "20170711020806693",
+  "DateLastModified": "20170711020806693",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\midpoints.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Midpoints and exact points of some algebraic functions in floating-point arithmetic",
+  "AuthorsSuggested": "Claude-Pierre Jeannerod, Nicolas Louvet, Jean-Michel Muller, Adrien Panhaleux",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5B5F7EDE8060C97EEFFE8AA1FC0FC1EAF21C6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F944A65B1AF5C6F32E99B62EDA9B171CD9483E63|metadata|068C9D230FCBE10FD0246E169E51D414|{
+  "FileType": "pdf",
+  "Fingerprint": "F944A65B1AF5C6F32E99B62EDA9B171CD9483E63",
+  "DateAddedToDatabase": "20170711020513815",
+  "DateLastModified": "20170711020513815",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\L\\Liang-Kai Wang et al. - Decimal floating-point division using newton-raphson iteration.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Decimal floating-point division using newton-raphson iteration - Application-Specific Systems, Architectures and Processors, 2004. Proceedings. 15th IEEE Internati",
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F944A65B1AF5C6F32E99B62EDA9B171CD9483E63|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5C16EC9A64756D463715652DB62CBFE2FC21F42A|metadata|FE8765BF1172D10FE15A24D8B7AE2A72|{
+  "FileType": "pdf",
+  "Fingerprint": "5C16EC9A64756D463715652DB62CBFE2FC21F42A",
+  "DateAddedToDatabase": "20170711020429895",
+  "DateLastModified": "20170711020429895",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\JoldesASAP.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "On the computation of the reciprocal of floating point expansions  using an adapted Newton-Raphson iteration",
+  "AuthorsSuggested": "Mioara Joldes, Valentina Popescu, Jean-Michel Muller",
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5C16EC9A64756D463715652DB62CBFE2FC21F42A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6FEAF2EE8D30791B881639D5320129255B15228|metadata|E58B99F116D6D0F40209796B9DD8CE78|{
+  "FileType": "pdf",
+  "Fingerprint": "6FEAF2EE8D30791B881639D5320129255B15228",
+  "DateAddedToDatabase": "20170711020807422",
+  "DateLastModified": "20170711020807422",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\RR-5400.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "When double rounding is odd",
+  "AuthorsSuggested": "Sylvie Boldo, Guillaume Melquiond",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+6FEAF2EE8D30791B881639D5320129255B15228|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FD2C2893B5B6DE39AABCDC7BDE2252E345BE550|metadata|21E09B0155A60039BBFA402C5C8870EE|{
+  "FileType": "pdf",
+  "Fingerprint": "FD2C2893B5B6DE39AABCDC7BDE2252E345BE550",
+  "DateAddedToDatabase": "20170711020528058",
+  "DateLastModified": "20170711020528058",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\S\\Spinellis - Code Quality - The Open Source Perspective Code Quality - The Open Source Perspective.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+FD2C2893B5B6DE39AABCDC7BDE2252E345BE550|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E943262687E66C33BF62A05FD917C7A9D9E283|metadata|6C78354198E0BBD16967C0833E342B82|{
+  "FileType": "pdf",
+  "Fingerprint": "E943262687E66C33BF62A05FD917C7A9D9E283",
+  "DateAddedToDatabase": "20170711020409040",
+  "DateLastModified": "20170711020409040",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\computing-midpoint.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "How do you compute the midpoint of an interval?",
+  "AuthorsSuggested": "Frédéric Goualard",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E943262687E66C33BF62A05FD917C7A9D9E283|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+72546B9D1B227BDB66C5AB7E6F08D91E5C0204C|metadata|30F4D336CDC1E5BA418C40C922F2F96E|{
+  "FileType": "pdf",
+  "Fingerprint": "72546B9D1B227BDB66C5AB7E6F08D91E5C0204C",
+  "DateAddedToDatabase": "20170711031212305",
+  "DateLastModified": "20170711031212305",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2017-07-01\\float-in-competition.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Tom Verhoeff",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Difficulties in Pre-University  Informatics Education and Competitions"
+}|NULL
+72546B9D1B227BDB66C5AB7E6F08D91E5C0204C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CEA45484B7C6C92ECC3E2DCE89534E636BEB3|metadata|E9132330A7BEAC8B6DF3E23DCA2A9A27|{
+  "FileType": "pdf",
+  "Fingerprint": "CEA45484B7C6C92ECC3E2DCE89534E636BEB3",
+  "DateAddedToDatabase": "20170711020358167",
+  "DateLastModified": "20170711020358167",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\ActaNumerica2010.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "schneide",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+CEA45484B7C6C92ECC3E2DCE89534E636BEB3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9A802E55D0E3937BF6EDF53726D37C31272EEA0|metadata|5815D43C0BA8B9B8A8343565937D8D28|{
+  "FileType": "pdf",
+  "Fingerprint": "9A802E55D0E3937BF6EDF53726D37C31272EEA0",
+  "DateAddedToDatabase": "20170711020709218",
+  "DateLastModified": "20170711020709218",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\Hacker's Delight 2nd ed. [programming tips and tricks] - H. Warren (Pearson, 2013) [eCV] WW.pdf",
+  "BibTex": "@book{warren2013hacker,\r\n  title={Hacker's delight},\r\n  author={Warren, Henry S},\r\n  year={2013},\r\n  publisher={Pearson Education}\r\n}",
+  "Comments": null,
+  "Tags": "programming;software",
+  "DateLastRead": "20180422133234417",
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Cover Page",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "PageLastRead": 1,
+  "AutoSuggested_OCRFrontPage": true,
+  "Title": null,
+  "Year": null,
+  "Authors": null,
+  "IsFavourite": true,
+  "Rating": "5",
+  "ReadingStage": ""
+}|NULL
+9A802E55D0E3937BF6EDF53726D37C31272EEA0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F7C6CF1AFF52FE9758D5084E733DE3396CB442E|metadata|CDB76983D4FCA0BB0A3D52E79564687C|{
+  "FileType": "pdf",
+  "Fingerprint": "F7C6CF1AFF52FE9758D5084E733DE3396CB442E",
+  "DateAddedToDatabase": "20170711020442940",
+  "DateLastModified": "20170711020442940",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\roundofferror.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Chapter 1  Numerical Algorithms and  Roundoff Errors"
+}|NULL
+F7C6CF1AFF52FE9758D5084E733DE3396CB442E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9CE09CED3F61E36F40CC552FAF6B5167717334|metadata|97464D29558B5EA2A9B9F52BAB172793|{
+  "FileType": "pdf",
+  "Fingerprint": "9CE09CED3F61E36F40CC552FAF6B5167717334",
+  "DateAddedToDatabase": "20170806150441459",
+  "DateLastModified": "20170806150441459",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\MATLAB Primer (6th Ed) - Kermit Sigmon & Timothy A. Davis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+9CE09CED3F61E36F40CC552FAF6B5167717334|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5213CF55E670DF5EC9CDB8B2D5151928FF9517AE|metadata|92CA483B5AAFC49C6DF58D4F2141982C|{
+  "FileType": "pdf",
+  "Fingerprint": "5213CF55E670DF5EC9CDB8B2D5151928FF9517AE",
+  "DateAddedToDatabase": "20170711020436264",
+  "DateLastModified": "20170711020436264",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\na1.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Analysis I"
+}|NULL
+5213CF55E670DF5EC9CDB8B2D5151928FF9517AE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+866F39F5A9E94D501377303FB122D090459F18D|metadata|CF5318E07EA9FFC7895F18B80BB25AC1|{
+  "FileType": "pdf",
+  "Fingerprint": "866F39F5A9E94D501377303FB122D090459F18D",
+  "DateAddedToDatabase": "20170711020424668",
+  "DateLastModified": "20170711020424668",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Higham_2002_Accuracy and Stability of Numerical Algorithms.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+866F39F5A9E94D501377303FB122D090459F18D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+61621659E3604CB73A51B4CA54FB788F56FE3EB|metadata|AD754089F899C1E6533575E3821B5379|{
+  "FileType": "pdf",
+  "Fingerprint": "61621659E3604CB73A51B4CA54FB788F56FE3EB",
+  "DateAddedToDatabase": "20170711020534681",
+  "DateLastModified": "20170711020534681",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\fir.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Roundoff Noise in FIR Digital  Filters and in FFT Calculations"
+}|NULL
+61621659E3604CB73A51B4CA54FB788F56FE3EB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9A4563965DBD114C499E1E7131680C45D8B3020|metadata|3F8F54D10D98A1EF70AD6927C3F552D7|{
+  "FileType": "pdf",
+  "Fingerprint": "9A4563965DBD114C499E1E7131680C45D8B3020",
+  "DateAddedToDatabase": "20170711020446251",
+  "DateLastModified": "20170711020446251",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\sourcesOfError.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Sources of Error 3"
+}|NULL
+9A4563965DBD114C499E1E7131680C45D8B3020|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+17607D467CDA1D277AD272DEB2113533131DC9|metadata|6B4539D7121B9469FC9CB6A2B77D5444|{
+  "FileType": "pdf",
+  "Fingerprint": "17607D467CDA1D277AD272DEB2113533131DC9",
+  "DateAddedToDatabase": "20170711020744443",
+  "DateLastModified": "20170711020744443",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\7d467cda1d0277ad272deb2113533131dc09.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A generalized  Kahan-Babuˇ ska-Summation-Algorithm Andreas Klein"
+}|NULL
+17607D467CDA1D277AD272DEB2113533131DC9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9EBC763D8B6D154CAFE3C8BD80425DADD572D4D|metadata|45BFE64D7CB466A602538D1F24055980|{
+  "FileType": "pdf",
+  "Fingerprint": "9EBC763D8B6D154CAFE3C8BD80425DADD572D4D",
+  "DateAddedToDatabase": "20170711020744419",
+  "DateLastModified": "20170711020744419",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\763d8b6d154cafe3c8bd804205dadd572d4d.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Solving Triangular Systems More Accurately and Efficiently",
+  "AuthorsSuggested": "Philippe Langlois, Nicolas Louvet",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9EBC763D8B6D154CAFE3C8BD80425DADD572D4D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C3AE2569EE3F1DD46CCF405A654AA76EC423B6B6|metadata|2A81C6B1153292FE19833C2BB5AF40F9|{
+  "FileType": "pdf",
+  "Fingerprint": "C3AE2569EE3F1DD46CCF405A654AA76EC423B6B6",
+  "DateAddedToDatabase": "20170711020409126",
+  "DateLastModified": "20170711020409126",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\conditioning_and_precision.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Conditioning and Numerical Stability",
+  "AuthorsSuggested": "Eric Liu",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C3AE2569EE3F1DD46CCF405A654AA76EC423B6B6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F386925A3CA08CA6A2FDCDD1D5E5FC67FDACC3E0|metadata|CCCD8FEBF7013B41D4526E158C56B6F4|{
+  "FileType": "pdf",
+  "Fingerprint": "F386925A3CA08CA6A2FDCDD1D5E5FC67FDACC3E0",
+  "DateAddedToDatabase": "20170711020512572",
+  "DateLastModified": "20170711020512572",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\K\\Kahan - Back to the Future of Undebuggable Floating-Point Computation in Science and Engineering.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+F386925A3CA08CA6A2FDCDD1D5E5FC67FDACC3E0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+BE18DB84F1DD28CDEF5AEA6EFEBA46E0545C6DF3|metadata|72E413D9EB4A21A9B4A25AD85354DDCB|{
+  "FileType": "pdf",
+  "Fingerprint": "BE18DB84F1DD28CDEF5AEA6EFEBA46E0545C6DF3",
+  "DateAddedToDatabase": "20170711020427965",
+  "DateLastModified": "20170711020427965",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\intro-qual.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "An Introduction to the Quality of Computed Solutions",
+  "AuthorsSuggested": "Sven Hammarling",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+BE18DB84F1DD28CDEF5AEA6EFEBA46E0545C6DF3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3C7633759ABE4D1DEF54ED183B59C6A22251DBC|metadata|7E9E3D10D2D7E819E6B31B152810C932|{
+  "FileType": "pdf",
+  "Fingerprint": "3C7633759ABE4D1DEF54ED183B59C6A22251DBC",
+  "DateAddedToDatabase": "20170711020807667",
+  "DateLastModified": "20170711020807667",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\SumsDoubleRoundings(1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Some issues related to double roundings",
+  "AuthorsSuggested": "Érik Martin-Dorel, Guillaume Melquiond, Jean-Michel Muller",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+3C7633759ABE4D1DEF54ED183B59C6A22251DBC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F792547338B148FFC49C22C6881FC1DDCAAC867|metadata|6C0D6EE1D1F90D49FEBFC8A3B6DB51A2|{
+  "FileType": "pdf",
+  "Fingerprint": "F792547338B148FFC49C22C6881FC1DDCAAC867",
+  "DateAddedToDatabase": "20170711020806609",
+  "DateLastModified": "20170711020806609",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\MARTIN_DOREL_Erik_2012_these.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Contributions to the Formal Verification of Arithmetic Algorithms",
+  "AuthorsSuggested": "Erik Martin-Dorel",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F792547338B148FFC49C22C6881FC1DDCAAC867|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E223D663FEF935FCAD4ABD36E01253B7239550|metadata|55B4C60C03CC8EB8627EBCC54F3E22E6|{
+  "FileType": "pdf",
+  "Fingerprint": "E223D663FEF935FCAD4ABD36E01253B7239550",
+  "DateAddedToDatabase": "20170711020437991",
+  "DateLastModified": "20170711020437991",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\numericalAnalysis.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Analysis I"
+}|NULL
+E223D663FEF935FCAD4ABD36E01253B7239550|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C1BFB62F8517461BBF867168D92E3BB26EF9E6D|metadata|4CB950F04C095163E825276A170FCB8C|{
+  "FileType": "pdf",
+  "Fingerprint": "C1BFB62F8517461BBF867168D92E3BB26EF9E6D",
+  "DateAddedToDatabase": "20170711005956662",
+  "DateLastModified": "20170711005956662",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\2017-06-15\\MISRA-Development-Guidelines-For-Vehicle-Based-Software-April-1998.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1998",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "GuidelinesFor The Use"
+}|NULL
+C1BFB62F8517461BBF867168D92E3BB26EF9E6D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+252E5FDCF5F67A1737A73475539933A9241F2B1|metadata|AE2654FD235FFF3BBB6D1E8C454CB360|{
+  "FileType": "pdf",
+  "Fingerprint": "252E5FDCF5F67A1737A73475539933A9241F2B1",
+  "DateAddedToDatabase": "20170711020531109",
+  "DateLastModified": "20170711020531109",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\03.PDF",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Finite Wordlength Effects",
+  "AuthorsSuggested": "Bruce W. Bomar",
+  "YearSuggested": "1999",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+252E5FDCF5F67A1737A73475539933A9241F2B1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8BCA2F12D0A58CCCEF5529948F354518C26D6B|metadata|E95392BEBF9611A029C6C8EE6654C85A|{
+  "FileType": "pdf",
+  "Fingerprint": "8BCA2F12D0A58CCCEF5529948F354518C26D6B",
+  "DateAddedToDatabase": "20170711013125217",
+  "DateLastModified": "20170711013125217",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\!R&D - theory\\!electronic components - specs\\DF_2_Number_Systems_Operations_and_Codes.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Floyd - Digital Fundamentals 9e",
+  "AuthorsSuggested": "Thomas L. Floyd",
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8BCA2F12D0A58CCCEF5529948F354518C26D6B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DCE846429EDA33D46995347ABCCAB00E2706E2F|metadata|C71119AF97429B524A66AA6A58C18E8B|{
+  "FileType": "pdf",
+  "Fingerprint": "DCE846429EDA33D46995347ABCCAB00E2706E2F",
+  "DateAddedToDatabase": "20170711020759510",
+  "DateLastModified": "20170711020759510",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\(MA4423) Sauer - Numerical Analysis 2e.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "N UMERICAL"
+}|NULL
+DCE846429EDA33D46995347ABCCAB00E2706E2F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D547B66942F398C4F1731C04166D66068E79ECF|metadata|227814BEBB228C76950B7A5DF60C38B6|{
+  "FileType": "pdf",
+  "Fingerprint": "D547B66942F398C4F1731C04166D66068E79ECF",
+  "DateAddedToDatabase": "20170806150434619",
+  "DateLastModified": "20170806150434619",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\Computational Mathematics Models Methods and Analysis with Matlab - Robert E. White.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Lupin@UATON",
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "COMPUTATIONALMATHEMATICS Models, Methods, and Analysis"
+}|NULL
+D547B66942F398C4F1731C04166D66068E79ECF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6AA87157F675D14B512650B5AC473D87FD398F47|metadata|5A776BF23A2177B65E9C0436A3CD76A1|{
+  "FileType": "pdf",
+  "Fingerprint": "6AA87157F675D14B512650B5AC473D87FD398F47",
+  "DateAddedToDatabase": "20170711020433191",
+  "DateLastModified": "20170711020433191",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\lna.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "NumericalAnalysisLectureNotes Peter J. Olver  1. Computer Arithmetic"
+}|NULL
+6AA87157F675D14B512650B5AC473D87FD398F47|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8F88FCF83A115DCC402F60F378D8C8D095B71|metadata|0A98BBA1A3D5B7553385C487CF841787|{
+  "FileType": "pdf",
+  "Fingerprint": "8F88FCF83A115DCC402F60F378D8C8D095B71",
+  "DateAddedToDatabase": "20170711020533448",
+  "DateLastModified": "20170711020533448",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\cacsuk03.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Comparative Study on Finite-Precision Controller Realizations  in Different Representation Schemes?"
+}|NULL
+8F88FCF83A115DCC402F60F378D8C8D095B71|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8D0749B55636683483FAA773FFF4443D7CEF2A8|metadata|BAA8A0DC584BCD197F8A55348F30A2B9|{
+  "FileType": "pdf",
+  "Fingerprint": "8D0749B55636683483FAA773FFF4443D7CEF2A8",
+  "DateAddedToDatabase": "20170806150432868",
+  "DateLastModified": "20170806150432868",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\A Guide to MATLAB for Beginners and Experienced Users - Hunt Lipsman & Rosenberg.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A Guide to MATLAB for Beginners and Experienced Users",
+  "AuthorsSuggested": "Brian R.Hunt, Ronald L.Lipsman and Jonathan M.Rosenberg",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8D0749B55636683483FAA773FFF4443D7CEF2A8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B370DF31A05122153EE12916610C61240F7B7CD|metadata|C6089A8A49D29319B04B52BA901FE340|{
+  "FileType": "pdf",
+  "Fingerprint": "B370DF31A05122153EE12916610C61240F7B7CD",
+  "DateAddedToDatabase": "20170711020752990",
+  "DateLastModified": "20170711020752990",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\MIMS_ep2006_75_Table_of_Contents.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Accuracy and Stability of Numerical Algorithms  Nicholas J. Higham  2002  MIMS EPrint: 2006.75  Manchester Institute for Mathematical Sciences  School of Mathematics  The University of Manchester"
+}|NULL
+B370DF31A05122153EE12916610C61240F7B7CD|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2C7A5C5EAAF4E7B5829FA977F7B5DF741D7137C|metadata|390C0DE1AB6DA8E80C768B0E5573AC9A|{
+  "FileType": "pdf",
+  "Fingerprint": "2C7A5C5EAAF4E7B5829FA977F7B5DF741D7137C",
+  "DateAddedToDatabase": "20170711020535274",
+  "DateLastModified": "20170711020535274",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\Kolmogorov-Chaitin_complexity_of_linear.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Kolmogorov-Chaitin Complexity of Linear Digital  Controllers Implemented using Fixed-point Arithmetic"
+}|NULL
+2C7A5C5EAAF4E7B5829FA977F7B5DF741D7137C|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A8E150DC6623201C77809C6FA1C7203EC3935E70|metadata|DD06E1685B69B23FE706F4B93A65422D|{
+  "FileType": "pdf",
+  "Fingerprint": "A8E150DC6623201C77809C6FA1C7203EC3935E70",
+  "DateAddedToDatabase": "20170806150325868",
+  "DateLastModified": "20170806150325868",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Indutrial and Process Control\\McGraw-Hill - Process-Industrial Instruments and Controls Handbook - 5th,1999.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+A8E150DC6623201C77809C6FA1C7203EC3935E70|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D237B419558149C95BB4702BE84D8A622163C5|metadata|0E9843882351C74F71B17732A1D42DC0|{
+  "FileType": "pdf",
+  "Fingerprint": "D237B419558149C95BB4702BE84D8A622163C5",
+  "DateAddedToDatabase": "20170711020751914",
+  "DateLastModified": "20170711020751914",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\LaLo05.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Solving Triangular Systems More Accurately and Efficiently"
+}|NULL
+D237B419558149C95BB4702BE84D8A622163C5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+BFC393BFEC5FE2DF071B266B087E9F8B6DCFE34|metadata|7326044A8AC1A6EBFCBB3768A38EA1DD|{
+  "FileType": "pdf",
+  "Fingerprint": "BFC393BFEC5FE2DF071B266B087E9F8B6DCFE34",
+  "DateAddedToDatabase": "20170711020823088",
+  "DateLastModified": "20170711020823088",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\interpreters-and-compilers\\FULLTEXT01 (1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Evaluation and Implementation of Dominance  Breaking Presolving Techniques in the Unison  Compiler Back-End"
+}|NULL
+BFC393BFEC5FE2DF071B266B087E9F8B6DCFE34|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FDC492C979299029E3D5348E9F69AC88441B|metadata|F287D1613D39E168191FCF18088DCC17|{
+  "FileType": "pdf",
+  "Fingerprint": "FDC492C979299029E3D5348E9F69AC88441B",
+  "DateAddedToDatabase": "20170711020523235",
+  "DateLastModified": "20170711020523235",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\Other\\FDC492C979299029E3D5348E9F69AC88441B.... - FDC492C979299029E3D5348E9F69AC88441B.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Evaluation and Implementation of Dominance  Breaking Presolving Techniques in the Unison  Compiler Back-End"
+}|NULL
+FDC492C979299029E3D5348E9F69AC88441B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+AB42F286E23F9962223AE627EDA944DCB39E3FE1|metadata|73529EB225FB2E53876C6974B30D1EA5|{
+  "FileType": "pdf",
+  "Fingerprint": "AB42F286E23F9962223AE627EDA944DCB39E3FE1",
+  "DateAddedToDatabase": "20170711020744747",
+  "DateLastModified": "20170711020744747",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\AccrateSummationMethods.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Comparison Of Methods For Accurate Summation†"
+}|NULL
+AB42F286E23F9962223AE627EDA944DCB39E3FE1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6280F3A52EBCAC7BBA9E8EA3506EE18AA47DF1D8|metadata|F031408D2B562489E5769B4C054B0154|{
+  "FileType": "pdf",
+  "Fingerprint": "6280F3A52EBCAC7BBA9E8EA3506EE18AA47DF1D8",
+  "DateAddedToDatabase": "20170711020743225",
+  "DateLastModified": "20170711020743225",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\10-iakymchuk-abstract.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Reproducible Accurate Summation Algorithm for  High-Performance Computing"
+}|NULL
+6280F3A52EBCAC7BBA9E8EA3506EE18AA47DF1D8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FEE93733B0C5E2526289898A6677602B5473F2|metadata|640B34583FD7A8F8B1F150F9B49A6AFC|{
+  "FileType": "pdf",
+  "Fingerprint": "FEE93733B0C5E2526289898A6677602B5473F2",
+  "DateAddedToDatabase": "20170711020757771",
+  "DateLastModified": "20170711020757771",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\SIAMEX14.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Reproducible Accurate Summation Algorithm for  High-Performance Computing"
+}|NULL
+FEE93733B0C5E2526289898A6677602B5473F2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9FBF2B68B27C77EBAD6FE6612FEBE6931A7A8D76|metadata|FBBD1079D860A084723F13E6939600B2|{
+  "FileType": "pdf",
+  "Fingerprint": "9FBF2B68B27C77EBAD6FE6612FEBE6931A7A8D76",
+  "DateAddedToDatabase": "20170711020347237",
+  "DateLastModified": "20170711020347237",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\1312.3300.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Reproducibility and Parallel  Computations: Issues for Interval Algorithms"
+}|NULL
+9FBF2B68B27C77EBAD6FE6612FEBE6931A7A8D76|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+500A53806BC25CE747438BFDFF8B6CDDD50D1|metadata|D07F0D7020D9FAC29E1251636AD10EAD|{
+  "FileType": "pdf",
+  "Fingerprint": "500A53806BC25CE747438BFDFF8B6CDDD50D1",
+  "DateAddedToDatabase": "20170806150444905",
+  "DateLastModified": "20170806150444905",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\Signals and Systems with MATLAB Applications - Steven T. Karris.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Signals and Systems with MATLAB Applications",
+  "AuthorsSuggested": "Karris, Steven T.",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+500A53806BC25CE747438BFDFF8B6CDDD50D1|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F88EC5223A198CDB92C93C3111B512880892A93|metadata|6B6CF003DC53B0736669D3BF164E31FB|{
+  "FileType": "pdf",
+  "Fingerprint": "F88EC5223A198CDB92C93C3111B512880892A93",
+  "DateAddedToDatabase": "20170806150434340",
+  "DateLastModified": "20170806150434340",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\Circuit Analysis II with MATLAB - Steven T. Karris.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Circuit Analysis II with MATLAB Applications",
+  "AuthorsSuggested": "Steven T. Karris",
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F88EC5223A198CDB92C93C3111B512880892A93|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+69547E48FFFE0C26AC5D91A76279529BA7E8|metadata|FAE589084AA61BC7AC7A3A5E7A7DBC43|{
+  "FileType": "pdf",
+  "Fingerprint": "69547E48FFFE0C26AC5D91A76279529BA7E8",
+  "DateAddedToDatabase": "20170711020807638",
+  "DateLastModified": "20170711020807638",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\submission(1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Innocuous Double Rounding of Basic Arithmetic Operations",
+  "AuthorsSuggested": "Pierre Roux",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+69547E48FFFE0C26AC5D91A76279529BA7E8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8D32A9979A3CE36EE9C5FA067752FE45CCA23|metadata|C085AE18584D6F307F181FA129A3C51A|{
+  "FileType": "pdf",
+  "Fingerprint": "8D32A9979A3CE36EE9C5FA067752FE45CCA23",
+  "DateAddedToDatabase": "20170806150509590",
+  "DateLastModified": "20170806150509590",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Optimization and mathematics\\Linear Algebra\\Matrix Analysis & Applied Linear Algebra.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Matrix Analysis & Applied Linear Algebra",
+  "AuthorsSuggested": "Carl D. Meyer",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8D32A9979A3CE36EE9C5FA067752FE45CCA23|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F54D14B62108ED6C7DED39341D867BAD822AAFC|metadata|C4CC489AA95DBC85CC2182601005F749|{
+  "FileType": "pdf",
+  "Fingerprint": "F54D14B62108ED6C7DED39341D867BAD822AAFC",
+  "DateAddedToDatabase": "20170711020526963",
+  "DateLastModified": "20170711020526963",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\R\\Roux 2014 - Innocuous Double Rounding of Basic Arithmetic Operations.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Innocuous Double Rounding of Basic Arithmetic Operations",
+  "AuthorsSuggested": "Pierre Roux",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F54D14B62108ED6C7DED39341D867BAD822AAFC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+79EA5587DB38A6DD9B771CDF336ACFA057AFB79F|metadata|D5F67DFF5CD961F6E52BBF9D17F0B9D1|{
+  "FileType": "pdf",
+  "Fingerprint": "79EA5587DB38A6DD9B771CDF336ACFA057AFB79F",
+  "DateAddedToDatabase": "20170711020648542",
+  "DateLastModified": "20170711020648542",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\4359-12373-1-PB.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Innocuous Double Rounding  of Basic Arithmetic Operations"
+}|NULL
+79EA5587DB38A6DD9B771CDF336ACFA057AFB79F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+9F11ACA9F06FC0336EEAA4CBEB293F4D646C714D|metadata|CF0B00B403D40BC7F8F8C640F388700F|{
+  "FileType": "pdf",
+  "Fingerprint": "9F11ACA9F06FC0336EEAA4CBEB293F4D646C714D",
+  "DateAddedToDatabase": "20170711020807323",
+  "DateLastModified": "20170711020807323",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-03-15\\odd-rounding(1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Emulation of a FMA and correctly-rounded sums: proved algorithms using rounding to odd",
+  "AuthorsSuggested": "Sylvie Boldo, Guillaume Melquiond",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+9F11ACA9F06FC0336EEAA4CBEB293F4D646C714D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C3DC1D6E5B83B4E09D48E3B7E32C1B64CFE7373D|metadata|45A13539744DF8ABFDBDA90CFBA6C96A|{
+  "FileType": "pdf",
+  "Fingerprint": "C3DC1D6E5B83B4E09D48E3B7E32C1B64CFE7373D",
+  "DateAddedToDatabase": "20170711020719641",
+  "DateLastModified": "20170711020719641",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\odd-rounding-1.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Emulation of a FMA and correctly-rounded sums: proved algorithms using rounding to odd",
+  "AuthorsSuggested": "Sylvie Boldo, Guillaume Melquiond",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+C3DC1D6E5B83B4E09D48E3B7E32C1B64CFE7373D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F01468A7947E373E97D67AF91BE1252792A13D|metadata|A41EF27773E6D636EA68A3D9509E309A|{
+  "FileType": "pdf",
+  "Fingerprint": "F01468A7947E373E97D67AF91BE1252792A13D",
+  "DateAddedToDatabase": "20170711020535066",
+  "DateLastModified": "20170711020535066",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\iir.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Roundoff Noise in IIR DigitalFilters"
+}|NULL
+F01468A7947E373E97D67AF91BE1252792A13D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EC4229772E9E9EF4787342FD9FD1C4E358E132|metadata|18C8860D7C3990E352B33092F4607388|{
+  "FileType": "pdf",
+  "Fingerprint": "EC4229772E9E9EF4787342FD9FD1C4E358E132",
+  "DateAddedToDatabase": "20170711020719541",
+  "DateLastModified": "20170711020719541",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-01\\notes09-largefont.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Computer Science Tripos  Part IB  Compiler Construction"
+}|NULL
+EC4229772E9E9EF4787342FD9FD1C4E358E132|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F8B179AE3C5FD8E5B3B6193B19D42AD55F4FF|metadata|0E20BC7C8ADF4C13BDFD5071589758D2|{
+  "FileType": "pdf",
+  "Fingerprint": "F8B179AE3C5FD8E5B3B6193B19D42AD55F4FF",
+  "DateAddedToDatabase": "20170711020513618",
+  "DateLastModified": "20170711020513618",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\L\\Lebl 2013 - Ordinary differential equations.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Chapter 7  Ordinary Differential Equations"
+}|NULL
+F8B179AE3C5FD8E5B3B6193B19D42AD55F4FF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F9F883873990192D1486EE2DC12EE6B853E1010|metadata|9B823EAFE052CF5D7DBBD3F1FF0B495D|{
+  "FileType": "pdf",
+  "Fingerprint": "F9F883873990192D1486EE2DC12EE6B853E1010",
+  "DateAddedToDatabase": "20170711020513080",
+  "DateLastModified": "20170711020513080",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\K\\King - Effective Algorithms for the Satisfiability of Quantifier-Free Formulas Over Linear Real and Integer Arithmetic.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Effective Algorithms for the Satisfiability of Quantifier-Free  Formulas Over Linear Real and Integer Arithmetic"
+}|NULL
+F9F883873990192D1486EE2DC12EE6B853E1010|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+21776D4BC419FCF1DA565510C727B58D46289DF8|metadata|1F4EE986D4731904185CFD47C6AF090A|{
+  "FileType": "pdf",
+  "Fingerprint": "21776D4BC419FCF1DA565510C727B58D46289DF8",
+  "DateAddedToDatabase": "20170711020757609",
+  "DateLastModified": "20170711020757609",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Segment_intersection.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "marina",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Reliable line segment intersection testing"
+}|NULL
+21776D4BC419FCF1DA565510C727B58D46289DF8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+352028B18C9CD4545BFEBF87A4BC92E9F0ADB677|metadata|9803AE7E62E38C9190B2FD2EE339E292|{
+  "FileType": "pdf",
+  "Fingerprint": "352028B18C9CD4545BFEBF87A4BC92E9F0ADB677",
+  "DateAddedToDatabase": "20170711020427926",
+  "DateLastModified": "20170711020427926",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\interval.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Interval Arithmetic, Extended Numbers and Computer Algebra  Systems"
+}|NULL
+352028B18C9CD4545BFEBF87A4BC92E9F0ADB677|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5A5BB2BA52811F35FEBFFECABA7783211A5C9F8|metadata|46AEADF55A2D4C0C0E77C3ED738767D4|{
+  "FileType": "pdf",
+  "Fingerprint": "5A5BB2BA52811F35FEBFFECABA7783211A5C9F8",
+  "DateAddedToDatabase": "20170711020437189",
+  "DateLastModified": "20170711020437189",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\NMF-slides.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Methods in Finance  Manfred Gilli"
+}|NULL
+5A5BB2BA52811F35FEBFFECABA7783211A5C9F8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+70607523AED96B232DBD9609E9EF4C548ACEAC6|metadata|CAD9A9A0DFEE9895D1D0088734E74A02|{
+  "FileType": "pdf",
+  "Fingerprint": "70607523AED96B232DBD9609E9EF4C548ACEAC6",
+  "DateAddedToDatabase": "20170711020438025",
+  "DateLastModified": "20170711020438025",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Numerical_Analysis_Scilab_Error.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AuthorsSuggested": "Anna Bassi",
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "NUMERICAL ANALYSIS USING SCILAB:"
+}|NULL
+70607523AED96B232DBD9609E9EF4C548ACEAC6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+26956796D61A1495A124DC794C1E123B2DB6FEE|metadata|850059C3ACA3B086FA8C0087C6607106|{
+  "FileType": "pdf",
+  "Fingerprint": "26956796D61A1495A124DC794C1E123B2DB6FEE",
+  "DateAddedToDatabase": "20170711020354523",
+  "DateLastModified": "20170711020354523",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\6796d61a1495a1024dc794c1e123b2db6fee.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Standardization and Testing of Mathematical  Functions"
+}|NULL
+26956796D61A1495A124DC794C1E123B2DB6FEE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+591393EA75D69D8CF8CBC567AE45B9EB21AE2E0|metadata|D265A35AD7058303117E39BDCE83BEA6|{
+  "FileType": "pdf",
+  "Fingerprint": "591393EA75D69D8CF8CBC567AE45B9EB21AE2E0",
+  "DateAddedToDatabase": "20170711020437964",
+  "DateLastModified": "20170711020437964",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\NSV-3-Nguyen-Revol.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Certification of a Numerical Result: Use of  Interval Arithmetic and Multiple Precision"
+}|NULL
+591393EA75D69D8CF8CBC567AE45B9EB21AE2E0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+3A729081DD97642BFB25F362D9BA74DAAA2CE0|metadata|6E8FEE67E942E462C03EB2B7D5E87D91|{
+  "FileType": "pdf",
+  "Fingerprint": "3A729081DD97642BFB25F362D9BA74DAAA2CE0",
+  "DateAddedToDatabase": "20170711020358979",
+  "DateLastModified": "20170711020358979",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\aharoni-DecimalConstraints.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "totheverificationofhardware-andsoftware-baseddesigns.The verification process normally emphasizes intricate cor-"
+}|NULL
+3A729081DD97642BFB25F362D9BA74DAAA2CE0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F54DC41C0FA558B8CF1A74BCB2280A8C1B185D0|metadata|0A36BEC4981C42CD286372257EAEACA9|{
+  "FileType": "pdf",
+  "Fingerprint": "F54DC41C0FA558B8CF1A74BCB2280A8C1B185D0",
+  "DateAddedToDatabase": "20170711020751838",
+  "DateLastModified": "20170711020751838",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Kiusalaas-NumMethodsEngineerMATLAB-CambUnivPress2005.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "NUMERICAL METHODS IN ENGINEERING WITH MATLAB",
+  "AuthorsSuggested": "Jaan Kiusalaas",
+  "YearSuggested": "2005",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F54DC41C0FA558B8CF1A74BCB2280A8C1B185D0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E4E1E15F2F6DA32ED1D08DAA95DD6CDA9A53F|metadata|DA700AA90CB2CCCC66349CA5DE3EFC9A|{
+  "FileType": "pdf",
+  "Fingerprint": "E4E1E15F2F6DA32ED1D08DAA95DD6CDA9A53F",
+  "DateAddedToDatabase": "20170711020441178",
+  "DateLastModified": "20170711020441178",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\proc123506.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Numerical Verification of Industrial Numerical Codes",
+  "AuthorsSuggested": "Denis Christophe, Montan Sethy",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+E4E1E15F2F6DA32ED1D08DAA95DD6CDA9A53F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B296EA2ABC66231760DAA8B9F7F49EEA79AC8D7E|metadata|4F9C6326C909AEC38DA7EA306CD60660|{
+  "FileType": "pdf",
+  "Fingerprint": "B296EA2ABC66231760DAA8B9F7F49EEA79AC8D7E",
+  "DateAddedToDatabase": "20170711020351080",
+  "DateLastModified": "20170711020351080",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\227.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "ON THE STABILITY OF RECURSIVE FORMULAS",
+  "AuthorsSuggested": "HARRY H. PANJER AND SHAUN WANG",
+  "YearSuggested": "2000",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B296EA2ABC66231760DAA8B9F7F49EEA79AC8D7E|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CE669C8651E43AB6C77FAFC8231C870ADEBF4D0|metadata|C6CC1523323FF961B2C77164A0A3190F|{
+  "FileType": "pdf",
+  "Fingerprint": "CE669C8651E43AB6C77FAFC8231C870ADEBF4D0",
+  "DateAddedToDatabase": "20170711020429230",
+  "DateLastModified": "20170711020429230",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\JiangStewart11page.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Backward error analysis in  computational geometry"
+}|NULL
+CE669C8651E43AB6C77FAFC8231C870ADEBF4D0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FBEFCCBE4C6DA72B3439BB509D3D863F9C3D4D|metadata|FA786C8486360C8A560BDDD33D8FF9A1|{
+  "FileType": "pdf",
+  "Fingerprint": "FBEFCCBE4C6DA72B3439BB509D3D863F9C3D4D",
+  "DateAddedToDatabase": "20170711020528116",
+  "DateLastModified": "20170711020528116",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\S\\Stoutemyer 2012 - Ways to implement computer algebra compactly.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Ways to implement computer algebra compactly"
+}|NULL
+FBEFCCBE4C6DA72B3439BB509D3D863F9C3D4D|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+2E941B5C632C18B24F45CC1A2D3C94B387F5ED7A|metadata|7D33517290641F6EE33686729EC48598|{
+  "FileType": "pdf",
+  "Fingerprint": "2E941B5C632C18B24F45CC1A2D3C94B387F5ED7A",
+  "DateAddedToDatabase": "20170711020357795",
+  "DateLastModified": "20170711020357795",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\abstract.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Block Computations for Interval Arithmetic and Verified  Numerical Computations for Linear Systems"
+}|NULL
+2E941B5C632C18B24F45CC1A2D3C94B387F5ED7A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+CC2736B0591F953AC329264991BFFF9F67F6B97|metadata|48B2C661CCB016B3204B824A8104A22C|{
+  "FileType": "pdf",
+  "Fingerprint": "CC2736B0591F953AC329264991BFFF9F67F6B97",
+  "DateAddedToDatabase": "20170711020428969",
+  "DateLastModified": "20170711020428969",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\James-MC.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Monte Carlo theory and practice"
+}|NULL
+CC2736B0591F953AC329264991BFFF9F67F6B97|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B5C163ACDFCAB6534BC41C8094E37C51294C9DC3|metadata|D445DA82521846EDE3AB30FF286E11E9|{
+  "FileType": "pdf",
+  "Fingerprint": "B5C163ACDFCAB6534BC41C8094E37C51294C9DC3",
+  "DateAddedToDatabase": "20170711020424571",
+  "DateLastModified": "20170711020424571",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Hickey_interval.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2004",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Interval Arithmetic: from Principles to Implementation  T. Hickey, Q. Ju"
+}|NULL
+B5C163ACDFCAB6534BC41C8094E37C51294C9DC3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+FFE8422374F535E75E9537AC3B2E4BF5106EFE|metadata|D003F53B64A1A8E7B1182D304F03965E|{
+  "FileType": "pdf",
+  "Fingerprint": "FFE8422374F535E75E9537AC3B2E4BF5106EFE",
+  "DateAddedToDatabase": "20170711020454867",
+  "DateLastModified": "20170711020454867",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Xu_P_JCP_99.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Assessment of Numerical Accuracy\rof PDF/Monte Carlo Methods\rfor Turbulent Reacting Flows",
+  "YearSuggested": "1999",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+FFE8422374F535E75E9537AC3B2E4BF5106EFE|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+EF144C971BE31467614AFB3BEAAFAA47F498EDD5|metadata|342ED303ECB21B827D2B1B1DAB0BF6D0|{
+  "FileType": "pdf",
+  "Fingerprint": "EF144C971BE31467614AFB3BEAAFAA47F498EDD5",
+  "DateAddedToDatabase": "20170806150433709",
+  "DateLastModified": "20170806150433709",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\An Introduction to Programming and Numerical Methods in MATLAB - S.R. Otto & J.P. Denier.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "An Introduction to Programming  and Numerical Methods in MATLAB"
+}|NULL
+EF144C971BE31467614AFB3BEAAFAA47F498EDD5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F23278F51E2A27FA58B09F814CD1A5BD2059674|metadata|DF485CD36F09DDBE824E5ADB195A58A0|{
+  "FileType": "pdf",
+  "Fingerprint": "F23278F51E2A27FA58B09F814CD1A5BD2059674",
+  "DateAddedToDatabase": "20170711020527383",
+  "DateLastModified": "20170711020527383",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\S\\Schirra and Stefan - How Reliable Are Practical Point-in-Polygon Strategies.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "How Reliable are Practical  Point-in-Polygon Strategies?⋆"
+}|NULL
+F23278F51E2A27FA58B09F814CD1A5BD2059674|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C4E668651552D5A3F293CC40DDE4F56E2839FBE8|metadata|5CF9033BB37B634FA1AB157C8CC75B19|{
+  "FileType": "pdf",
+  "Fingerprint": "C4E668651552D5A3F293CC40DDE4F56E2839FBE8",
+  "DateAddedToDatabase": "20170711020744169",
+  "DateLastModified": "20170711020744169",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\417569.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Improving accuracy for matrix  multiplications on GPUs"
+}|NULL
+C4E668651552D5A3F293CC40DDE4F56E2839FBE8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+7954D262A2DB7F19F6BAC62C5BDFEB9B29A050|metadata|89C7582C4C3BE98BBB3D00551E2DAF23|{
+  "FileType": "pdf",
+  "Fingerprint": "7954D262A2DB7F19F6BAC62C5BDFEB9B29A050",
+  "DateAddedToDatabase": "20170711020441605",
+  "DateLastModified": "20170711020441605",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\PS-2011-175.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A basic theory of Benford's Law",
+  "AuthorsSuggested": "Arno Berger and Theodore P. Hill",
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+7954D262A2DB7F19F6BAC62C5BDFEB9B29A050|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B09817294D3B811F337271C5675D99B99A6933|metadata|0D6A86461A61E4772DC765265A52BECF|{
+  "FileType": "pdf",
+  "Fingerprint": "B09817294D3B811F337271C5675D99B99A6933",
+  "DateAddedToDatabase": "20170711020446988",
+  "DateLastModified": "20170711020446988",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\sttt13-filter_verification.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2013",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "A Bit Too Precise? Verification of Quantized Digital Filters?"
+}|NULL
+B09817294D3B811F337271C5675D99B99A6933|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E9BD8865DDB7C7AF2B159D413115050D8E5D297|metadata|0AFE222EA979AD7477ED73C9BD988EA2|{
+  "FileType": "pdf",
+  "Fingerprint": "E9BD8865DDB7C7AF2B159D413115050D8E5D297",
+  "DateAddedToDatabase": "20170711020751242",
+  "DateLastModified": "20170711020751242",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Hormann.2001.TPI.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2003",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "The Point in Polygon Problem  for Arbitrary Polygons"
+}|NULL
+E9BD8865DDB7C7AF2B159D413115050D8E5D297|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E57757729E6E1AA16D41264726DCD2B7AFBF7D0|metadata|8F02CD3C303322C014037B2259CBE677|{
+  "FileType": "pdf",
+  "Fingerprint": "E57757729E6E1AA16D41264726DCD2B7AFBF7D0",
+  "DateAddedToDatabase": "20170806150539644",
+  "DateLastModified": "20170806150539644",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Robotics and Mechatronics\\The Numerical Solution of Systems of Polynomials.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2007",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "The Numerical Solution  of Systems of Polynomials"
+}|NULL
+E57757729E6E1AA16D41264726DCD2B7AFBF7D0|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+36E824B28766761716DCD1B44F4B6D22F54DAF9|metadata|C17FB2A1445069E26F889F73983A313D|{
+  "FileType": "pdf",
+  "Fingerprint": "36E824B28766761716DCD1B44F4B6D22F54DAF9",
+  "DateAddedToDatabase": "20170711020431929",
+  "DateLastModified": "20170711020431929",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\lec8-hit-2009.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Monte Carlo Integration"
+}|NULL
+36E824B28766761716DCD1B44F4B6D22F54DAF9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+ABC1409590E0DC197F4E9A53B45324ACBAD7F946|metadata|D84D837A1F1910155E7E93EBE2C0021A|{
+  "FileType": "pdf",
+  "Fingerprint": "ABC1409590E0DC197F4E9A53B45324ACBAD7F946",
+  "DateAddedToDatabase": "20170711020757226",
+  "DateLastModified": "20170711020757226",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\recipes.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Financial Numerical Recipes in C++."
+}|NULL
+ABC1409590E0DC197F4E9A53B45324ACBAD7F946|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F61A6C07C203D1FF79936FB6630A7C5232D53|metadata|023FB563883F364E7C27000248929B07|{
+  "FileType": "pdf",
+  "Fingerprint": "F61A6C07C203D1FF79936FB6630A7C5232D53",
+  "DateAddedToDatabase": "20170711020525808",
+  "DateLastModified": "20170711020525808",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\P\\Pasko et al. - Optimization method for broadband modem FIR filter design using common subexpression elimination.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+F61A6C07C203D1FF79936FB6630A7C5232D53|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+D061E1EA94290904E2CB20EED66E7F47E4BAB|metadata|87B46A1CD02E112F26C1A1EA0ABF21F5|{
+  "FileType": "pdf",
+  "Fingerprint": "D061E1EA94290904E2CB20EED66E7F47E4BAB",
+  "DateAddedToDatabase": "20170806150316305",
+  "DateLastModified": "20170806150316305",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Estimation\\GPS, INS, Integration\\Chap08.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "\"Kalman Filter Engineering\". In: Global Positioning Systems, Inertial Navigation, and Integration",
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+D061E1EA94290904E2CB20EED66E7F47E4BAB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+ADA15CDBE22614D2A5257598BD603C632D29A017|metadata|28981BD57525C857589C2CDB21C19F41|{
+  "FileType": "pdf",
+  "Fingerprint": "ADA15CDBE22614D2A5257598BD603C632D29A017",
+  "DateAddedToDatabase": "20170806150439472",
+  "DateLastModified": "20170806150439472",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Matlab\\Kalman Filtering Theory and Practice Using MATLAB - Grewal and Andrews.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "~ Kalman Filtering"
+}|NULL
+ADA15CDBE22614D2A5257598BD603C632D29A017|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+49C6465DDF88A23BB7B884AC644BBAB4B327AF41|metadata|FB49DD2F9AB5F6E8F64CE63F93F4DDF8|{
+  "FileType": "pdf",
+  "Fingerprint": "49C6465DDF88A23BB7B884AC644BBAB4B327AF41",
+  "DateAddedToDatabase": "20170806150316964",
+  "DateLastModified": "20170806150316964",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Estimation\\Kalamn Filtering\\Chap07.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "\"Practical Considerations\". In: Kalman Filtering (Second Edition)",
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+49C6465DDF88A23BB7B884AC644BBAB4B327AF41|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+C97C5F9AEC84D0BF5793498D78207C44939D9E6A|metadata|E20E5B6A182ABC0EA6627DAD9E7B65CF|{
+  "FileType": "pdf",
+  "Fingerprint": "C97C5F9AEC84D0BF5793498D78207C44939D9E6A",
+  "DateAddedToDatabase": "20170806150241901",
+  "DateLastModified": "20170806150241901",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Aerospace\\Wiley & Sons - Global Positioning Systems, Inertial Navigation and Integration.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+C97C5F9AEC84D0BF5793498D78207C44939D9E6A|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+6572BE20C47B282BAC3D9CB6DE9C6B34FCBDC8|metadata|3F6825339F1142FAED2E01680E1A80B5|{
+  "FileType": "pdf",
+  "Fingerprint": "6572BE20C47B282BAC3D9CB6DE9C6B34FCBDC8",
+  "DateAddedToDatabase": "20170711020409102",
+  "DateLastModified": "20170711020409102",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Conditioning_and_FLOPS.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2012",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "1 Backward and Forward Error"
+}|NULL
+6572BE20C47B282BAC3D9CB6DE9C6B34FCBDC8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+88C9E89FF64EE8B9939474F7D04CADC5F4EF6B|metadata|3AC86B9609300CCD209A41E333150781|{
+  "FileType": "pdf",
+  "Fingerprint": "88C9E89FF64EE8B9939474F7D04CADC5F4EF6B",
+  "DateAddedToDatabase": "20170711020533954",
+  "DateLastModified": "20170711020533954",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\control.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Chapter 17 Roundoff Noise in Digital  Feedback Control Systems"
+}|NULL
+88C9E89FF64EE8B9939474F7D04CADC5F4EF6B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DAA2C527A4CA1BE59D643EFBD57F495AFF7A41|metadata|4B806B400A9A2E2126268A32FEAAACE6|{
+  "FileType": "pdf",
+  "Fingerprint": "DAA2C527A4CA1BE59D643EFBD57F495AFF7A41",
+  "DateAddedToDatabase": "20170711020743888",
+  "DateLastModified": "20170711020743888",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\20160010026.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Algorithms for Collision Detection Between a Point  and a Moving Polygon, with Applications to Aircraft  Weather Avoidance"
+}|NULL
+DAA2C527A4CA1BE59D643EFBD57F495AFF7A41|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5ED671FA14CF147123583062BF9477FE2668FB2|metadata|C898950118A99C2EC581B5C1D4C882B3|{
+  "FileType": "pdf",
+  "Fingerprint": "5ED671FA14CF147123583062BF9477FE2668FB2",
+  "DateAddedToDatabase": "20170711020410310",
+  "DateLastModified": "20170711020410310",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\DavidFCCM10.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2010",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Automated Precision Analysis: A Polynomial Algebraic Approach"
+}|NULL
+5ED671FA14CF147123583062BF9477FE2668FB2|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8D66544E43E877B17C8EE56A1AD90FBB2BAB4F3|metadata|2BB05EB9DAC8F30938B5CE4ED783D2C8|{
+  "FileType": "pdf",
+  "Fingerprint": "8D66544E43E877B17C8EE56A1AD90FBB2BAB4F3",
+  "DateAddedToDatabase": "20170711020543816",
+  "DateLastModified": "20170711020543816",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\scientific-comp.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Roundoff Noise in Scientific  Computations"
+}|NULL
+8D66544E43E877B17C8EE56A1AD90FBB2BAB4F3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B019B31845A8827F235F1A595328487496286C8|metadata|0534C0B53301A558284FA760031AC176|{
+  "FileType": "pdf",
+  "Fingerprint": "B019B31845A8827F235F1A595328487496286C8",
+  "DateAddedToDatabase": "20170711020417555",
+  "DateLastModified": "20170711020417555",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\evolution_pdes_lnotes.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2011",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Numerical Methods for the Solution of Partial  Differential Equations"
+}|NULL
+B019B31845A8827F235F1A595328487496286C8|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+4E8DBC80EA372AD063FD43B29DC311699FB17795|metadata|C3D25D6EE352DEE85E8EA1CDE76EB538|{
+  "FileType": "pdf",
+  "Fingerprint": "4E8DBC80EA372AD063FD43B29DC311699FB17795",
+  "DateAddedToDatabase": "20170711020546218",
+  "DateLastModified": "20170711020546218",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-oct\\CP_Handbook-20060315-final (1).pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2006",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Handbook of Constraint Programming"
+}|NULL
+4E8DBC80EA372AD063FD43B29DC311699FB17795|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F34748A562DABAE787EFEBE92FE845B8CBD668B|metadata|E18EE4C0AB251A7528C0BAF87A663C69|{
+  "FileType": "pdf",
+  "Fingerprint": "F34748A562DABAE787EFEBE92FE845B8CBD668B",
+  "DateAddedToDatabase": "20170711020508528",
+  "DateLastModified": "20170711020508528",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\D\\Dewey - Error sentinel - A Rule-based spreadsheet program for intelligent data entry, error correction, and curation.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Error sentinel: A Rule-based spreadsheet program for intelligent data entry, error correction, and curation",
+  "AuthorsSuggested": "Kyle Dewey",
+  "YearSuggested": "2014",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F34748A562DABAE787EFEBE92FE845B8CBD668B|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F0A5C1B434882D4F1863B8DAD6FD84571ECB|metadata|EA7C5C6A5BE68CB59729BD8498B425F5|{
+  "FileType": "pdf",
+  "Fingerprint": "F0A5C1B434882D4F1863B8DAD6FD84571ECB",
+  "DateAddedToDatabase": "20170806150316936",
+  "DateLastModified": "20170806150316936",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Estimation\\Kalamn Filtering\\Chap06.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "\"Implementation Methods\". In: Kalman Filtering (Second Edition)",
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+F0A5C1B434882D4F1863B8DAD6FD84571ECB|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+5BCD3478E1D4AFC3268C4C19CADF8B6379AB495|metadata|A18E30BD81EBC4F9D438E807FC08F520|{
+  "FileType": "pdf",
+  "Fingerprint": "5BCD3478E1D4AFC3268C4C19CADF8B6379AB495",
+  "DateAddedToDatabase": "20170711020757077",
+  "DateLastModified": "20170711020757077",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\Principles_of_Compilers__A_New_Approach_to_Compilers_Including_the_Algebraic_Method.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Principles of Compilers: A New Approach to Compilers Including the Algebraic Method",
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+5BCD3478E1D4AFC3268C4C19CADF8B6379AB495|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F3AF368AC3D8FAE2FBDBD0D246B8623F016E8AC|metadata|1C70CC589D64F75C1A5BD0C68634E317|{
+  "FileType": "pdf",
+  "Fingerprint": "F3AF368AC3D8FAE2FBDBD0D246B8623F016E8AC",
+  "DateAddedToDatabase": "20170711020744581",
+  "DateLastModified": "20170711020744581",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\A simple demonstration of chaos and unreliability of computer models _ Watts Up With That_.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+F3AF368AC3D8FAE2FBDBD0D246B8623F016E8AC|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+521DF382368D23378BCC1D66BC0C69E69366C91|metadata|230AB1BCF93CF7F5A11391DB40AEF323|{
+  "FileType": "pdf",
+  "Fingerprint": "521DF382368D23378BCC1D66BC0C69E69366C91",
+  "DateAddedToDatabase": "20170711020755196",
+  "DateLastModified": "20170711020755196",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\On the Numerical Stability and Accuracy of the Conventional Recursive Least Squares Algorithm.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "On the Numerical Stability and Accuracy of the Conventional Recursive Least Squares Algorithm - Signal Processing, IEEE Transactions on",
+  "AuthorsSuggested": "IEEE",
+  "YearSuggested": "1999",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+521DF382368D23378BCC1D66BC0C69E69366C91|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+435C29F11F1B38A4278EC1EAF3903CE23C77B6|metadata|786AACB4B08A98B4E5A5C237E40BEEE5|{
+  "FileType": "pdf",
+  "Fingerprint": "435C29F11F1B38A4278EC1EAF3903CE23C77B6",
+  "DateAddedToDatabase": "20170711013106972",
+  "DateLastModified": "20170711013106972",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\!R&D - theory\\numbeast.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "NumBeast",
+  "YearSuggested": "2016",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+435C29F11F1B38A4278EC1EAF3903CE23C77B6|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+F00223D79F2CFFC945A86F86CF08D841724461F|metadata|0BAA7FF75C30C714DFFD88E30937CEA3|{
+  "FileType": "pdf",
+  "Fingerprint": "F00223D79F2CFFC945A86F86CF08D841724461F",
+  "DateAddedToDatabase": "20170711020527945",
+  "DateLastModified": "20170711020527945",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Paperpile - All Papers\\S\\Snoeyink - The Arithmetic Precision of Ray-Polygon Intersection Testing.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "The Arithmetic Precision of Ray-Polygon Intersection Testing"
+}|NULL
+F00223D79F2CFFC945A86F86CF08D841724461F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8EF325EE7884A967FAD6D8C4A0D6E27AFCAD67ED|metadata|5CFADD6F7360B904F48A526BBC0F66B1|{
+  "FileType": "pdf",
+  "Fingerprint": "8EF325EE7884A967FAD6D8C4A0D6E27AFCAD67ED",
+  "DateAddedToDatabase": "20170711020738280",
+  "DateLastModified": "20170711020738280",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-17\\FULLTEXT01.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Tools and Methods for Analysis, Debugging, and Performance Improvement of Equation-Based Models",
+  "AuthorsSuggested": "Martin Sjölund",
+  "YearSuggested": "2015",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+8EF325EE7884A967FAD6D8C4A0D6E27AFCAD67ED|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DD7088E5D053F5BA8EA79FF2297034A23AE3C3AF|metadata|8F09EBCCC44295E06F51A7B6D5281084|{
+  "FileType": "pdf",
+  "Fingerprint": "DD7088E5D053F5BA8EA79FF2297034A23AE3C3AF",
+  "DateAddedToDatabase": "20170711020434397",
+  "DateLastModified": "20170711020434397",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\me690-lctr-nts.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2017",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "LECTURES on  COMPUTATIONAL NUMERICAL  ANALYSIS of  PARTIAL DIFFERENTIAL EQUATIONS"
+}|NULL
+DD7088E5D053F5BA8EA79FF2297034A23AE3C3AF|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B5AB12E2163C0382520D5BACEEF3F3778383B5|metadata|7E7D387A5FA7BD8580B88FEE87C3E7D8|{
+  "FileType": "pdf",
+  "Fingerprint": "B5AB12E2163C0382520D5BACEEF3F3778383B5",
+  "DateAddedToDatabase": "20170711020435391",
+  "DateLastModified": "20170711020435391",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\Monte Carlo Methods In Financial Engineering.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Financial Engineering"
+}|NULL
+B5AB12E2163C0382520D5BACEEF3F3778383B5|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+8A7E99E46D9259B030EC8C9375D35E45AFEE7647|metadata|14133DA3D66517D5C70862C230941C34|{
+  "FileType": "pdf",
+  "Fingerprint": "8A7E99E46D9259B030EC8C9375D35E45AFEE7647",
+  "DateAddedToDatabase": "20170711013136927",
+  "DateLastModified": "20170711013136927",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\!R&D - theory\\!financial analysis\\robust regression.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true
+}|NULL
+8A7E99E46D9259B030EC8C9375D35E45AFEE7647|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+B794395A19888C3ACD250FA4CCAB9F3D0C114C3|metadata|F76D87AE39FF2F825D7260E89A982EEF|{
+  "FileType": "pdf",
+  "Fingerprint": "B794395A19888C3ACD250FA4CCAB9F3D0C114C3",
+  "DateAddedToDatabase": "20170806150316999",
+  "DateLastModified": "20170806150316999",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Estimation\\Kalamn Filtering\\Chap09.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "\"Appendix B: A Matrix Refresher\". In: Kalman Filtering (Second Edition)",
+  "YearSuggested": "2002",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+B794395A19888C3ACD250FA4CCAB9F3D0C114C3|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A4628B31C60B5E5BF929F612C2D919851B6EB9|metadata|8C39A20C1607E101DF947BD0E6511A75|{
+  "FileType": "pdf",
+  "Fingerprint": "A4628B31C60B5E5BF929F612C2D919851B6EB9",
+  "DateAddedToDatabase": "20170711020753370",
+  "DateLastModified": "20170711020753370",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2017-02-21\\NA_Overview.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2001",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "[11]).With the growth in importance of using computers to carry out numerical pro-"
+}|NULL
+A4628B31C60B5E5BF929F612C2D919851B6EB9|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+93A1955BC281164A6E3D71D4EAD67F5215AAD910|metadata|A7ADECB2AF65B0C26451E4A1A3D10B6D|{
+  "FileType": "pdf",
+  "Fingerprint": "93A1955BC281164A6E3D71D4EAD67F5215AAD910",
+  "DateAddedToDatabase": "20170806150314657",
+  "DateLastModified": "20170806150314657",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\technical ebooks IR - control engineering\\saba.kntu.ac.ir\\eecd\\taghirad\\ebooks\\Control Engineering\\Estimation\\Bayesian Methods\\Recursive Bayesian Estimation, Bergman N, 205p, 1999.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "1999",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Recursive Bayesian Estimation"
+}|NULL
+93A1955BC281164A6E3D71D4EAD67F5215AAD910|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+59FC2DA41F7485C644C1E25DA7E251FC679920C7|metadata|9F88EA299635C44D4A144FA86A741637|{
+  "FileType": "pdf",
+  "Fingerprint": "59FC2DA41F7485C644C1E25DA7E251FC679920C7",
+  "DateAddedToDatabase": "20170711020350981",
+  "DateLastModified": "20170711020350981",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\202_2009_Accelerating-Scientific-Computations-with-Mixed-Precision-Algorithms.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "Accelerating scientific computations with mixed precision algorithms",
+  "AuthorsSuggested": "Marc Baboulin; Alfredo Buttari; Jack Dongarra; Jakub Kurzak; Julie Langou; Julien Langou; Piotr Luszczek; Stanimire Tomov",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+59FC2DA41F7485C644C1E25DA7E251FC679920C7|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+DE2292DA975FAA38E474AFE1699E5A5AFA1F67F|metadata|573C973C1F0220A68773681201EBA4BB|{
+  "FileType": "pdf",
+  "Fingerprint": "DE2292DA975FAA38E474AFE1699E5A5AFA1F67F",
+  "DateAddedToDatabase": "20170711020337924",
+  "DateLastModified": "20170711020337924",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-06-misc\\A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "TitleSuggested": "A Guide to Monte Carlo Simulations in Statistical Physics, Third Edition",
+  "AuthorsSuggested": "David P. Landau and Kurt Binder",
+  "YearSuggested": "2009",
+  "AutoSuggested_BibTeXSearch": true
+}|NULL
+DE2292DA975FAA38E474AFE1699E5A5AFA1F67F|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+E0ECD71F5A53EC4A3968E967B0630839155F717|metadata|61C8CB134A56F5621E0BF87CE3A53C4E|{
+  "FileType": "pdf",
+  "Fingerprint": "E0ECD71F5A53EC4A3968E967B0630839155F717",
+  "DateAddedToDatabase": "20170711020535236",
+  "DateLastModified": "20170711020535236",
+  "DownloadLocation": "W:\\Sopkonijn\\!QIQQA-pdf-watch-dir\\Research.Papers.From.Others\\2016-nov\\_2\\Kolmogorov-Chaitin Complexity Digital Controller Implementation-2006.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null,
+  "AutoSuggested_PDFMetadata": true,
+  "YearSuggested": "2008",
+  "AutoSuggested_BibTeXSearch": true,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Kolmogorov—Clia,itin Complexity of Digital Controller  Implementations"
+}|NULL
+E0ECD71F5A53EC4A3968E967B0630839155F717|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
