@@ -76,7 +76,7 @@ shopt -s globstar
 # viewer.)
 # 
 # SHA1_fingerprint is the SHA1 hash of the related file contents (`DownloadLocation` field
-# in the `info` blob JSON record). This fingerprint is echoes in the `info` JSON blob
+# in the `info` blob JSON record). This fingerprint is echoed in the `info` JSON blob
 # record in the `Fingerprint` field. At the time of this writing, we haven't yet tested
 # what will happen to/with a record where these 'data columns' *differ*.
 # 
