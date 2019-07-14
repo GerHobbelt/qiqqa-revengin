@@ -2,6 +2,9 @@
 
 reverse engineering the data stored by Qiqqa (bibtex database, etc.)
 
+The original goal was to find ways to update/extend the Qiqqa libraries using tools (scripts) external to Qiqqa itself, so as to provide absent features which I needed. Mostly these would concern bulk operations linking PDFs together in groups, updating BibTeX and other metadata for series of PDFs; perform specific analysis on the imported PDF collection and update individual records accordingly, etc...
+
+
 # IMPORTANT UPDATE @ 2019/JULY/14
 
 Qiqqa has now been published as (GPL3 licensed) open source on GitHub at https://github.com/jimmejardine/qiqqa-open-source as announced [here](https://getsatisfaction.com/qiqqa/topics/open-source-qiqqa#reply_20199151).
@@ -14,7 +17,7 @@ Do note that this repo is a bit, ah, "disorganized" in its root directory as thi
 
 Scripts are available to
 
-- DUMP the Qiqqa (BibTeX / metadata) database
+- DUMP the Qiqqa (BibTeX / metadata) database. This spits out the *entire* metadata content, just not what Qiqqa produces via the 'Export' option and **most importantly for me, at least**: this stuff still works when Qiqqa has already b0rked and is crashing repeatedly on the given library. [^note1] 
 
 That's probably the most useful part of this work, apart from another script, which 
 
@@ -118,3 +121,4 @@ It has a nice format like this because that's what happens when you hand-edit a 
  
  -------------------------------------------------------------------------------------
  
+[^note1]: I've had many Qiqqa re-installs and re-imports of entire libraries over the years :cry: and the inability of Qiqqa to recover from a given library without losing at least part of the data is disheartening. (Of course, I could have run a backup/export every day, but that would mean another long-running task and severe storage requirements...)
