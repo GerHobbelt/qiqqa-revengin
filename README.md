@@ -4,7 +4,7 @@ reverse engineering the data stored by Qiqqa (bibtex database, etc.)
 
 # IMPORTANT UPDATE @ 2019/JULY/14
 
-Qiqqa has now been published as (GPL3 licensed) open source on GitHub at https://github.com/jimmejardine/qiqqa-open-source
+Qiqqa has now been published as (GPL3 licensed) open source on GitHub at https://github.com/jimmejardine/qiqqa-open-source as announced [here](https://getsatisfaction.com/qiqqa/topics/open-source-qiqqa#reply_20199151).
 
 This (private) reverse engineering work done in the years past is now public.
 
