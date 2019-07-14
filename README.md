@@ -114,7 +114,7 @@ It has a nice format like this because that's what happens when you hand-edit a 
      @comment { BIBTEX_SKIP }
      
  or even *INVALID* BIBTEX data! 
- (Qiqqa versions before 0.79 crashed on some half-baked bibtex-alike entries, such as `@delete()`)
+ (Qiqqa versions before 0.79 crashed on some half-baked bibtex-alike entries, such as `@delete()` - see https://getsatisfaction.com/qiqqa/topics/qiqqa-crash-on-next-startup-after-manual-editing-of-one-or-more-bibtex-records)
  
  -------------------------------------------------------------------------------------
  
