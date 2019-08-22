@@ -25,7 +25,7 @@ if ! test -f $QPDFDIR/qpdf.exe ; then
     exit 1
 fi
 
-XPDFDIR=$TOOLDIR/xpdf-tools-win-4.00/bin64
+XPDFDIR=$TOOLDIR/xpdf-tools-win-4.01.01/bin64
 if ! test -f $XPDFDIR/pdftotext.exe ; then
     echo "### ERROR: TOOLDIR or XPDFDIR not set correctly or PDFTOTEXT binary not installed in the expected spot. Aborting."
     exit 1
