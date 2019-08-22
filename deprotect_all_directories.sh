@@ -19,7 +19,7 @@ TOOLDIR=/d/Qiqqa
 echo "Tools directory: $TOOLDIR"
 
 # qpdf binaries are located in this directory:
-QPDFDIR=$TOOLDIR/qpdf-8.2.1/bin
+QPDFDIR=$TOOLDIR/qpdf-8.4.2/bin
 if ! test -f $QPDFDIR/qpdf.exe ; then
     echo "### ERROR: TOOLDIR or QPDFDIR not set correctly or QPDF binary not installed in the expected spot. Aborting."
     exit 1
