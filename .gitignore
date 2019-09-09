@@ -3,6 +3,17 @@ base
 lib/
 /copied_qiqqa_databases/b1/
 
+# misc files and directories: backup directory for full (live) Qiqqa backups + exports directory for (live) Qiqqa library exports
+/backups/
+/exports/
+/export-library/
+# also ignore combined dump files: these are HUGE and besides: this data is also contained in 
+# the individual databases and dumps already, which *are* included in the repository.
+/qiqqa_database_dump_combined.txt
+/decoded.json5
+
+
+
 # Logs
 logs
 *.log
@@ -64,4 +75,3 @@ typings/
 
 # next.js build output
 .next
-

@@ -1,0 +1,270 @@
+60835FB1D237D8F3ED73653CC9F935FDD7FA16B1|metadata|A1CB2E3420F5227E70CCEAAEE6A6493B|{
+  "FileType": "pdf",
+  "Fingerprint": "60835FB1D237D8F3ED73653CC9F935FDD7FA16B1",
+  "DateAddedToDatabase": "20190826025723546",
+  "DateLastModified": "20190826025723550",
+  "DownloadLocation": "W:\\Users\\Ger\\Projects\\sites\\library.visyond.gov\\80\\lib\\tooling\\qiqqa\\Qiqqa\\bin\\Debug\\The Qiqqa Manual - LOEX.pdf",
+  "BibTex": "@article{qiqqatechmatters\n,\ttitle\t= {TechMatters: “Qiqqa” than you can say Reference Management: A Tool to Organize the Research Process}\n,\tauthor\t= {Krista Graham}\n,\tyear\t= {2014}\n,\tpublication\t= {LOEX Quarterly}\n,\tvolume\t= {40}\n,\tpages\t= {4-6}\n}",
+  "Title": null,
+  "Authors": null,
+  "Year": null,
+  "Tags": "help;manual",
+  "Comments": null,
+  "DateLastRead": "00010101000000000"
+}|NULL
+3752B65FCBD0A227B0A19673F03D3D7D52B58A|metadata|CF1D825D5D9FF14386451897C36BBE22|{
+  "FileType": "pdf",
+  "Fingerprint": "3752B65FCBD0A227B0A19673F03D3D7D52B58A",
+  "DateAddedToDatabase": "20190826025723890",
+  "DateLastModified": "20190826025723890",
+  "DownloadLocation": "W:\\Users\\Ger\\Projects\\sites\\library.visyond.gov\\80\\lib\\tooling\\qiqqa\\Qiqqa\\bin\\Debug\\The Qiqqa Manual.pdf",
+  "BibTex": "@booklet{qiqqa_manual\n,\ttitle\t= {The Qiqqa Manual}\n,\tauthor\t= {The Qiqqa Team,}\n,\tyear\t= {2013}\n}",
+  "Title": null,
+  "Authors": null,
+  "Year": null,
+  "Tags": "help;manual",
+  "Comments": null,
+  "DateLastRead": "20190904013200959",
+  "AutoSuggested_OCRFrontPage": true,
+  "PageLastRead": 1
+}|NULL
+CD431D62E3647D667C8C9783B84AD9467E418F4A|metadata|57AD4516D62FE1050B8C1F995C183012|{
+  "FileType": "pdf",
+  "Fingerprint": "CD431D62E3647D667C8C9783B84AD9467E418F4A",
+  "DateAddedToDatabase": "20190826204350050",
+  "DateLastModified": "20190826204350050",
+  "DownloadLocation": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.49.6383&rep=rep1&type=pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190826205037522",
+  "PageLastRead": 1,
+  "Tags": "",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Checking: Trading Space for Time"
+}|NULL
+387516E27C4B912FE6BEE0CC3FB3418A3E127E4|metadata|9F2B2940C939EF8BA9FFA3E78F759D64|{
+  "FileType": "pdf",
+  "Fingerprint": "387516E27C4B912FE6BEE0CC3FB3418A3E127E4",
+  "DateAddedToDatabase": "20190828001400340",
+  "DateLastModified": "20190828001400340",
+  "DownloadLocation": "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1130&context=cseconfwork",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215808021",
+  "Deleted": false,
+  "Tags": "",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "2009 Regression Model Checking"
+}|NULL
+387516E27C4B912FE6BEE0CC3FB3418A3E127E4|citations|D41D8CD98F00B204E9800998ECF8427E||NULL
+A60F761C7F344BEDB751A269181E920B_REF|metadata|ED64A3797E1552972639A3F4EED65F34|{
+  "FileType": "vanilla_reference",
+  "Fingerprint": "A60F761C7F344BEDB751A269181E920B_REF",
+  "DateAddedToDatabase": "20190831214940795",
+  "DateLastModified": "20190831214940796",
+  "BibTex": null,
+  "Comments": null,
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+0E24EC0BA47280C496DFCCC42971F889165753|metadata|9521630B32471D8354F3CF9AC0FF32A2|{
+  "FileType": "pdf",
+  "Fingerprint": "0E24EC0BA47280C496DFCCC42971F889165753",
+  "DateAddedToDatabase": "20190831215017967",
+  "DateLastModified": "20190831215017967",
+  "DownloadLocation": "https://www.researchgate.net/profile/Bong-Kyu_Byun/publication/222420724_Wetting_Characteristics_of_Insect_Wing_Surfaces/links/5ac6aa490f7e9bcd51931fbe/Wetting-Characteristics-of-Insect-Wing-Surfaces.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215704806",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Wetting Characteristics of Insect Wing Surfaces",
+  "PageLastRead": 1,
+  "Tags": ""
+}|NULL
+21AFB5C1D31B88BCD6F6C15A31B253C25FC4D|metadata|7A716C33C0A57D6A501EEBE783751C18|{
+  "FileType": "pdf",
+  "Fingerprint": "21AFB5C1D31B88BCD6F6C15A31B253C25FC4D",
+  "DateAddedToDatabase": "20190831215018046",
+  "DateLastModified": "20190831215018046",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\2\\21AFB5C1D31B88BCD6F6C15A31B253C25FC4D.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+45BEAD54F11B894555AFB1CAD2A241233CB24F39|metadata|9315AF06E48B20A0C4C80FD160E13CFA|{
+  "FileType": "pdf",
+  "Fingerprint": "45BEAD54F11B894555AFB1CAD2A241233CB24F39",
+  "DateAddedToDatabase": "20190831215018220",
+  "DateLastModified": "20190831215018220",
+  "DownloadLocation": "https://res.mdpi.com/d_attachment/energies/energies-11-02599/article_deploy/energies-11-02599.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "energies ArticlePIDR Sliding Mode Current Control with Online",
+  "DateLastRead": "20190831215428522",
+  "Tags": ""
+}|NULL
+525C28FC94FEFFA95EDE2371AC8721FA1DAF0C4|metadata|BFA77C0E8ADAF475D63B38E1BA86CAF9|{
+  "FileType": "pdf",
+  "Fingerprint": "525C28FC94FEFFA95EDE2371AC8721FA1DAF0C4",
+  "DateAddedToDatabase": "20190831215018266",
+  "DateLastModified": "20190831215018266",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\5\\525C28FC94FEFFA95EDE2371AC8721FA1DAF0C4.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+59A47248DD3871B9E4EF03DDE51465EFC0424D|metadata|8CDA539F96DAB41FC1BE5521D0F0D89F|{
+  "FileType": "pdf",
+  "Fingerprint": "59A47248DD3871B9E4EF03DDE51465EFC0424D",
+  "DateAddedToDatabase": "20190831215018329",
+  "DateLastModified": "20190831215018329",
+  "DownloadLocation": "https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/macau_derivate_00000533/yoko_TPEL2018_2.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Application  Youngjong Ko",
+  "DateLastRead": "20190831215407518",
+  "PageLastRead": 1,
+  "Tags": ""
+}|NULL
+6C55B7C114AEA0D4E45E5E925B26124D09A3364|metadata|1EFC82BF9F046DE0346A555A36407B5C|{
+  "FileType": "pdf",
+  "Fingerprint": "6C55B7C114AEA0D4E45E5E925B26124D09A3364",
+  "DateAddedToDatabase": "20190831215018375",
+  "DateLastModified": "20190831215018375",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\6\\6C55B7C114AEA0D4E45E5E925B26124D09A3364.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Wetting Characteristics of Insect Wing Surfaces",
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+9FA666994DF51CD57C5EBD0F7526DD597A1F34|metadata|4CE3F0A6F2C814A82D4F28C84BA45F99|{
+  "FileType": "pdf",
+  "Fingerprint": "9FA666994DF51CD57C5EBD0F7526DD597A1F34",
+  "DateAddedToDatabase": "20190831215018405",
+  "DateLastModified": "20190831215018405",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\9\\9FA666994DF51CD57C5EBD0F7526DD597A1F34.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "Wetting Characteristics of Insect Wing Surfaces",
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+E54EAB5BD482A34EFEB1DBC41881FD7F4254D2|metadata|4C0A50E3991F81C540CF5028B172B20E|{
+  "FileType": "pdf",
+  "Fingerprint": "E54EAB5BD482A34EFEB1DBC41881FD7F4254D2",
+  "DateAddedToDatabase": "20190831215018442",
+  "DateLastModified": "20190831215018442",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\E\\E54EAB5BD482A34EFEB1DBC41881FD7F4254D2.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+34E9FD668E6CE4176D5D21136414CA6F73DB8CAB|metadata|B204BF8317D26857D5A4D0272AFFD556|{
+  "FileType": "pdf",
+  "Fingerprint": "34E9FD668E6CE4176D5D21136414CA6F73DB8CAB",
+  "DateAddedToDatabase": "20190831215049785",
+  "DateLastModified": "20190831215049785",
+  "DownloadLocation": "https://www.researchgate.net/profile/Bong-Kyu_Byun/publication/222420724_Wetting_Characteristics_of_Insect_Wing_Surfaces/links/5ac6aa490f7e9bcd51931fbe/Wetting-Characteristics-of-Insect-Wing-Surfaces.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215050234",
+  "Tags": ""
+}|NULL
+EDE31FF2DA143BF2ED665741886D706BB5886D|metadata|880D832D11F8897FC31A2346D0AAE867|{
+  "FileType": "pdf",
+  "Fingerprint": "EDE31FF2DA143BF2ED665741886D706BB5886D",
+  "DateAddedToDatabase": "20190831215104689",
+  "DateLastModified": "20190831215104689",
+  "DownloadLocation": "https://www.researchgate.net/profile/Bong-Kyu_Byun/publication/222420724_Wetting_Characteristics_of_Insect_Wing_Surfaces/links/5ac6aa490f7e9bcd51931fbe/Wetting-Characteristics-of-Insect-Wing-Surfaces.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215104740",
+  "PageLastRead": 1,
+  "Tags": ""
+}|NULL
+C489623316F821DC4AF735217D692D62636CF2F|metadata|5DEDBE0E7A75F253C176A2A5CAA1EAD3|{
+  "FileType": "pdf",
+  "Fingerprint": "C489623316F821DC4AF735217D692D62636CF2F",
+  "DateAddedToDatabase": "20190831215705451",
+  "DateLastModified": "20190831215705451",
+  "DownloadLocation": "https://www.researchgate.net/profile/Bong-Kyu_Byun/publication/222420724_Wetting_Characteristics_of_Insect_Wing_Surfaces/links/5ac6aa490f7e9bcd51931fbe/Wetting-Characteristics-of-Insect-Wing-Surfaces.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215705801",
+  "Tags": ""
+}|NULL
+53768CE7C7C1DA4CA8DB0F7E36D6F2C6A5EF37D|metadata|9A92C958F618743E924EBBD0BCE9803F|{
+  "FileType": "pdf",
+  "Fingerprint": "53768CE7C7C1DA4CA8DB0F7E36D6F2C6A5EF37D",
+  "DateAddedToDatabase": "20190831215749756",
+  "DateLastModified": "20190831215749756",
+  "DownloadLocation": "https://projecteuclid.org/download/pdfview_1/euclid.aos/1232115930",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831215749828",
+  "Tags": "",
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "MINIMUM DISTANCE REGRESSION MODEL CHECKING WITH BERKSON MEASUREMENT ERRORS BY HIRA L. KOUL1AND WEIXING SONG Michigan State University and Kansas State University"
+}|NULL
+820B09A46903AD3B0AC329BF71A82AA6C2B47|metadata|B025FC6B7BE8BF6D7402C466B26F6B0E|{
+  "FileType": "pdf",
+  "Fingerprint": "820B09A46903AD3B0AC329BF71A82AA6C2B47",
+  "DateAddedToDatabase": "20190831223855115",
+  "DateLastModified": "20190831223855116",
+  "DownloadLocation": "D:\\Qiqqa\\base\\Guest\\documents\\8\\820B09A46903AD3B0AC329BF71A82AA6C2B47.pdf",
+  "BibTex": "@INPROCEEDINGS{Ross96materializedview,\r\n    author = {Kenneth A. Ross and Divesh Srivastava and S. Sudarshan},\r\n    title = {Materialized view maintenance and integrity constraint checking: Trading space for time},\r\n    booktitle = {},\r\n    year = {1996},\r\n    pages = {447--458}\r\n}",
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "TitleSuggested": "problemoverthespaceofpossibleviewsets?whichincludes theemptyset?? Theoptimizationproblemisharderthan",
+  "Title": null,
+  "Authors": null,
+  "Year": null,
+  "Tags": "",
+  "DateLastRead": null
+}|NULL
+EA72123471722FDA808593152E96EF537FFA1F|metadata|F65327D8432EA8E4BFF4F354EB8AC71D|{
+  "FileType": "pdf",
+  "Fingerprint": "EA72123471722FDA808593152E96EF537FFA1F",
+  "DateAddedToDatabase": "20190831223855242",
+  "DateLastModified": "20190831223855242",
+  "DownloadLocation": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481978/pdf/sensors-15-09986.pdf",
+  "BibTex": null,
+  "Comments": null,
+  "AutoSuggested_OCRFrontPage": true,
+  "DateLastRead": "20190831224040152",
+  "PageLastRead": 1,
+  "Tags": ""
+}|NULL
+CB587D801219A183A4B3591E5E9B5C337B5AD4|metadata|C4851DD21A489B5385DE79038D2568A3|{
+  "FileType": "pdf",
+  "Fingerprint": "CB587D801219A183A4B3591E5E9B5C337B5AD4",
+  "DateAddedToDatabase": "20190831224338761",
+  "DateLastModified": "20190831224338761",
+  "DownloadLocation": "http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=BEB099A90294EA259013F6F9B20480F4?doi=10.1.1.133.404&rep=rep1&type=pdf",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190831224343247",
+  "Tags": ""
+}|NULL
+F68417D91981B5D91F70109D67FDAB3267FB9373|metadata|4B9177D7C6B76E562A471731244BE5CE|{
+  "FileType": "pdf",
+  "Fingerprint": "F68417D91981B5D91F70109D67FDAB3267FB9373",
+  "DateAddedToDatabase": "20190904001331712",
+  "DateLastModified": "20190904001331713",
+  "DownloadLocation": "https://pubs.acs.org/doi/pdf/10.1021/ed1010618?rand=afqslw73",
+  "BibTex": null,
+  "Comments": null,
+  "DateLastRead": "20190904001331766",
+  "Tags": ""
+}|NULL
