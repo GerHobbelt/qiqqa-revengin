@@ -2,6 +2,9 @@
 base
 lib/
 /copied_qiqqa_databases/b1/
+/base-OS/
+/base-backup/
+/evil-base/
 
 # misc files and directories: backup directory for full (live) Qiqqa backups + exports directory for (live) Qiqqa library exports
 /backups/
@@ -75,3 +78,4 @@ typings/
 
 # next.js build output
 .next
+
