@@ -6,6 +6,9 @@ lib/
 /base-backup/
 /evil-base/
 
+/mupdf-1.16.0-windows/HTML/
+
+
 # misc files and directories: backup directory for full (live) Qiqqa backups + exports directory for (live) Qiqqa library exports
 /backups/
 /exports/
